@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  api:
+    build: .
+    container_name: sofvie_api
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./sofvie.db
+      - CSV_PATH=/data/sofvie_safety_dataset.csv
+    volumes:
+      - ./:/app
+      - ./data:/data

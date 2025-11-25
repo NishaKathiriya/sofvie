@@ -1,0 +1,1001 @@
+report_id,timestamp,site,site_type,area,latitude,longitude,shift,worker_id,role,hazard_type,severity,ppe_compliant,near_miss,injury,resolved,time_to_close_hours,risk_score,equipment_id,temperature_c,visibility_m
+RPT10000,2025-08-03 19:07:51.452014,Surface Operations,surface,Conveyor,50.045461,-114.311471,Day,WKR4334,Operator,Equipment Interference,2,True,0,0,True,9.68,51,EQ952,17.3,56.0
+RPT10001,2025-08-12 02:59:51.452014,Surface Operations,surface,Shaft 1,50.053889,-114.288322,Day,WKR5856,Processing Technician,Ground Instability,3,True,0,0,True,25.51,63,,20.0,20.8
+RPT10002,2025-06-25 01:01:51.452014,Mill Complex,processing,Shaft 2,50.212485,-114.186733,Night,WKR7246,Processing Technician,Visibility,5,True,0,0,True,737.5,83,,19.2,41.8
+RPT10003,2025-06-13 01:52:51.452014,Surface Operations,surface,Mill Floor,50.059058,-114.296907,Day,WKR2798,Processing Technician,Equipment Interference,3,True,0,0,False,,54,EQ329,22.0,44.9
+RPT10004,2025-08-21 20:24:51.452014,North Ridge Mine,underground,Mill Floor,50.109703,-114.028047,Day,WKR6262,Engineer,Other,1,True,1,0,True,8.03,45,,27.7,23.1
+RPT10005,2025-09-01 08:58:51.452014,Mill Complex,processing,Maintenance Bay,50.19536,-114.190908,Day,WKR3037,Processing Technician,Equipment Interference,1,True,0,0,True,2.21,41,EQ228,27.6,72.1
+RPT10006,2025-07-15 04:01:51.452014,Surface Operations,surface,Crusher,50.061989,-114.290487,Evening,WKR9089,Operator,Slip/Trip,2,False,0,0,True,7.26,74,,23.0,54.2
+RPT10007,2025-07-17 05:22:51.452014,Surface Operations,surface,Shaft 2,50.04222,-114.304112,Day,WKR5111,Operator,Electrical,3,True,0,0,True,23.84,46,EQ305,22.8,54.8
+RPT10008,2025-10-05 14:47:51.452014,Mill Complex,processing,Shaft 1,50.205332,-114.204866,Evening,WKR5844,Supervisor,Equipment Interference,3,True,0,0,True,24.17,59,EQ139,23.7,86.3
+RPT10009,2025-08-19 15:32:51.452014,Mill Complex,processing,Mill Floor,50.215899,-114.19113,Night,WKR3663,Operator,Visibility,3,True,0,0,False,,86,,20.2,59.9
+RPT10010,2025-08-10 01:51:51.452014,Surface Operations,surface,Shaft 2,50.055353,-114.287249,Day,WKR8652,Operator,Electrical,5,True,0,0,False,,100,EQ701,19.9,52.7
+RPT10011,2025-10-11 00:02:51.452014,Lakeview Shaft,underground,Surface Pit,49.854183,-115.137011,Night,WKR3789,Logistics,Slip/Trip,2,True,0,0,True,18.95,58,,36.4,30.6
+RPT10012,2025-07-31 01:23:51.452014,Lakeview Shaft,underground,Shaft 1,49.857211,-115.128957,Day,WKR8849,Logistics,Ergonomics,4,True,0,0,True,30.01,61,,32.9,11.5
+RPT10013,2025-06-26 05:50:51.452014,North Ridge Mine,underground,Conveyor,50.119784,-114.028997,Day,WKR6789,Engineer,Electrical,1,False,0,0,True,3.12,51,EQ516,30.0,8.3
+RPT10014,2025-07-23 18:55:51.452014,Surface Operations,surface,Loading Bay,50.04834,-114.295196,Day,WKR2773,Operator,Ergonomics,1,True,1,0,True,6.64,53,,19.5,32.5
+RPT10015,2025-11-22 02:20:51.452014,Lakeview Shaft,underground,Loading Bay,49.839575,-115.105012,Night,WKR5444,Maintenance,Chemical,1,False,0,0,True,2.25,46,,31.1,16.7
+RPT10016,2025-07-09 18:18:51.452014,Surface Operations,surface,Maintenance Bay,50.058037,-114.317384,Day,WKR5674,Operator,Slip/Trip,3,True,0,0,False,,91,,21.9,45.3
+RPT10017,2025-09-20 16:16:51.452014,North Ridge Mine,underground,Shaft 2,50.116741,-114.012451,Evening,WKR5423,Operator,Visibility,1,False,0,0,True,8.81,64,,29.0,14.6
+RPT10018,2025-08-20 00:03:51.452014,Surface Operations,surface,Crusher,50.050674,-114.299255,Day,WKR6424,Operator,Ergonomics,2,True,1,0,False,,47,,20.7,54.4
+RPT10019,2025-08-02 12:19:51.452014,Lakeview Shaft,underground,Loading Bay,49.836267,-115.104705,Evening,WKR4273,Geologist,Slip/Trip,2,True,0,0,True,8.02,61,,31.4,-5.0
+RPT10020,2025-10-14 18:11:51.452014,Lakeview Shaft,underground,Shaft 1,49.858749,-115.112352,Day,WKR6036,Operator,Chemical,2,True,0,0,True,9.41,30,,28.9,7.6
+RPT10021,2025-06-10 18:37:51.452014,Mill Complex,processing,Shaft 1,50.188842,-114.199621,Evening,WKR5014,Logistics,Environmental,2,True,0,0,True,5.03,50,,19.7,65.0
+RPT10022,2025-08-19 03:48:51.452014,Lakeview Shaft,underground,Mill Floor,49.845955,-115.125938,Night,WKR9512,Processing Technician,Visibility,3,False,0,0,True,12.07,97,,23.8,11.3
+RPT10023,2025-06-02 18:20:51.452014,Lakeview Shaft,underground,Crusher,49.842561,-115.121949,Night,WKR8386,Operator,Other,1,True,1,0,True,1.54,45,,31.7,27.7
+RPT10024,2025-06-28 02:07:51.452014,North Ridge Mine,underground,Conveyor,50.116333,-114.017546,Day,WKR6475,Operator,Other,1,True,0,0,True,3.38,36,,32.6,17.8
+RPT10025,2025-08-21 13:42:51.452014,Lakeview Shaft,underground,Conveyor,49.834898,-115.130193,Day,WKR8772,Logistics,Other,1,True,0,0,True,7.21,30,,32.6,26.1
+RPT10026,2025-06-15 18:05:51.452014,Lakeview Shaft,underground,Conveyor,49.861076,-115.121414,Evening,WKR3520,Operator,Chemical,2,False,0,0,True,5.91,95,,30.8,4.1
+RPT10027,2025-08-11 15:41:51.452014,Mill Complex,processing,Surface Pit,50.191427,-114.200268,Night,WKR2813,Logistics,Chemical,4,True,0,0,True,40.19,67,,20.8,78.0
+RPT10028,2025-10-23 18:21:51.452014,Surface Operations,surface,Maintenance Bay,50.045328,-114.291249,Night,WKR9152,Safety Officer,Ergonomics,1,True,0,0,False,,46,,23.3,55.2
+RPT10029,2025-07-12 11:13:51.452014,Mill Complex,processing,Crusher,50.198143,-114.196861,Evening,WKR7149,Operator,Other,1,True,0,0,True,14.46,37,,24.9,59.9
+RPT10030,2025-06-16 10:11:51.452014,Lakeview Shaft,underground,Surface Pit,49.84279,-115.143066,Day,WKR8021,Geologist,Visibility,2,True,0,0,False,,69,,27.9,37.1
+RPT10031,2025-05-28 16:29:51.452014,North Ridge Mine,underground,Maintenance Bay,50.133931,-114.007654,Day,WKR9054,Supervisor,Ground Instability,1,True,0,0,False,,51,,27.9,-3.4
+RPT10032,2025-08-02 00:14:51.452014,Lakeview Shaft,underground,Surface Pit,49.840257,-115.119806,Day,WKR9547,Safety Officer,Ergonomics,3,True,0,0,False,,45,,34.7,18.3
+RPT10033,2025-07-24 12:09:51.452014,North Ridge Mine,underground,Loading Bay,50.122877,-114.036581,Night,WKR4869,Logistics,Equipment Interference,3,True,0,0,True,9.58,91,EQ769,29.5,15.5
+RPT10034,2025-10-07 19:12:51.452014,Surface Operations,surface,Shaft 1,50.051148,-114.308217,Day,WKR3867,Operator,Other,3,True,0,0,True,17.11,66,,19.9,64.9
+RPT10035,2025-10-19 08:45:51.452014,Surface Operations,surface,Crusher,50.045618,-114.311216,Evening,WKR9110,Operator,Ground Instability,2,True,1,0,True,6.53,35,,26.6,53.1
+RPT10036,2025-10-24 19:37:51.452014,North Ridge Mine,underground,Shaft 2,50.098211,-114.018718,Night,WKR1152,Engineer,Other,2,True,1,0,True,13.95,52,,29.7,-2.7
+RPT10037,2025-11-17 17:37:51.452014,North Ridge Mine,underground,Maintenance Bay,50.10526,-114.019651,Day,WKR8950,Logistics,Environmental,3,True,0,0,True,19.2,64,,29.4,25.8
+RPT10038,2025-11-02 10:54:51.452014,Mill Complex,processing,Crusher,50.211635,-114.195934,Day,WKR4914,Logistics,Equipment Interference,1,True,1,0,True,6.93,47,EQ914,24.1,49.7
+RPT10039,2025-10-31 23:50:51.452014,North Ridge Mine,underground,Maintenance Bay,50.115686,-114.01525,Night,WKR1751,Operator,Environmental,2,True,0,0,True,7.68,31,,32.9,2.9
+RPT10040,2025-07-25 11:37:51.452014,Mill Complex,processing,Mill Floor,50.203367,-114.189135,Evening,WKR5231,Supervisor,Ergonomics,2,False,1,0,True,8.02,57,,25.0,52.2
+RPT10041,2025-09-07 19:48:51.452014,Surface Operations,surface,Mill Floor,50.063349,-114.309713,Day,WKR8110,Supervisor,Other,2,True,0,0,True,8.14,41,,22.2,48.2
+RPT10042,2025-09-07 15:12:51.452014,Lakeview Shaft,underground,Shaft 1,49.848362,-115.127836,Evening,WKR5655,Maintenance,Fire/Explosion,3,True,0,0,False,,60,EQ423,36.4,-6.3
+RPT10043,2025-08-28 12:23:51.452014,Mill Complex,processing,Conveyor,50.182768,-114.200564,Night,WKR8134,Operator,Slip/Trip,1,True,0,0,True,5.89,49,,20.5,35.0
+RPT10044,2025-08-07 07:51:51.452014,North Ridge Mine,underground,Maintenance Bay,50.09392,-114.018621,Evening,WKR4976,Logistics,Fire/Explosion,1,True,1,0,True,5.48,31,EQ418,24.2,-7.5
+RPT10045,2025-08-17 08:17:51.452014,North Ridge Mine,underground,Shaft 1,50.12954,-114.019651,Evening,WKR8458,Supervisor,Equipment Interference,1,True,0,0,True,6.97,57,EQ252,31.4,-4.4
+RPT10046,2025-06-09 05:06:51.452014,North Ridge Mine,underground,Surface Pit,50.125218,-114.021225,Day,WKR3739,Maintenance,Slip/Trip,1,True,1,0,True,3.25,53,,27.8,4.1
+RPT10047,2025-11-05 04:50:51.452014,Mill Complex,processing,Crusher,50.195631,-114.197897,Evening,WKR7454,Engineer,Equipment Interference,2,False,0,0,False,,96,EQ918,23.4,56.0
+RPT10048,2025-07-08 04:29:51.452014,Surface Operations,surface,Mill Floor,50.056787,-114.313603,Day,WKR9084,Operator,Ground Instability,3,True,0,0,True,27.75,93,,20.3,58.8
+RPT10049,2025-07-31 00:03:51.452014,Mill Complex,processing,Crusher,50.203495,-114.207186,Day,WKR8617,Operator,Environmental,1,True,0,0,False,,35,,19.9,28.9
+RPT10050,2025-08-13 18:26:51.452014,Mill Complex,processing,Shaft 1,50.205882,-114.199831,Night,WKR6895,Safety Officer,Visibility,4,True,0,0,True,119.34,72,,25.9,53.2
+RPT10051,2025-10-19 12:43:51.452014,Surface Operations,surface,Mill Floor,50.058064,-114.317561,Day,WKR8674,Maintenance,Other,3,True,0,0,True,16.28,59,,18.7,58.8
+RPT10052,2025-10-03 21:48:51.452014,North Ridge Mine,underground,Surface Pit,50.097748,-114.044594,Night,WKR7839,Supervisor,Ground Instability,3,True,0,0,True,28.98,56,,32.0,2.6
+RPT10053,2025-07-27 14:04:51.452014,Surface Operations,surface,Shaft 2,50.055105,-114.291926,Day,WKR9103,Engineer,Ground Instability,2,True,1,0,True,11.63,47,,20.9,85.9
+RPT10054,2025-06-09 01:20:51.452014,North Ridge Mine,underground,Surface Pit,50.104029,-114.010014,Night,WKR1343,Processing Technician,Ergonomics,2,False,0,0,False,,63,,22.8,12.2
+RPT10055,2025-07-10 09:12:51.452014,Lakeview Shaft,underground,Mill Floor,49.857112,-115.128532,Day,WKR7839,Supervisor,Other,1,False,0,0,True,6.83,45,,21.8,0.9
+RPT10056,2025-08-29 13:23:51.452014,North Ridge Mine,underground,Surface Pit,50.117978,-113.99629,Evening,WKR4693,Geologist,Other,2,True,0,0,True,9.61,34,,27.0,0.9
+RPT10057,2025-10-26 22:10:51.452014,Surface Operations,surface,Shaft 1,50.045549,-114.303406,Night,WKR9997,Operator,Ergonomics,3,True,0,0,True,17.01,74,,27.1,39.8
+RPT10058,2025-07-30 03:23:51.452014,Surface Operations,surface,Loading Bay,50.044096,-114.290509,Day,WKR9425,Operator,Visibility,2,True,0,0,True,7.66,46,,23.2,62.8
+RPT10059,2025-06-04 15:47:51.452014,Surface Operations,surface,Shaft 1,50.020634,-114.29263,Day,WKR4121,Engineer,Electrical,4,True,0,0,False,,96,EQ600,25.8,74.9
+RPT10060,2025-06-09 12:11:51.452014,Lakeview Shaft,underground,Shaft 2,49.844081,-115.138541,Day,WKR6496,Operator,Equipment Interference,4,True,0,1,True,69.47,95,EQ287,33.1,4.4
+RPT10061,2025-06-12 00:15:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.842144,-115.100483,Day,WKR2562,Maintenance,Equipment Interference,5,True,0,0,True,101.25,64,EQ491,36.6,17.1
+RPT10062,2025-11-14 13:02:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.835922,-115.126864,Day,WKR7103,Safety Officer,Slip/Trip,1,False,0,0,True,2.37,60,,24.2,6.4
+RPT10063,2025-05-28 03:10:51.452014,North Ridge Mine,underground,Loading Bay,50.107118,-114.029269,Day,WKR9236,Maintenance,Ground Instability,1,True,1,0,True,7.09,52,,28.9,25.1
+RPT10064,2025-08-08 23:38:51.452014,Mill Complex,processing,Crusher,50.203802,-114.197743,Night,WKR5475,Operator,Ergonomics,5,True,0,1,True,100.03,100,,26.2,28.8
+RPT10065,2025-10-08 15:50:51.452014,North Ridge Mine,underground,Conveyor,50.112284,-114.013264,Evening,WKR8603,Logistics,Environmental,1,True,1,0,True,8.62,49,,31.3,9.9
+RPT10066,2025-09-30 10:19:51.452014,Surface Operations,surface,Maintenance Bay,50.059485,-114.297694,Night,WKR7968,Engineer,Visibility,4,True,0,0,True,15.5,100,,25.9,62.0
+RPT10067,2025-06-30 02:42:51.452014,Mill Complex,processing,Shaft 1,50.204577,-114.18013,Day,WKR4612,Operator,Other,2,True,1,0,False,,61,,24.8,31.2
+RPT10068,2025-08-29 04:47:51.452014,Surface Operations,surface,Conveyor,50.038178,-114.301436,Evening,WKR6079,Engineer,Ergonomics,1,True,1,0,True,2.42,28,,27.9,56.3
+RPT10069,2025-09-19 14:40:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.862899,-115.125219,Day,WKR8124,Maintenance,Other,4,True,0,0,True,90.61,89,,36.3,15.1
+RPT10070,2025-09-13 08:53:51.452014,Mill Complex,processing,Surface Pit,50.198919,-114.201216,Evening,WKR1293,Maintenance,Chemical,1,False,0,0,True,8.01,40,,25.8,29.3
+RPT10071,2025-08-28 20:09:51.452014,Lakeview Shaft,underground,Mill Floor,49.843271,-115.125565,Evening,WKR8995,Geologist,Equipment Interference,2,True,1,0,True,2.74,55,EQ471,29.3,-4.1
+RPT10072,2025-08-20 11:32:51.452014,North Ridge Mine,underground,Crusher,50.128187,-114.031897,Evening,WKR8578,Engineer,Chemical,2,True,0,0,False,,53,,33.7,5.3
+RPT10073,2025-09-01 04:38:51.452014,Mill Complex,processing,Shaft 1,50.217699,-114.186778,Evening,WKR7472,Operator,Slip/Trip,1,True,1,0,False,,52,,26.2,55.9
+RPT10074,2025-11-02 18:49:51.452014,Surface Operations,surface,Crusher,50.06217,-114.296995,Night,WKR8967,Operator,Environmental,1,True,0,0,False,,45,,21.4,59.0
+RPT10075,2025-11-08 10:18:51.452014,North Ridge Mine,underground,Maintenance Bay,50.125095,-114.021221,Night,WKR4729,Supervisor,Slip/Trip,1,True,1,0,False,,46,,23.9,-4.4
+RPT10076,2025-06-19 01:39:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.844051,-115.120771,Day,WKR8332,Engineer,Other,1,True,0,0,False,,61,,31.3,-4.3
+RPT10077,2025-07-20 06:35:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.845813,-115.120227,Night,WKR1064,Logistics,Visibility,1,True,0,0,True,3.64,68,,31.0,24.5
+RPT10078,2025-06-05 16:39:51.452014,Lakeview Shaft,underground,Shaft 2,49.841483,-115.126291,Night,WKR1949,Geologist,Equipment Interference,3,True,0,0,False,,51,EQ338,28.6,18.0
+RPT10079,2025-07-18 05:15:51.452014,North Ridge Mine,underground,Conveyor,50.107924,-114.031625,Night,WKR9290,Operator,Other,2,True,0,0,True,9.41,47,,29.9,1.0
+RPT10080,2025-06-02 07:15:51.452014,North Ridge Mine,underground,Maintenance Bay,50.105064,-114.006345,Day,WKR4921,Supervisor,Other,2,True,0,0,True,6.02,49,,28.9,23.5
+RPT10081,2025-06-30 07:44:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.849618,-115.129196,Evening,WKR1631,Operator,Fire/Explosion,1,True,0,0,True,1.58,44,EQ333,33.4,-11.7
+RPT10082,2025-09-11 13:23:51.452014,Surface Operations,surface,Surface Pit,50.045839,-114.29491,Day,WKR1720,Operator,Other,3,True,0,0,True,21.08,73,,19.0,50.0
+RPT10083,2025-08-10 21:11:51.452014,North Ridge Mine,underground,Conveyor,50.128484,-114.01012,Evening,WKR4316,Operator,Slip/Trip,1,True,0,0,True,7.3,66,,33.5,10.3
+RPT10084,2025-08-09 16:17:51.452014,North Ridge Mine,underground,Shaft 2,50.118776,-114.026884,Day,WKR7564,Processing Technician,Visibility,5,True,0,0,True,76.71,91,,28.9,35.4
+RPT10085,2025-05-29 05:52:51.452014,Lakeview Shaft,underground,Conveyor,49.862802,-115.124874,Night,WKR1741,Maintenance,Other,2,True,0,0,True,6.85,68,,25.0,3.4
+RPT10086,2025-09-07 15:39:51.452014,Lakeview Shaft,underground,Shaft 2,49.855525,-115.111335,Evening,WKR9006,Logistics,Slip/Trip,1,True,0,0,True,10.8,36,,14.2,11.2
+RPT10087,2025-06-30 13:17:51.452014,Surface Operations,surface,Shaft 2,50.047592,-114.297801,Night,WKR4350,Engineer,Slip/Trip,1,True,0,0,False,,44,,14.0,62.5
+RPT10088,2025-10-02 21:22:51.452014,Mill Complex,processing,Surface Pit,50.221801,-114.203142,Day,WKR3445,Operator,Other,2,True,0,0,True,5.92,66,,22.8,42.7
+RPT10089,2025-06-11 15:25:51.452014,Surface Operations,surface,Shaft 2,50.050844,-114.304052,Night,WKR5815,Supervisor,Ground Instability,4,True,0,0,False,,67,,21.1,59.6
+RPT10090,2025-11-21 00:29:51.452014,North Ridge Mine,underground,Crusher,50.117028,-114.014799,Night,WKR2386,Supervisor,Other,1,True,1,0,True,3.25,30,,32.6,16.8
+RPT10091,2025-08-13 13:38:51.452014,Lakeview Shaft,underground,Conveyor,49.845174,-115.128821,Day,WKR9947,Maintenance,Environmental,3,True,0,0,True,7.56,73,,26.9,3.6
+RPT10092,2025-10-02 14:55:51.452014,Lakeview Shaft,underground,Shaft 2,49.842979,-115.119461,Day,WKR4126,Operator,Electrical,3,True,0,0,True,26.65,66,EQ556,33.1,23.6
+RPT10093,2025-11-05 12:44:51.452014,Surface Operations,surface,Conveyor,50.031704,-114.294336,Night,WKR3229,Processing Technician,Ergonomics,1,True,0,0,False,,77,,27.4,61.8
+RPT10094,2025-10-12 23:38:51.452014,Mill Complex,processing,Surface Pit,50.192698,-114.212482,Day,WKR4767,Operator,Slip/Trip,2,True,0,0,True,5.78,55,,23.1,69.7
+RPT10095,2025-07-30 00:47:51.452014,Mill Complex,processing,Conveyor,50.197036,-114.189014,Day,WKR7139,Supervisor,Visibility,4,True,0,0,False,,79,,22.2,59.5
+RPT10096,2025-10-08 00:32:51.452014,Surface Operations,surface,Shaft 2,50.060143,-114.304702,Day,WKR4153,Operator,Equipment Interference,1,True,1,0,True,13.25,60,EQ156,27.1,43.0
+RPT10097,2025-07-20 18:49:51.452014,Surface Operations,surface,Mill Floor,50.046547,-114.288138,Night,WKR6202,Operator,Ergonomics,4,False,0,0,False,,100,,23.5,43.7
+RPT10098,2025-10-18 02:15:51.452014,Surface Operations,surface,Shaft 2,50.055846,-114.293972,Day,WKR5417,Maintenance,Environmental,1,True,0,0,False,,20,,24.7,65.9
+RPT10099,2025-09-17 10:56:51.452014,Surface Operations,surface,Surface Pit,50.061488,-114.294281,Day,WKR5423,Operator,Slip/Trip,3,True,0,0,True,58.8,63,,22.9,58.6
+RPT10100,2025-10-31 23:17:51.452014,Lakeview Shaft,underground,Conveyor,49.844354,-115.125971,Night,WKR3404,Supervisor,Other,3,True,0,0,True,26.95,87,,27.5,22.1
+RPT10101,2025-08-02 22:02:51.452014,Mill Complex,processing,Crusher,50.181716,-114.208716,Night,WKR6422,Safety Officer,Slip/Trip,3,True,0,0,True,24.0,71,,21.8,41.6
+RPT10102,2025-08-05 14:22:51.452014,Surface Operations,surface,Crusher,50.067338,-114.30539,Day,WKR2793,Supervisor,Other,1,True,0,0,True,11.62,33,,19.7,41.5
+RPT10103,2025-08-09 14:42:51.452014,Mill Complex,processing,Surface Pit,50.18863,-114.199639,Day,WKR9644,Logistics,Slip/Trip,3,True,0,0,True,15.6,66,,16.5,68.9
+RPT10104,2025-07-27 15:35:51.452014,Mill Complex,processing,Shaft 1,50.190927,-114.194022,Day,WKR9473,Processing Technician,Other,1,False,0,0,True,11.74,63,,23.4,49.5
+RPT10105,2025-08-03 18:08:51.452014,Mill Complex,processing,Loading Bay,50.200653,-114.197467,Night,WKR8914,Logistics,Ground Instability,1,True,1,0,True,5.75,38,,26.2,35.5
+RPT10106,2025-06-28 08:00:51.452014,North Ridge Mine,underground,Mill Floor,50.119517,-114.035752,Day,WKR2108,Maintenance,Slip/Trip,1,True,0,0,False,,36,,23.7,22.7
+RPT10107,2025-07-30 12:28:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.832375,-115.114819,Evening,WKR4130,Processing Technician,Other,1,True,0,0,True,3.43,20,,23.7,35.3
+RPT10108,2025-11-05 12:00:51.452014,North Ridge Mine,underground,Loading Bay,50.11745,-114.019769,Day,WKR5845,Safety Officer,Environmental,4,True,0,0,True,37.87,71,,28.0,22.8
+RPT10109,2025-09-12 04:22:51.452014,North Ridge Mine,underground,Loading Bay,50.114502,-114.012666,Day,WKR8886,Processing Technician,Chemical,4,True,0,1,True,52.99,52,,22.3,17.5
+RPT10110,2025-10-04 00:18:51.452014,North Ridge Mine,underground,Shaft 2,50.120087,-114.032985,Evening,WKR4171,Operator,Ground Instability,2,True,0,0,True,8.61,60,,28.0,23.2
+RPT10111,2025-08-19 09:28:51.452014,Surface Operations,surface,Mill Floor,50.064943,-114.307343,Evening,WKR7702,Logistics,Ground Instability,4,True,0,1,True,91.88,77,,13.3,52.8
+RPT10112,2025-10-22 03:40:51.452014,North Ridge Mine,underground,Shaft 2,50.120625,-113.998508,Day,WKR5516,Operator,Ground Instability,1,False,0,0,True,6.05,55,,31.5,31.0
+RPT10113,2025-08-16 05:11:51.452014,Surface Operations,surface,Surface Pit,50.048446,-114.308077,Night,WKR4548,Operator,Ground Instability,4,True,0,1,False,,81,,19.0,52.0
+RPT10114,2025-07-29 07:39:51.452014,North Ridge Mine,underground,Loading Bay,50.104078,-114.035158,Day,WKR4346,Supervisor,Other,1,True,0,0,False,,48,,27.3,0.7
+RPT10115,2025-08-02 20:10:51.452014,North Ridge Mine,underground,Shaft 1,50.124357,-114.008583,Day,WKR8764,Operator,Visibility,1,True,0,0,False,,51,,29.2,10.2
+RPT10116,2025-09-02 02:47:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.8419,-115.125898,Day,WKR3223,Operator,Ground Instability,1,True,0,0,True,5.73,36,,33.2,16.8
+RPT10117,2025-07-31 11:58:51.452014,Surface Operations,surface,Surface Pit,50.050663,-114.313273,Evening,WKR8077,Operator,Slip/Trip,2,True,0,0,True,6.91,49,,19.0,68.4
+RPT10118,2025-07-19 04:53:51.452014,North Ridge Mine,underground,Maintenance Bay,50.140273,-114.012694,Evening,WKR3738,Processing Technician,Slip/Trip,1,True,1,0,True,4.22,25,,36.1,2.6
+RPT10119,2025-05-31 06:36:51.452014,North Ridge Mine,underground,Shaft 2,50.111722,-114.02411,Day,WKR7429,Operator,Equipment Interference,2,True,1,0,True,5.99,53,EQ572,27.2,16.0
+RPT10120,2025-07-03 13:01:51.452014,Surface Operations,surface,Shaft 1,50.055864,-114.29482,Evening,WKR7058,Engineer,Visibility,1,True,1,0,True,4.89,44,,20.8,31.3
+RPT10121,2025-06-03 00:56:51.452014,Lakeview Shaft,underground,Shaft 2,49.824306,-115.126684,Night,WKR2406,Supervisor,Visibility,1,True,0,0,True,1.57,63,,32.5,1.5
+RPT10122,2025-08-25 22:39:51.452014,North Ridge Mine,underground,Conveyor,50.133268,-114.028264,Day,WKR3826,Engineer,Slip/Trip,1,True,0,0,True,3.39,27,,31.0,10.4
+RPT10123,2025-09-12 13:49:51.452014,Lakeview Shaft,underground,Conveyor,49.853756,-115.118166,Night,WKR5274,Operator,Chemical,4,True,0,0,True,84.82,61,,33.8,19.2
+RPT10124,2025-08-19 09:04:51.452014,Mill Complex,processing,Crusher,50.192899,-114.204486,Evening,WKR1750,Logistics,Slip/Trip,1,True,0,0,True,3.09,18,,15.4,29.2
+RPT10125,2025-06-16 23:57:51.452014,Mill Complex,processing,Loading Bay,50.202539,-114.19425,Day,WKR9169,Maintenance,Other,2,True,1,0,True,7.49,48,,22.8,36.9
+RPT10126,2025-07-13 14:46:51.452014,Mill Complex,processing,Crusher,50.195776,-114.193167,Day,WKR8837,Processing Technician,Electrical,5,False,0,0,True,150.69,88,EQ213,25.2,58.8
+RPT10127,2025-09-02 03:55:51.452014,Surface Operations,surface,Mill Floor,50.060239,-114.289785,Night,WKR7088,Supervisor,Ergonomics,3,True,0,0,True,10.42,38,,22.1,44.6
+RPT10128,2025-08-03 13:17:51.452014,Mill Complex,processing,Shaft 2,50.206563,-114.213713,Day,WKR3182,Engineer,Visibility,1,True,0,0,True,4.93,57,,25.4,47.7
+RPT10129,2025-08-08 08:32:51.452014,Lakeview Shaft,underground,Loading Bay,49.848326,-115.129723,Evening,WKR9307,Engineer,Environmental,2,False,0,0,True,26.38,75,,31.4,-1.4
+RPT10130,2025-06-20 14:30:51.452014,Mill Complex,processing,Mill Floor,50.201823,-114.182328,Evening,WKR6391,Logistics,Other,1,True,0,0,False,,50,,18.3,86.8
+RPT10131,2025-08-19 08:51:51.452014,North Ridge Mine,underground,Maintenance Bay,50.101862,-114.025192,Night,WKR7397,Safety Officer,Other,1,True,1,0,True,3.76,59,,33.5,19.3
+RPT10132,2025-06-02 13:26:51.452014,North Ridge Mine,underground,Mill Floor,50.129443,-114.029892,Night,WKR5043,Operator,Ground Instability,2,False,0,0,True,6.33,100,,25.0,6.0
+RPT10133,2025-08-11 06:32:51.452014,North Ridge Mine,underground,Shaft 1,50.119423,-114.021681,Day,WKR4456,Maintenance,Electrical,1,True,1,0,False,,62,EQ269,33.4,-2.8
+RPT10134,2025-11-07 18:46:51.452014,North Ridge Mine,underground,Shaft 2,50.115634,-114.025791,Day,WKR9938,Supervisor,Environmental,4,True,0,1,True,169.09,88,,30.0,0.1
+RPT10135,2025-07-13 01:15:51.452014,Lakeview Shaft,underground,Shaft 1,49.832871,-115.115558,Evening,WKR7417,Operator,Electrical,1,True,0,0,True,2.81,45,EQ997,36.4,26.8
+RPT10136,2025-06-18 14:43:51.452014,Mill Complex,processing,Maintenance Bay,50.182518,-114.184139,Evening,WKR7869,Processing Technician,Visibility,1,True,0,0,True,4.84,43,,23.5,34.9
+RPT10137,2025-10-02 22:52:51.452014,Mill Complex,processing,Crusher,50.202705,-114.200522,Night,WKR6310,Safety Officer,Environmental,1,True,0,0,False,,72,,24.7,70.9
+RPT10138,2025-11-22 02:54:51.452014,North Ridge Mine,underground,Shaft 1,50.115754,-114.025922,Day,WKR6957,Logistics,Chemical,1,True,0,0,True,1.76,50,,37.6,28.2
+RPT10139,2025-11-11 18:55:51.452014,North Ridge Mine,underground,Surface Pit,50.104503,-114.028241,Evening,WKR9567,Processing Technician,Ergonomics,1,True,0,0,True,2.93,44,,28.4,4.5
+RPT10140,2025-06-23 01:20:51.452014,Lakeview Shaft,underground,Shaft 2,49.850053,-115.142624,Day,WKR3912,Maintenance,Ergonomics,2,True,0,0,True,9.32,38,,30.8,52.4
+RPT10141,2025-06-21 17:42:51.452014,Surface Operations,surface,Maintenance Bay,50.032211,-114.288129,Day,WKR3149,Safety Officer,Chemical,3,True,0,0,True,26.68,65,,18.4,82.6
+RPT10142,2025-06-01 12:46:51.452014,Mill Complex,processing,Mill Floor,50.205768,-114.200978,Day,WKR2834,Processing Technician,Equipment Interference,4,False,0,0,True,164.02,98,EQ216,21.7,19.3
+RPT10143,2025-08-16 10:57:51.452014,Mill Complex,processing,Shaft 2,50.189809,-114.221027,Day,WKR2393,Processing Technician,Equipment Interference,2,False,0,0,True,5.97,60,EQ568,28.8,62.0
+RPT10144,2025-06-11 14:28:51.452014,Lakeview Shaft,underground,Surface Pit,49.849591,-115.128657,Night,WKR4098,Safety Officer,Visibility,1,True,0,0,True,9.53,54,,31.1,-10.4
+RPT10145,2025-09-11 12:28:51.452014,Mill Complex,processing,Shaft 1,50.201754,-114.198644,Day,WKR1541,Geologist,Ergonomics,1,False,1,0,False,,67,,24.3,57.5
+RPT10146,2025-09-24 17:02:51.452014,Lakeview Shaft,underground,Crusher,49.83615,-115.135542,Night,WKR9044,Logistics,Equipment Interference,5,True,0,0,True,138.99,100,EQ562,34.5,24.5
+RPT10147,2025-07-03 08:54:51.452014,Lakeview Shaft,underground,Shaft 1,49.860545,-115.120616,Night,WKR4875,Operator,Ground Instability,3,True,0,0,True,35.06,74,,23.8,-6.3
+RPT10148,2025-09-10 14:42:51.452014,Mill Complex,processing,Surface Pit,50.207667,-114.178873,Day,WKR5451,Operator,Ground Instability,1,False,1,0,True,2.73,63,,28.3,34.4
+RPT10149,2025-07-03 23:20:51.452014,North Ridge Mine,underground,Crusher,50.111275,-114.00085,Night,WKR6967,Supervisor,Equipment Interference,3,False,0,0,True,18.42,90,EQ855,27.5,20.4
+RPT10150,2025-09-03 12:25:51.452014,Surface Operations,surface,Loading Bay,50.037463,-114.286286,Day,WKR7784,Logistics,Slip/Trip,2,True,0,0,True,3.15,46,,20.0,51.7
+RPT10151,2025-06-24 19:24:51.452014,North Ridge Mine,underground,Shaft 2,50.124383,-114.005952,Evening,WKR6498,Supervisor,Ground Instability,1,True,0,0,True,4.23,38,,32.5,-2.2
+RPT10152,2025-10-07 05:32:51.452014,Mill Complex,processing,Mill Floor,50.188496,-114.208059,Night,WKR5819,Operator,Ground Instability,2,True,0,0,True,7.86,58,,28.1,51.8
+RPT10153,2025-08-20 05:47:51.452014,Lakeview Shaft,underground,Mill Floor,49.831242,-115.11709,Day,WKR4112,Operator,Equipment Interference,1,True,1,0,True,2.35,38,EQ435,28.7,-5.0
+RPT10154,2025-09-01 19:41:51.452014,Mill Complex,processing,Crusher,50.185606,-114.199188,Evening,WKR8006,Operator,Other,1,True,0,0,True,1.25,47,,15.4,72.0
+RPT10155,2025-09-29 21:26:51.452014,Mill Complex,processing,Maintenance Bay,50.187719,-114.180761,Day,WKR1817,Operator,Other,3,True,0,0,True,9.58,68,,16.4,70.8
+RPT10156,2025-10-08 09:01:51.452014,Surface Operations,surface,Loading Bay,50.064946,-114.301974,Evening,WKR9017,Engineer,Equipment Interference,2,True,0,0,False,,32,EQ569,22.5,50.5
+RPT10157,2025-10-12 21:48:51.452014,Mill Complex,processing,Surface Pit,50.196132,-114.205342,Evening,WKR4166,Logistics,Other,4,True,0,0,False,,98,,16.3,46.8
+RPT10158,2025-07-12 08:48:51.452014,Mill Complex,processing,Maintenance Bay,50.191567,-114.192801,Day,WKR2513,Processing Technician,Ergonomics,2,True,1,0,True,14.24,64,,23.4,41.9
+RPT10159,2025-10-10 18:37:51.452014,North Ridge Mine,underground,Surface Pit,50.11217,-114.02137,Day,WKR2729,Logistics,Slip/Trip,4,True,0,0,False,,87,,36.1,46.0
+RPT10160,2025-09-13 16:37:51.452014,Mill Complex,processing,Shaft 2,50.19372,-114.199081,Day,WKR2195,Processing Technician,Equipment Interference,1,True,0,0,True,3.95,29,EQ303,20.9,66.5
+RPT10161,2025-07-20 18:16:51.452014,Lakeview Shaft,underground,Surface Pit,49.851404,-115.122072,Day,WKR8027,Operator,Slip/Trip,1,True,0,0,True,4.75,35,,27.1,6.1
+RPT10162,2025-08-06 19:09:51.452014,Mill Complex,processing,Shaft 2,50.195287,-114.188848,Day,WKR8479,Operator,Equipment Interference,1,True,0,0,True,1.29,49,EQ800,22.2,51.4
+RPT10163,2025-11-18 10:58:51.452014,Mill Complex,processing,Shaft 1,50.180739,-114.198355,Evening,WKR7735,Safety Officer,Equipment Interference,2,True,0,0,True,6.15,51,EQ746,24.4,48.1
+RPT10164,2025-07-30 05:22:51.452014,North Ridge Mine,underground,Crusher,50.113318,-114.028872,Evening,WKR9830,Supervisor,Electrical,1,True,0,0,False,,44,EQ801,30.7,22.0
+RPT10165,2025-09-06 16:17:51.452014,Mill Complex,processing,Conveyor,50.189915,-114.201022,Day,WKR3175,Logistics,Equipment Interference,1,True,1,0,True,5.39,49,EQ402,20.7,56.4
+RPT10166,2025-11-02 11:43:51.452014,Surface Operations,surface,Surface Pit,50.047533,-114.304695,Night,WKR7621,Engineer,Other,2,True,1,0,False,,52,,13.5,55.7
+RPT10167,2025-06-09 01:37:51.452014,Surface Operations,surface,Shaft 2,50.045428,-114.303546,Night,WKR7001,Safety Officer,Slip/Trip,2,True,0,0,True,11.19,50,,30.5,57.2
+RPT10168,2025-06-04 14:08:51.452014,Lakeview Shaft,underground,Surface Pit,49.853637,-115.129621,Evening,WKR1958,Operator,Equipment Interference,1,True,0,0,True,1.38,44,EQ903,25.2,-21.0
+RPT10169,2025-06-23 15:02:51.452014,Surface Operations,surface,Shaft 1,50.038451,-114.281,Night,WKR5875,Safety Officer,Ground Instability,2,True,1,0,True,3.58,68,,20.6,47.7
+RPT10170,2025-06-18 21:40:51.452014,North Ridge Mine,underground,Crusher,50.10545,-114.028854,Night,WKR1610,Supervisor,Slip/Trip,2,True,0,0,True,3.14,61,,34.7,-15.0
+RPT10171,2025-11-16 12:03:51.452014,Mill Complex,processing,Shaft 2,50.202249,-114.186241,Evening,WKR2390,Maintenance,Ground Instability,1,True,0,0,True,3.69,62,,20.2,44.5
+RPT10172,2025-09-27 13:17:51.452014,Lakeview Shaft,underground,Shaft 2,49.829668,-115.123854,Evening,WKR7932,Maintenance,Visibility,1,False,1,0,True,2.94,63,,28.8,-4.7
+RPT10173,2025-06-03 22:48:51.452014,Mill Complex,processing,Surface Pit,50.191004,-114.188201,Night,WKR5876,Engineer,Ground Instability,1,True,0,0,False,,43,,20.5,54.6
+RPT10174,2025-10-24 13:30:51.452014,Mill Complex,processing,Shaft 2,50.205762,-114.197734,Evening,WKR5229,Operator,Equipment Interference,3,True,0,0,True,12.3,62,EQ734,16.8,39.8
+RPT10175,2025-10-15 18:17:51.452014,Lakeview Shaft,underground,Crusher,49.845096,-115.126656,Night,WKR8584,Logistics,Other,1,False,1,0,True,6.09,64,,26.7,22.4
+RPT10176,2025-11-09 14:34:51.452014,Mill Complex,processing,Loading Bay,50.1949,-114.190423,Day,WKR4439,Maintenance,Slip/Trip,4,True,0,0,True,130.47,74,,18.4,49.7
+RPT10177,2025-06-20 09:27:51.452014,Lakeview Shaft,underground,Conveyor,49.84304,-115.117148,Night,WKR8575,Processing Technician,Equipment Interference,2,True,0,0,True,21.97,45,EQ552,27.3,30.1
+RPT10178,2025-06-09 15:22:51.452014,Mill Complex,processing,Surface Pit,50.186653,-114.206341,Night,WKR9202,Maintenance,Ergonomics,1,True,0,0,False,,46,,24.4,76.2
+RPT10179,2025-10-03 05:32:51.452014,Mill Complex,processing,Crusher,50.209075,-114.208339,Night,WKR2093,Processing Technician,Visibility,1,True,0,0,True,5.03,40,,23.8,36.6
+RPT10180,2025-10-30 15:36:51.452014,Mill Complex,processing,Mill Floor,50.202816,-114.194539,Day,WKR9111,Maintenance,Environmental,2,False,1,0,True,8.27,76,,23.6,50.1
+RPT10181,2025-06-23 06:34:51.452014,Mill Complex,processing,Loading Bay,50.210886,-114.20381,Evening,WKR2887,Engineer,Electrical,1,True,1,0,True,3.49,41,EQ884,26.3,43.4
+RPT10182,2025-06-21 18:59:51.452014,Mill Complex,processing,Shaft 2,50.201686,-114.194236,Night,WKR6987,Operator,Electrical,4,True,0,0,True,23.08,85,EQ340,24.3,60.4
+RPT10183,2025-11-07 02:44:51.452014,Mill Complex,processing,Shaft 2,50.189164,-114.20397,Day,WKR4423,Logistics,Ergonomics,2,True,1,0,True,8.83,56,,18.4,38.3
+RPT10184,2025-10-20 06:48:51.452014,Surface Operations,surface,Conveyor,50.047928,-114.312902,Day,WKR6122,Engineer,Environmental,3,True,0,0,False,,69,,25.2,36.9
+RPT10185,2025-10-25 08:55:51.452014,Lakeview Shaft,underground,Crusher,49.835849,-115.113564,Day,WKR5881,Processing Technician,Environmental,1,True,0,0,False,,38,,31.4,7.3
+RPT10186,2025-07-10 07:38:51.452014,North Ridge Mine,underground,Mill Floor,50.11577,-114.021185,Day,WKR5193,Maintenance,Slip/Trip,1,True,0,0,True,4.78,37,,30.4,13.0
+RPT10187,2025-09-27 02:48:51.452014,Lakeview Shaft,underground,Crusher,49.823132,-115.129037,Day,WKR7312,Engineer,Other,4,True,0,0,True,73.68,78,,28.7,6.9
+RPT10188,2025-08-18 06:53:51.452014,Mill Complex,processing,Conveyor,50.199529,-114.210923,Day,WKR6352,Safety Officer,Equipment Interference,1,True,1,0,True,3.09,50,EQ317,21.2,74.5
+RPT10189,2025-11-09 01:55:51.452014,Surface Operations,surface,Loading Bay,50.039728,-114.290961,Day,WKR5517,Operator,Slip/Trip,2,True,0,0,True,13.98,42,,21.7,76.1
+RPT10190,2025-08-04 06:18:51.452014,Surface Operations,surface,Maintenance Bay,50.064131,-114.290696,Day,WKR5195,Safety Officer,Ground Instability,1,True,0,0,True,2.51,36,,24.2,63.9
+RPT10191,2025-08-02 07:41:51.452014,Mill Complex,processing,Maintenance Bay,50.197411,-114.196564,Evening,WKR1110,Processing Technician,Electrical,1,True,1,0,True,2.09,41,EQ125,26.1,68.3
+RPT10192,2025-11-04 12:38:51.452014,Lakeview Shaft,underground,Crusher,49.833257,-115.119243,Night,WKR2878,Geologist,Equipment Interference,5,False,0,0,True,188.32,100,EQ182,30.8,20.6
+RPT10193,2025-09-03 18:48:51.452014,Surface Operations,surface,Mill Floor,50.058112,-114.319438,Night,WKR8531,Operator,Environmental,2,True,0,0,True,11.64,78,,26.6,43.8
+RPT10194,2025-08-30 09:14:51.452014,Mill Complex,processing,Conveyor,50.204005,-114.201056,Day,WKR5668,Engineer,Equipment Interference,1,True,1,0,True,4.48,38,EQ402,20.5,64.3
+RPT10195,2025-06-06 18:16:51.452014,Mill Complex,processing,Shaft 2,50.198838,-114.207169,Evening,WKR3668,Operator,Other,5,True,0,0,True,128.89,99,,21.9,34.8
+RPT10196,2025-09-27 13:29:51.452014,North Ridge Mine,underground,Loading Bay,50.11414,-114.004484,Day,WKR4879,Processing Technician,Visibility,5,False,0,0,False,,100,,22.7,48.0
+RPT10197,2025-07-02 20:15:51.452014,Lakeview Shaft,underground,Surface Pit,49.840287,-115.137628,Night,WKR1282,Safety Officer,Other,1,True,0,0,False,,47,,33.6,2.4
+RPT10198,2025-09-17 07:01:51.452014,Lakeview Shaft,underground,Mill Floor,49.852815,-115.139204,Day,WKR7386,Operator,Equipment Interference,2,True,1,0,True,20.04,58,EQ987,31.6,-3.2
+RPT10199,2025-10-17 20:13:51.452014,North Ridge Mine,underground,Loading Bay,50.145461,-114.018298,Evening,WKR2687,Supervisor,Slip/Trip,3,True,0,0,True,36.9,87,,34.1,-16.0
+RPT10200,2025-09-14 18:18:51.452014,Lakeview Shaft,underground,Surface Pit,49.851846,-115.113782,Evening,WKR7500,Maintenance,Ground Instability,3,False,0,0,True,13.45,74,,34.3,15.6
+RPT10201,2025-08-16 10:42:51.452014,Surface Operations,surface,Loading Bay,50.049927,-114.296781,Night,WKR8430,Operator,Slip/Trip,2,True,0,0,True,3.47,67,,18.7,46.0
+RPT10202,2025-06-15 07:27:51.452014,Surface Operations,surface,Loading Bay,50.038682,-114.302164,Night,WKR8551,Operator,Chemical,2,True,0,0,True,4.86,47,,23.2,31.8
+RPT10203,2025-10-05 11:45:51.452014,Mill Complex,processing,Surface Pit,50.187781,-114.201703,Evening,WKR9697,Maintenance,Ground Instability,3,True,0,0,True,13.72,54,,20.7,49.4
+RPT10204,2025-08-18 20:12:51.452014,Lakeview Shaft,underground,Loading Bay,49.838775,-115.128938,Day,WKR4742,Geologist,Ergonomics,1,True,0,0,True,3.88,53,,35.3,0.7
+RPT10205,2025-10-01 03:36:51.452014,North Ridge Mine,underground,Mill Floor,50.106217,-114.01467,Evening,WKR5067,Operator,Slip/Trip,1,True,1,0,True,3.71,50,,26.5,29.6
+RPT10206,2025-08-22 20:00:51.452014,Surface Operations,surface,Shaft 2,50.060969,-114.288108,Day,WKR4033,Engineer,Electrical,1,True,0,0,True,3.29,37,EQ790,15.3,34.3
+RPT10207,2025-09-21 14:37:51.452014,Lakeview Shaft,underground,Surface Pit,49.845256,-115.121218,Day,WKR1968,Supervisor,Ground Instability,4,True,0,0,False,,93,,28.0,4.4
+RPT10208,2025-08-30 19:43:51.452014,Surface Operations,surface,Surface Pit,50.052652,-114.3002,Evening,WKR8724,Operator,Chemical,3,False,0,0,True,20.96,80,,22.9,64.4
+RPT10209,2025-06-05 14:55:51.452014,Surface Operations,surface,Surface Pit,50.054521,-114.305962,Night,WKR8316,Maintenance,Electrical,4,True,0,0,True,73.91,65,EQ192,22.8,61.3
+RPT10210,2025-06-11 10:05:51.452014,Lakeview Shaft,underground,Loading Bay,49.861984,-115.126004,Evening,WKR2102,Operator,Visibility,3,True,0,0,True,19.83,70,,26.8,19.3
+RPT10211,2025-10-01 23:34:51.452014,Lakeview Shaft,underground,Mill Floor,49.848233,-115.129173,Day,WKR5435,Operator,Electrical,4,False,0,0,True,63.89,90,EQ274,34.8,2.9
+RPT10212,2025-11-15 10:55:51.452014,Surface Operations,surface,Shaft 2,50.038674,-114.303924,Day,WKR6789,Maintenance,Electrical,1,True,0,0,True,3.64,42,EQ627,19.4,46.0
+RPT10213,2025-06-08 15:14:51.452014,Mill Complex,processing,Crusher,50.198441,-114.212485,Day,WKR5323,Processing Technician,Chemical,2,True,0,0,True,12.98,44,,21.4,48.5
+RPT10214,2025-11-17 00:21:51.452014,Mill Complex,processing,Maintenance Bay,50.207899,-114.196258,Day,WKR3002,Operator,Environmental,1,True,0,0,False,,33,,25.2,42.6
+RPT10215,2025-07-02 03:24:51.452014,North Ridge Mine,underground,Loading Bay,50.126282,-114.004136,Day,WKR5624,Processing Technician,Other,1,False,0,0,True,1.25,54,,30.3,4.3
+RPT10216,2025-11-22 02:28:51.452014,Surface Operations,surface,Mill Floor,50.041106,-114.300173,Day,WKR2555,Supervisor,Environmental,3,True,0,0,True,13.49,68,,16.0,36.9
+RPT10217,2025-07-20 03:25:51.452014,North Ridge Mine,underground,Conveyor,50.1204,-114.035097,Evening,WKR6344,Maintenance,Other,1,True,0,0,False,,54,,33.3,7.8
+RPT10218,2025-09-08 20:34:51.452014,Mill Complex,processing,Shaft 1,50.225836,-114.202412,Evening,WKR3923,Operator,Fire/Explosion,1,True,0,0,True,5.5,45,EQ229,20.2,39.6
+RPT10219,2025-10-23 22:31:51.452014,North Ridge Mine,underground,Shaft 2,50.119441,-114.017631,Day,WKR9550,Supervisor,Visibility,1,True,1,0,True,2.68,57,,30.0,2.2
+RPT10220,2025-08-27 21:09:51.452014,Lakeview Shaft,underground,Crusher,49.841111,-115.134995,Evening,WKR3177,Supervisor,Visibility,5,True,0,0,True,87.26,81,,35.4,18.3
+RPT10221,2025-08-31 13:27:51.452014,Surface Operations,surface,Crusher,50.04587,-114.290643,Evening,WKR2936,Operator,Visibility,2,False,0,0,True,5.66,62,,24.6,58.4
+RPT10222,2025-08-24 08:24:51.452014,Mill Complex,processing,Mill Floor,50.199295,-114.19421,Night,WKR5995,Engineer,Ground Instability,1,True,0,0,True,5.96,36,,24.2,48.4
+RPT10223,2025-06-15 16:00:51.452014,North Ridge Mine,underground,Crusher,50.130523,-114.007345,Day,WKR1103,Engineer,Slip/Trip,1,False,1,0,False,,39,,24.4,14.0
+RPT10224,2025-10-11 20:05:51.452014,North Ridge Mine,underground,Shaft 1,50.125031,-114.00276,Day,WKR3229,Supervisor,Chemical,1,True,0,0,True,4.62,44,,33.0,-0.1
+RPT10225,2025-10-19 02:50:51.452014,Surface Operations,surface,Loading Bay,50.064232,-114.314995,Night,WKR9958,Processing Technician,Slip/Trip,2,True,0,0,True,7.29,59,,25.1,52.4
+RPT10226,2025-07-13 16:19:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.851239,-115.132194,Night,WKR8518,Supervisor,Slip/Trip,3,True,0,0,False,,68,,28.0,-3.7
+RPT10227,2025-10-13 23:20:51.452014,Lakeview Shaft,underground,Surface Pit,49.843134,-115.111108,Evening,WKR3615,Operator,Ground Instability,2,False,0,0,True,3.4,72,,30.9,1.1
+RPT10228,2025-10-14 14:46:51.452014,Surface Operations,surface,Mill Floor,50.071419,-114.316799,Day,WKR3735,Engineer,Environmental,2,True,0,0,True,8.76,61,,24.1,44.8
+RPT10229,2025-05-28 04:36:51.452014,North Ridge Mine,underground,Surface Pit,50.11159,-114.029632,Day,WKR8651,Supervisor,Slip/Trip,2,True,0,0,True,8.09,51,,24.2,11.0
+RPT10230,2025-10-10 19:25:51.452014,Surface Operations,surface,Crusher,50.046385,-114.308074,Day,WKR3481,Engineer,Other,1,True,1,0,True,3.23,51,,19.6,29.1
+RPT10231,2025-10-03 11:38:51.452014,Mill Complex,processing,Shaft 1,50.210479,-114.193829,Night,WKR7646,Maintenance,Electrical,3,True,0,0,True,24.92,76,EQ640,17.9,60.8
+RPT10232,2025-06-30 05:07:51.452014,Mill Complex,processing,Shaft 2,50.197136,-114.2172,Day,WKR8994,Geologist,Visibility,3,True,0,0,True,17.27,84,,25.4,52.6
+RPT10233,2025-06-21 15:47:51.452014,North Ridge Mine,underground,Shaft 2,50.106225,-114.020757,Day,WKR9201,Operator,Equipment Interference,2,True,1,0,True,5.38,31,EQ164,33.3,7.1
+RPT10234,2025-09-21 13:04:51.452014,Lakeview Shaft,underground,Shaft 1,49.844389,-115.12161,Night,WKR1005,Engineer,Environmental,1,False,0,0,True,5.73,63,,32.1,-1.8
+RPT10235,2025-06-21 03:13:51.452014,Lakeview Shaft,underground,Loading Bay,49.833557,-115.122053,Night,WKR4767,Logistics,Ergonomics,2,True,0,0,True,9.74,66,,29.0,17.6
+RPT10236,2025-11-01 09:23:51.452014,North Ridge Mine,underground,Crusher,50.105532,-114.031025,Day,WKR3735,Operator,Equipment Interference,3,False,0,0,True,32.57,96,EQ515,26.2,4.4
+RPT10237,2025-10-02 15:16:51.452014,North Ridge Mine,underground,Crusher,50.116047,-114.020423,Night,WKR6334,Processing Technician,Ergonomics,2,True,0,0,True,8.12,46,,25.6,14.0
+RPT10238,2025-06-02 13:32:51.452014,Lakeview Shaft,underground,Conveyor,49.85125,-115.138155,Night,WKR2041,Engineer,Visibility,2,True,0,0,False,,59,,28.2,17.9
+RPT10239,2025-09-28 19:39:51.452014,Lakeview Shaft,underground,Loading Bay,49.836406,-115.114778,Day,WKR8514,Operator,Slip/Trip,1,True,1,0,True,4.14,28,,29.1,16.4
+RPT10240,2025-09-09 18:20:51.452014,Mill Complex,processing,Shaft 1,50.199421,-114.200884,Night,WKR8639,Engineer,Slip/Trip,5,True,0,0,True,350.19,100,,15.0,59.7
+RPT10241,2025-11-16 00:59:51.452014,North Ridge Mine,underground,Loading Bay,50.134458,-114.026113,Night,WKR4855,Processing Technician,Fire/Explosion,2,True,0,0,True,7.67,82,EQ903,28.9,17.5
+RPT10242,2025-09-03 11:23:51.452014,North Ridge Mine,underground,Conveyor,50.1187,-114.018736,Day,WKR4246,Operator,Environmental,3,True,0,0,True,22.9,72,,29.1,-22.1
+RPT10243,2025-10-16 02:56:51.452014,North Ridge Mine,underground,Maintenance Bay,50.119077,-114.0097,Day,WKR5869,Maintenance,Equipment Interference,2,True,0,0,False,,52,EQ555,27.6,14.7
+RPT10244,2025-10-18 00:11:51.452014,Surface Operations,surface,Conveyor,50.056564,-114.296762,Day,WKR2458,Logistics,Visibility,3,True,0,0,True,29.47,50,,24.3,58.6
+RPT10245,2025-08-28 02:03:51.452014,Surface Operations,surface,Crusher,50.043152,-114.314511,Night,WKR3119,Maintenance,Ground Instability,1,True,1,0,False,,55,,21.5,37.3
+RPT10246,2025-08-28 16:11:51.452014,Lakeview Shaft,underground,Loading Bay,49.847272,-115.139693,Evening,WKR2566,Operator,Ground Instability,1,True,0,0,True,3.44,50,,28.8,19.2
+RPT10247,2025-09-23 03:51:51.452014,North Ridge Mine,underground,Crusher,50.12296,-114.015592,Day,WKR1256,Processing Technician,Ground Instability,2,True,1,0,True,4.17,43,,32.3,21.4
+RPT10248,2025-09-08 04:26:51.452014,North Ridge Mine,underground,Mill Floor,50.123823,-114.013288,Evening,WKR6203,Operator,Other,2,True,0,0,True,4.42,65,,30.3,4.4
+RPT10249,2025-08-30 06:33:51.452014,Surface Operations,surface,Crusher,50.043045,-114.309802,Day,WKR5250,Logistics,Other,2,True,0,0,True,8.32,59,,16.6,13.3
+RPT10250,2025-07-05 04:17:51.452014,North Ridge Mine,underground,Shaft 2,50.125565,-114.017356,Evening,WKR8136,Supervisor,Electrical,1,True,0,0,True,8.14,40,EQ554,28.9,8.8
+RPT10251,2025-09-15 19:59:51.452014,Mill Complex,processing,Conveyor,50.215266,-114.19489,Day,WKR4646,Maintenance,Electrical,5,True,0,1,True,170.66,85,EQ738,21.0,34.9
+RPT10252,2025-10-03 15:15:51.452014,Mill Complex,processing,Shaft 2,50.190178,-114.193825,Night,WKR9646,Safety Officer,Ground Instability,4,True,0,0,True,80.9,83,,30.6,83.6
+RPT10253,2025-09-04 15:39:51.452014,Mill Complex,processing,Conveyor,50.209619,-114.200668,Evening,WKR8508,Safety Officer,Environmental,1,True,0,0,True,1.98,54,,16.0,20.7
+RPT10254,2025-11-13 16:17:51.452014,North Ridge Mine,underground,Surface Pit,50.102872,-114.03077,Evening,WKR4174,Engineer,Environmental,4,True,0,0,True,62.93,78,,28.3,-22.7
+RPT10255,2025-06-22 01:43:51.452014,Lakeview Shaft,underground,Mill Floor,49.84885,-115.119502,Day,WKR3350,Supervisor,Chemical,2,True,0,0,True,6.02,49,,35.2,12.5
+RPT10256,2025-06-21 17:31:51.452014,Surface Operations,surface,Crusher,50.058776,-114.303562,Day,WKR8874,Engineer,Visibility,1,True,1,0,True,5.78,33,,21.5,66.9
+RPT10257,2025-07-19 00:01:51.452014,Surface Operations,surface,Maintenance Bay,50.051547,-114.312016,Day,WKR8381,Operator,Electrical,1,True,1,0,True,5.12,34,EQ349,18.5,76.5
+RPT10258,2025-08-31 03:35:51.452014,North Ridge Mine,underground,Maintenance Bay,50.102263,-114.010355,Night,WKR3131,Supervisor,Equipment Interference,1,True,0,0,True,1.42,37,EQ422,30.6,24.2
+RPT10259,2025-09-03 03:06:51.452014,Surface Operations,surface,Mill Floor,50.044175,-114.277062,Day,WKR4533,Operator,Slip/Trip,3,False,0,0,True,43.03,89,,23.2,64.3
+RPT10260,2025-06-03 13:59:51.452014,Lakeview Shaft,underground,Mill Floor,49.853791,-115.125807,Evening,WKR7859,Engineer,Ground Instability,2,True,1,0,True,3.14,28,,31.3,0.7
+RPT10261,2025-08-31 09:31:51.452014,Lakeview Shaft,underground,Surface Pit,49.860825,-115.125402,Evening,WKR7906,Maintenance,Visibility,3,True,0,0,True,32.32,60,,33.0,24.0
+RPT10262,2025-10-16 17:51:51.452014,North Ridge Mine,underground,Crusher,50.119554,-114.021415,Night,WKR9477,Processing Technician,Visibility,2,False,1,0,True,9.6,47,,33.7,9.1
+RPT10263,2025-10-21 02:53:51.452014,Surface Operations,surface,Conveyor,50.050592,-114.291946,Evening,WKR3446,Geologist,Other,1,True,0,0,False,,42,,29.2,54.7
+RPT10264,2025-10-06 08:19:51.452014,Lakeview Shaft,underground,Surface Pit,49.829622,-115.118502,Day,WKR5046,Logistics,Environmental,1,True,1,0,True,5.53,25,,22.6,39.6
+RPT10265,2025-10-31 22:22:51.452014,Mill Complex,processing,Maintenance Bay,50.193905,-114.20899,Night,WKR3786,Maintenance,Visibility,3,False,0,0,True,16.12,95,,24.6,22.8
+RPT10266,2025-10-13 20:03:51.452014,Lakeview Shaft,underground,Crusher,49.832085,-115.122703,Day,WKR2705,Engineer,Slip/Trip,1,True,1,0,False,,38,,36.2,-9.4
+RPT10267,2025-07-22 16:54:51.452014,North Ridge Mine,underground,Surface Pit,50.107667,-114.005943,Day,WKR5761,Maintenance,Chemical,4,False,0,0,True,57.69,86,,27.0,-9.6
+RPT10268,2025-11-08 17:43:51.452014,Lakeview Shaft,underground,Loading Bay,49.846263,-115.128017,Night,WKR6356,Engineer,Electrical,2,True,0,0,True,13.19,78,EQ318,24.0,5.0
+RPT10269,2025-09-14 01:46:51.452014,Surface Operations,surface,Loading Bay,50.047733,-114.298444,Day,WKR8595,Engineer,Environmental,1,True,1,0,True,3.9,44,,13.2,61.7
+RPT10270,2025-11-02 08:57:51.452014,Lakeview Shaft,underground,Shaft 2,49.843181,-115.113207,Evening,WKR3253,Engineer,Slip/Trip,4,False,0,0,True,199.55,95,,34.3,10.8
+RPT10271,2025-06-30 05:01:51.452014,North Ridge Mine,underground,Shaft 2,50.116707,-114.025277,Day,WKR1248,Safety Officer,Slip/Trip,3,True,0,0,False,,50,,31.1,14.2
+RPT10272,2025-09-28 05:21:51.452014,Lakeview Shaft,underground,Mill Floor,49.854257,-115.124968,Night,WKR8820,Operator,Chemical,2,True,0,0,True,6.03,67,,28.5,25.9
+RPT10273,2025-07-12 07:59:51.452014,Surface Operations,surface,Shaft 1,50.0343,-114.299179,Day,WKR2537,Safety Officer,Ergonomics,1,True,1,0,True,2.24,32,,26.6,25.6
+RPT10274,2025-05-31 00:01:51.452014,North Ridge Mine,underground,Shaft 2,50.11434,-114.030982,Night,WKR8083,Maintenance,Other,3,True,0,0,True,32.58,75,,32.4,-3.3
+RPT10275,2025-10-27 23:03:51.452014,Surface Operations,surface,Shaft 2,50.052067,-114.292326,Day,WKR5384,Operator,Other,1,True,1,0,True,2.46,68,,15.6,69.3
+RPT10276,2025-10-28 12:36:51.452014,Mill Complex,processing,Shaft 1,50.19302,-114.19676,Evening,WKR8423,Operator,Environmental,5,True,0,0,True,148.77,99,,25.7,62.4
+RPT10277,2025-09-22 07:00:51.452014,North Ridge Mine,underground,Loading Bay,50.127903,-114.007858,Night,WKR6279,Safety Officer,Environmental,2,True,0,0,True,4.78,49,,36.3,0.2
+RPT10278,2025-09-13 13:41:51.452014,North Ridge Mine,underground,Surface Pit,50.101948,-114.014056,Night,WKR4675,Operator,Ergonomics,1,True,0,0,True,11.56,44,,23.9,-2.5
+RPT10279,2025-07-11 14:15:51.452014,Surface Operations,surface,Surface Pit,50.042799,-114.306393,Day,WKR2588,Operator,Ergonomics,2,True,1,0,True,8.84,44,,22.3,55.3
+RPT10280,2025-09-17 08:57:51.452014,North Ridge Mine,underground,Shaft 1,50.117165,-114.022141,Day,WKR3551,Safety Officer,Slip/Trip,3,True,0,0,True,15.47,67,,29.6,2.5
+RPT10281,2025-08-20 16:35:51.452014,Mill Complex,processing,Shaft 1,50.218528,-114.180679,Evening,WKR8547,Geologist,Equipment Interference,3,True,0,0,False,,44,EQ370,20.2,53.1
+RPT10282,2025-11-20 08:19:51.452014,North Ridge Mine,underground,Surface Pit,50.124528,-114.029827,Day,WKR2394,Operator,Slip/Trip,1,True,1,0,True,1.68,24,,23.6,26.6
+RPT10283,2025-11-02 15:21:51.452014,North Ridge Mine,underground,Conveyor,50.130114,-114.031485,Night,WKR1396,Logistics,Equipment Interference,4,True,0,0,False,,79,EQ174,32.5,25.9
+RPT10284,2025-06-21 16:30:51.452014,North Ridge Mine,underground,Maintenance Bay,50.117297,-114.014631,Day,WKR9668,Maintenance,Slip/Trip,3,False,0,0,True,8.17,81,,32.5,-6.7
+RPT10285,2025-08-05 17:40:51.452014,Lakeview Shaft,underground,Conveyor,49.840263,-115.12919,Night,WKR3312,Supervisor,Electrical,1,True,1,0,True,9.44,25,EQ831,32.0,8.0
+RPT10286,2025-08-07 06:34:51.452014,Lakeview Shaft,underground,Loading Bay,49.839868,-115.125294,Night,WKR8262,Operator,Electrical,3,True,0,0,False,,60,EQ636,28.9,3.3
+RPT10287,2025-08-16 01:40:51.452014,Surface Operations,surface,Shaft 1,50.057466,-114.287607,Day,WKR2433,Supervisor,Visibility,1,True,0,0,True,3.41,41,,21.0,55.5
+RPT10288,2025-06-22 20:01:51.452014,North Ridge Mine,underground,Maintenance Bay,50.133911,-114.036949,Day,WKR5896,Engineer,Electrical,1,True,0,0,False,,27,EQ308,31.7,3.6
+RPT10289,2025-08-19 05:57:51.452014,Mill Complex,processing,Shaft 2,50.196988,-114.198794,Day,WKR3937,Logistics,Ergonomics,3,True,0,0,True,8.88,82,,18.2,47.2
+RPT10290,2025-10-13 03:37:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.844877,-115.127014,Night,WKR8512,Supervisor,Chemical,3,True,0,0,True,45.96,65,,20.2,-9.8
+RPT10291,2025-08-01 22:25:51.452014,North Ridge Mine,underground,Loading Bay,50.116934,-114.006333,Night,WKR2526,Safety Officer,Slip/Trip,2,True,0,0,True,8.0,52,,29.3,-2.7
+RPT10292,2025-06-08 05:40:51.452014,Surface Operations,surface,Conveyor,50.042654,-114.302428,Evening,WKR9499,Supervisor,Slip/Trip,4,True,0,0,True,20.37,60,,20.9,20.2
+RPT10293,2025-05-29 08:18:51.452014,Mill Complex,processing,Shaft 2,50.207286,-114.202446,Night,WKR7553,Operator,Other,2,True,0,0,True,13.15,77,,23.9,20.6
+RPT10294,2025-07-03 16:16:51.452014,Lakeview Shaft,underground,Mill Floor,49.852272,-115.120673,Day,WKR1181,Engineer,Equipment Interference,2,True,1,0,True,34.48,72,EQ902,34.4,-13.4
+RPT10295,2025-06-24 21:12:51.452014,Mill Complex,processing,Loading Bay,50.197824,-114.216641,Day,WKR7357,Logistics,Slip/Trip,1,True,0,0,True,4.01,47,,24.0,56.9
+RPT10296,2025-10-20 20:49:51.452014,Mill Complex,processing,Loading Bay,50.196928,-114.196659,Day,WKR3254,Processing Technician,Visibility,4,True,0,0,False,,100,,22.8,45.5
+RPT10297,2025-07-08 05:02:51.452014,Mill Complex,processing,Conveyor,50.184164,-114.187715,Night,WKR6385,Logistics,Other,5,True,0,0,True,146.64,100,,27.2,41.9
+RPT10298,2025-07-07 18:55:51.452014,North Ridge Mine,underground,Crusher,50.128875,-114.031629,Evening,WKR9717,Engineer,Ground Instability,5,True,0,0,True,112.54,81,,30.5,20.5
+RPT10299,2025-06-11 22:16:51.452014,Lakeview Shaft,underground,Mill Floor,49.864187,-115.117215,Evening,WKR8369,Operator,Environmental,4,True,0,0,True,202.59,94,,35.3,10.6
+RPT10300,2025-10-26 12:01:51.452014,Mill Complex,processing,Shaft 2,50.198315,-114.209792,Evening,WKR5371,Processing Technician,Environmental,1,True,1,0,True,3.64,43,,19.4,58.3
+RPT10301,2025-10-11 16:59:51.452014,Lakeview Shaft,underground,Crusher,49.856672,-115.130586,Day,WKR5789,Engineer,Other,2,True,1,0,False,,49,,20.8,13.7
+RPT10302,2025-06-26 07:42:51.452014,Lakeview Shaft,underground,Shaft 1,49.834809,-115.114786,Evening,WKR6446,Operator,Visibility,3,True,0,0,True,12.96,77,,22.3,21.4
+RPT10303,2025-11-10 16:47:51.452014,Surface Operations,surface,Crusher,50.043436,-114.288464,Day,WKR8440,Operator,Ground Instability,1,True,0,0,True,3.02,32,,21.1,42.3
+RPT10304,2025-07-30 16:47:51.452014,Surface Operations,surface,Conveyor,50.065635,-114.314593,Day,WKR3919,Supervisor,Ergonomics,3,True,0,0,True,38.51,42,,13.9,54.6
+RPT10305,2025-10-03 00:19:51.452014,North Ridge Mine,underground,Maintenance Bay,50.111618,-114.027546,Night,WKR7329,Safety Officer,Slip/Trip,1,True,0,0,False,,35,,21.1,29.4
+RPT10306,2025-10-08 06:09:51.452014,Surface Operations,surface,Shaft 2,50.052389,-114.293891,Night,WKR5462,Safety Officer,Ergonomics,2,True,0,0,True,5.84,62,,25.2,19.6
+RPT10307,2025-06-03 13:32:51.452014,Lakeview Shaft,underground,Conveyor,49.846369,-115.114445,Night,WKR3351,Maintenance,Ergonomics,1,True,1,0,True,5.94,28,,34.2,21.5
+RPT10308,2025-09-27 20:08:51.452014,Lakeview Shaft,underground,Crusher,49.852052,-115.133081,Evening,WKR9883,Operator,Ground Instability,2,True,0,0,False,,63,,32.2,22.4
+RPT10309,2025-08-10 23:04:51.452014,Surface Operations,surface,Shaft 2,50.050911,-114.28516,Night,WKR1218,Logistics,Environmental,3,True,0,0,True,30.43,75,,22.1,56.4
+RPT10310,2025-06-28 12:45:51.452014,Mill Complex,processing,Shaft 2,50.197996,-114.208533,Evening,WKR6063,Supervisor,Environmental,3,True,0,0,False,,83,,20.9,54.5
+RPT10311,2025-07-30 14:42:51.452014,Surface Operations,surface,Shaft 2,50.030288,-114.320948,Night,WKR1742,Maintenance,Equipment Interference,2,True,1,0,False,,74,EQ339,18.6,59.1
+RPT10312,2025-06-13 02:44:51.452014,Mill Complex,processing,Shaft 1,50.198441,-114.197891,Night,WKR8923,Operator,Electrical,4,True,0,0,False,,79,EQ156,17.9,40.2
+RPT10313,2025-07-27 04:21:51.452014,North Ridge Mine,underground,Maintenance Bay,50.114264,-114.009002,Night,WKR4563,Operator,Ergonomics,1,True,0,0,True,5.28,40,,30.0,-10.6
+RPT10314,2025-08-21 09:22:51.452014,Surface Operations,surface,Crusher,50.059534,-114.305375,Day,WKR5239,Processing Technician,Chemical,1,True,0,0,False,,27,,18.3,65.3
+RPT10315,2025-07-02 07:06:51.452014,Surface Operations,surface,Crusher,50.057365,-114.299849,Day,WKR5130,Operator,Equipment Interference,3,False,0,0,True,16.97,75,EQ761,16.6,58.8
+RPT10316,2025-11-20 10:47:51.452014,Mill Complex,processing,Loading Bay,50.201956,-114.19075,Night,WKR4524,Logistics,Chemical,1,True,0,0,True,7.37,58,,18.8,63.5
+RPT10317,2025-11-06 07:24:51.452014,North Ridge Mine,underground,Crusher,50.123362,-114.000962,Evening,WKR7479,Safety Officer,Other,1,True,0,0,True,2.27,62,,33.1,2.8
+RPT10318,2025-09-04 19:56:51.452014,Lakeview Shaft,underground,Surface Pit,49.837533,-115.121807,Day,WKR2086,Logistics,Environmental,1,False,0,0,True,4.52,72,,36.1,11.5
+RPT10319,2025-07-09 15:16:51.452014,Mill Complex,processing,Shaft 1,50.202427,-114.176837,Evening,WKR9408,Maintenance,Ground Instability,1,True,0,0,True,10.62,28,,19.1,37.8
+RPT10320,2025-11-06 04:22:51.452014,Mill Complex,processing,Shaft 1,50.196584,-114.205275,Day,WKR4250,Logistics,Ergonomics,2,True,0,0,True,5.89,42,,17.9,55.8
+RPT10321,2025-08-16 06:34:51.452014,Mill Complex,processing,Conveyor,50.198175,-114.21235,Evening,WKR1430,Engineer,Electrical,1,True,0,0,True,13.17,59,EQ442,25.3,47.0
+RPT10322,2025-10-07 03:38:51.452014,Mill Complex,processing,Conveyor,50.196658,-114.184003,Night,WKR8854,Maintenance,Visibility,1,True,1,0,True,7.4,50,,26.6,63.7
+RPT10323,2025-09-06 08:38:51.452014,Mill Complex,processing,Surface Pit,50.200229,-114.200984,Night,WKR3390,Engineer,Electrical,1,False,0,0,True,4.06,48,EQ938,22.4,62.9
+RPT10324,2025-07-03 05:04:51.452014,North Ridge Mine,underground,Shaft 2,50.124428,-114.003518,Day,WKR8153,Logistics,Other,3,True,0,0,False,,67,,22.8,29.3
+RPT10325,2025-09-12 16:18:51.452014,North Ridge Mine,underground,Crusher,50.106687,-114.016197,Day,WKR3540,Geologist,Other,4,True,0,0,False,,88,,21.4,38.5
+RPT10326,2025-11-14 01:54:51.452014,North Ridge Mine,underground,Mill Floor,50.110655,-114.034229,Day,WKR9145,Maintenance,Chemical,1,True,0,0,True,3.9,40,,29.1,32.1
+RPT10327,2025-10-14 03:53:51.452014,Lakeview Shaft,underground,Conveyor,49.854959,-115.129408,Day,WKR6084,Operator,Electrical,2,False,0,0,True,5.17,77,EQ206,30.0,-10.6
+RPT10328,2025-10-01 18:35:51.452014,Surface Operations,surface,Mill Floor,50.043936,-114.308812,Day,WKR2341,Maintenance,Visibility,4,True,0,0,False,,56,,18.5,34.2
+RPT10329,2025-06-26 04:53:51.452014,Mill Complex,processing,Mill Floor,50.197176,-114.208491,Day,WKR5509,Processing Technician,Equipment Interference,3,False,0,0,True,16.98,75,EQ278,19.1,37.2
+RPT10330,2025-09-16 18:22:51.452014,North Ridge Mine,underground,Crusher,50.104027,-114.016565,Night,WKR9257,Geologist,Chemical,2,True,1,0,False,,41,,30.9,4.8
+RPT10331,2025-08-17 12:21:51.452014,Surface Operations,surface,Surface Pit,50.026767,-114.319313,Day,WKR1649,Supervisor,Ground Instability,1,True,1,0,True,6.15,54,,19.6,49.8
+RPT10332,2025-06-23 12:01:51.452014,Lakeview Shaft,underground,Conveyor,49.846,-115.122282,Day,WKR6730,Supervisor,Ground Instability,1,True,0,0,True,7.9,36,,22.7,17.9
+RPT10333,2025-11-02 15:16:51.452014,North Ridge Mine,underground,Shaft 1,50.127862,-114.032089,Night,WKR5442,Operator,Environmental,1,False,0,0,True,1.73,62,,25.7,-17.6
+RPT10334,2025-08-23 17:38:51.452014,North Ridge Mine,underground,Shaft 2,50.130492,-114.047045,Evening,WKR6376,Logistics,Other,1,True,1,0,True,7.78,24,,29.0,3.5
+RPT10335,2025-10-03 08:40:51.452014,North Ridge Mine,underground,Shaft 1,50.131721,-114.02925,Night,WKR4644,Safety Officer,Equipment Interference,4,False,0,1,True,28.73,91,EQ697,29.0,17.8
+RPT10336,2025-11-13 17:48:51.452014,Lakeview Shaft,underground,Surface Pit,49.840818,-115.112223,Day,WKR3959,Operator,Other,2,True,0,0,True,5.69,63,,32.3,8.4
+RPT10337,2025-11-22 03:32:51.452014,Mill Complex,processing,Maintenance Bay,50.192217,-114.210862,Evening,WKR1947,Safety Officer,Equipment Interference,3,False,0,0,True,52.43,73,EQ721,12.8,47.3
+RPT10338,2025-11-06 02:38:51.452014,Mill Complex,processing,Shaft 2,50.19323,-114.205724,Day,WKR6323,Operator,Slip/Trip,1,False,0,0,True,6.06,41,,14.8,73.5
+RPT10339,2025-07-09 09:36:51.452014,North Ridge Mine,underground,Shaft 1,50.109082,-114.016173,Day,WKR6225,Operator,Ergonomics,1,True,1,0,True,1.96,30,,28.1,20.6
+RPT10340,2025-09-05 15:55:51.452014,Surface Operations,surface,Conveyor,50.07128,-114.289462,Day,WKR3061,Safety Officer,Other,2,True,1,0,True,12.91,60,,19.8,70.9
+RPT10341,2025-10-22 19:21:51.452014,Lakeview Shaft,underground,Conveyor,49.841929,-115.122094,Night,WKR7494,Safety Officer,Slip/Trip,1,False,0,0,True,4.72,51,,32.6,27.7
+RPT10342,2025-11-02 08:47:51.452014,North Ridge Mine,underground,Surface Pit,50.122578,-114.018863,Day,WKR1171,Processing Technician,Slip/Trip,2,True,0,0,True,6.04,63,,36.3,19.8
+RPT10343,2025-09-23 16:49:51.452014,Lakeview Shaft,underground,Crusher,49.863083,-115.123513,Evening,WKR8411,Operator,Ergonomics,2,True,0,0,True,17.08,58,,32.6,14.4
+RPT10344,2025-09-14 04:30:51.452014,Surface Operations,surface,Conveyor,50.053815,-114.292791,Night,WKR2691,Geologist,Electrical,1,True,1,0,True,5.81,65,EQ537,24.9,42.6
+RPT10345,2025-07-11 18:50:51.452014,Mill Complex,processing,Loading Bay,50.203799,-114.199519,Night,WKR8607,Supervisor,Slip/Trip,1,True,0,0,True,3.34,25,,23.1,8.4
+RPT10346,2025-08-24 17:45:51.452014,Surface Operations,surface,Shaft 2,50.057918,-114.287557,Day,WKR5040,Processing Technician,Slip/Trip,1,True,1,0,True,2.93,28,,29.3,49.2
+RPT10347,2025-11-09 04:21:51.452014,Lakeview Shaft,underground,Surface Pit,49.837968,-115.12321,Night,WKR7715,Operator,Slip/Trip,1,True,0,0,True,5.69,58,,28.4,4.4
+RPT10348,2025-07-24 03:57:51.452014,Lakeview Shaft,underground,Shaft 1,49.866957,-115.119995,Night,WKR3677,Geologist,Visibility,2,True,0,0,True,6.01,35,,32.8,39.2
+RPT10349,2025-08-07 03:54:51.452014,Lakeview Shaft,underground,Mill Floor,49.860356,-115.15582,Night,WKR2152,Operator,Equipment Interference,3,True,0,0,True,14.46,55,EQ211,31.0,-4.5
+RPT10350,2025-06-25 07:13:51.452014,Surface Operations,surface,Maintenance Bay,50.037605,-114.303539,Day,WKR9469,Operator,Other,2,True,0,0,True,6.69,74,,24.3,81.7
+RPT10351,2025-09-01 13:59:51.452014,Mill Complex,processing,Maintenance Bay,50.18673,-114.201838,Day,WKR1665,Maintenance,Slip/Trip,4,True,0,1,True,66.02,81,,23.4,75.3
+RPT10352,2025-09-04 09:56:51.452014,Mill Complex,processing,Mill Floor,50.207291,-114.19481,Day,WKR2394,Logistics,Visibility,2,True,0,0,True,32.31,62,,27.9,71.1
+RPT10353,2025-10-17 11:50:51.452014,Mill Complex,processing,Shaft 1,50.198836,-114.203519,Day,WKR1074,Supervisor,Chemical,4,True,0,0,True,39.27,74,,26.2,45.9
+RPT10354,2025-10-31 11:53:51.452014,North Ridge Mine,underground,Surface Pit,50.124134,-114.020465,Day,WKR9782,Engineer,Ground Instability,4,True,0,0,True,19.57,79,,31.8,11.4
+RPT10355,2025-10-27 10:52:51.452014,Lakeview Shaft,underground,Shaft 1,49.847488,-115.116966,Night,WKR6322,Operator,Environmental,4,True,0,0,True,20.99,100,,30.5,35.2
+RPT10356,2025-11-23 07:20:51.452014,Mill Complex,processing,Shaft 2,50.20583,-114.192955,Day,WKR1083,Operator,Other,3,True,0,0,True,21.97,83,,23.4,69.5
+RPT10357,2025-07-17 07:12:51.452014,Lakeview Shaft,underground,Surface Pit,49.847973,-115.137669,Day,WKR7959,Logistics,Electrical,1,True,0,0,True,5.31,43,EQ431,25.3,-4.2
+RPT10358,2025-10-01 17:04:51.452014,Mill Complex,processing,Loading Bay,50.201345,-114.208993,Day,WKR2208,Operator,Other,1,True,0,0,True,3.48,36,,10.5,43.2
+RPT10359,2025-07-17 12:33:51.452014,North Ridge Mine,underground,Surface Pit,50.10049,-114.020262,Day,WKR8199,Safety Officer,Chemical,3,True,0,0,True,23.22,72,,34.2,26.6
+RPT10360,2025-10-04 03:18:51.452014,Lakeview Shaft,underground,Crusher,49.851257,-115.123918,Day,WKR1487,Maintenance,Environmental,2,True,1,0,True,5.62,76,,25.5,-4.8
+RPT10361,2025-08-08 18:59:51.452014,Mill Complex,processing,Surface Pit,50.197896,-114.199833,Evening,WKR4321,Maintenance,Visibility,2,True,0,0,True,14.22,59,,16.5,85.3
+RPT10362,2025-10-22 21:16:51.452014,Mill Complex,processing,Crusher,50.208334,-114.204217,Day,WKR2691,Processing Technician,Visibility,4,True,0,0,True,54.6,81,,18.6,65.7
+RPT10363,2025-08-10 12:45:51.452014,Surface Operations,surface,Maintenance Bay,50.041414,-114.299427,Day,WKR2144,Maintenance,Equipment Interference,2,True,1,0,True,11.83,64,EQ840,16.0,83.4
+RPT10364,2025-07-11 11:48:51.452014,North Ridge Mine,underground,Mill Floor,50.128486,-114.017902,Night,WKR4369,Geologist,Environmental,1,True,0,0,False,,45,,29.1,9.9
+RPT10365,2025-07-03 06:10:51.452014,Surface Operations,surface,Shaft 2,50.045135,-114.313,Night,WKR7195,Safety Officer,Visibility,3,True,0,0,True,30.13,74,,25.4,47.0
+RPT10366,2025-07-26 08:04:51.452014,North Ridge Mine,underground,Shaft 1,50.112638,-114.019909,Night,WKR1353,Processing Technician,Environmental,2,True,0,0,True,5.74,59,,26.2,9.6
+RPT10367,2025-07-24 04:39:51.452014,Mill Complex,processing,Mill Floor,50.20007,-114.193394,Day,WKR9282,Safety Officer,Ergonomics,1,True,0,0,True,3.69,47,,26.0,44.2
+RPT10368,2025-08-14 11:55:51.452014,Mill Complex,processing,Crusher,50.201321,-114.220488,Day,WKR7337,Operator,Chemical,3,True,0,0,True,63.31,69,,26.5,41.9
+RPT10369,2025-08-01 03:22:51.452014,Mill Complex,processing,Mill Floor,50.202658,-114.198974,Day,WKR2759,Maintenance,Visibility,1,True,0,0,True,2.93,29,,14.4,74.1
+RPT10370,2025-10-21 04:33:51.452014,Surface Operations,surface,Surface Pit,50.035733,-114.285992,Evening,WKR3405,Safety Officer,Slip/Trip,3,True,0,0,True,26.87,73,,22.5,79.7
+RPT10371,2025-08-21 00:40:51.452014,North Ridge Mine,underground,Crusher,50.101515,-114.015834,Evening,WKR1431,Safety Officer,Visibility,4,True,0,0,False,,90,,28.9,8.5
+RPT10372,2025-07-30 10:46:51.452014,North Ridge Mine,underground,Loading Bay,50.106464,-114.029048,Day,WKR9774,Operator,Slip/Trip,2,True,0,0,False,,57,,30.4,21.8
+RPT10373,2025-06-15 15:49:51.452014,North Ridge Mine,underground,Loading Bay,50.113595,-114.013282,Day,WKR2391,Safety Officer,Electrical,3,True,0,0,False,,74,EQ244,26.3,15.5
+RPT10374,2025-10-26 09:13:51.452014,Mill Complex,processing,Surface Pit,50.19583,-114.208632,Night,WKR8059,Processing Technician,Chemical,4,True,0,0,True,85.82,83,,20.9,24.2
+RPT10375,2025-06-21 22:28:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.831998,-115.111978,Day,WKR3259,Maintenance,Electrical,3,True,0,0,True,53.28,62,EQ750,31.0,-2.0
+RPT10376,2025-09-15 02:08:51.452014,Lakeview Shaft,underground,Crusher,49.853449,-115.129052,Day,WKR7349,Processing Technician,Slip/Trip,1,True,0,0,True,7.11,35,,29.6,27.7
+RPT10377,2025-10-05 15:25:51.452014,North Ridge Mine,underground,Crusher,50.12991,-113.998382,Day,WKR5564,Processing Technician,Visibility,4,True,0,0,True,38.49,68,,34.3,6.6
+RPT10378,2025-06-12 08:56:51.452014,Surface Operations,surface,Loading Bay,50.026645,-114.307204,Day,WKR3107,Operator,Electrical,1,True,1,0,False,,33,EQ250,24.9,15.1
+RPT10379,2025-06-16 07:28:51.452014,Surface Operations,surface,Conveyor,50.044662,-114.293917,Day,WKR3472,Processing Technician,Environmental,1,True,0,0,False,,51,,23.8,47.0
+RPT10380,2025-07-27 10:18:51.452014,Mill Complex,processing,Crusher,50.187759,-114.164388,Evening,WKR2452,Engineer,Equipment Interference,2,True,1,0,True,18.05,73,EQ129,23.5,35.4
+RPT10381,2025-10-12 08:46:51.452014,Mill Complex,processing,Maintenance Bay,50.212428,-114.198093,Night,WKR3927,Engineer,Fire/Explosion,2,True,1,0,False,,57,EQ458,17.6,32.2
+RPT10382,2025-10-11 08:57:51.452014,Surface Operations,surface,Shaft 1,50.04965,-114.297211,Day,WKR2915,Operator,Environmental,5,True,0,0,True,209.58,100,,26.1,66.2
+RPT10383,2025-07-03 12:50:51.452014,Mill Complex,processing,Shaft 2,50.197608,-114.195675,Evening,WKR2136,Maintenance,Electrical,1,True,0,0,True,3.52,25,EQ435,22.4,30.1
+RPT10384,2025-11-02 17:07:51.452014,North Ridge Mine,underground,Surface Pit,50.111493,-114.030204,Evening,WKR9126,Operator,Electrical,3,True,0,0,True,24.46,93,EQ673,32.5,28.8
+RPT10385,2025-09-10 12:46:51.452014,Mill Complex,processing,Conveyor,50.181671,-114.185748,Day,WKR2629,Supervisor,Other,1,True,0,0,True,0.76,42,,18.2,61.5
+RPT10386,2025-07-12 08:57:51.452014,Mill Complex,processing,Shaft 1,50.187243,-114.204267,Day,WKR2974,Engineer,Slip/Trip,3,True,0,0,True,70.57,50,,24.9,43.0
+RPT10387,2025-11-10 11:38:51.452014,North Ridge Mine,underground,Surface Pit,50.126282,-114.013186,Day,WKR7066,Processing Technician,Equipment Interference,1,True,0,0,True,3.07,40,EQ136,30.0,5.9
+RPT10388,2025-06-10 17:56:51.452014,Lakeview Shaft,underground,Crusher,49.828767,-115.107524,Day,WKR6662,Engineer,Environmental,2,True,0,0,True,5.61,39,,25.2,24.0
+RPT10389,2025-10-17 12:16:51.452014,Mill Complex,processing,Crusher,50.204222,-114.204232,Night,WKR7817,Operator,Slip/Trip,2,False,0,0,False,,64,,20.1,44.0
+RPT10390,2025-07-10 23:55:51.452014,North Ridge Mine,underground,Crusher,50.120032,-114.021638,Night,WKR8075,Safety Officer,Chemical,5,True,0,0,True,495.35,100,,28.5,32.9
+RPT10391,2025-09-03 10:49:51.452014,North Ridge Mine,underground,Shaft 2,50.122206,-114.009487,Evening,WKR9307,Maintenance,Ergonomics,3,True,0,0,True,47.77,66,,28.6,15.4
+RPT10392,2025-09-12 06:59:51.452014,Surface Operations,surface,Maintenance Bay,50.058922,-114.288683,Day,WKR6511,Supervisor,Ground Instability,1,False,0,0,False,,69,,18.9,56.7
+RPT10393,2025-06-27 14:36:51.452014,North Ridge Mine,underground,Maintenance Bay,50.124309,-114.017735,Day,WKR9601,Processing Technician,Electrical,2,True,1,0,True,6.8,57,EQ583,31.1,18.8
+RPT10394,2025-06-29 18:04:51.452014,North Ridge Mine,underground,Loading Bay,50.112314,-113.998238,Night,WKR3547,Engineer,Environmental,1,True,1,0,True,3.35,44,,23.4,-20.8
+RPT10395,2025-07-07 21:11:51.452014,Lakeview Shaft,underground,Mill Floor,49.834469,-115.115004,Day,WKR1210,Engineer,Environmental,1,True,0,0,True,1.37,39,,27.9,15.6
+RPT10396,2025-06-11 10:50:51.452014,Surface Operations,surface,Loading Bay,50.055119,-114.308901,Evening,WKR8238,Operator,Equipment Interference,4,True,0,0,True,31.2,79,EQ555,25.7,57.2
+RPT10397,2025-10-06 09:32:51.452014,North Ridge Mine,underground,Maintenance Bay,50.134333,-114.023764,Evening,WKR7806,Maintenance,Environmental,2,False,0,0,True,5.27,73,,32.1,5.3
+RPT10398,2025-10-20 01:53:51.452014,Lakeview Shaft,underground,Mill Floor,49.843768,-115.119969,Day,WKR6121,Supervisor,Environmental,3,True,0,0,True,25.57,69,,25.1,2.7
+RPT10399,2025-05-28 13:09:51.452014,Lakeview Shaft,underground,Surface Pit,49.854009,-115.122259,Evening,WKR2136,Operator,Ergonomics,3,True,0,0,False,,49,,35.3,-16.8
+RPT10400,2025-06-05 20:43:51.452014,North Ridge Mine,underground,Surface Pit,50.126588,-114.039338,Night,WKR2130,Operator,Equipment Interference,1,True,0,0,True,1.98,49,EQ132,26.8,35.5
+RPT10401,2025-09-14 18:52:51.452014,Lakeview Shaft,underground,Shaft 1,49.834663,-115.117445,Evening,WKR2088,Logistics,Environmental,2,True,0,0,True,8.5,41,,33.6,-14.9
+RPT10402,2025-11-23 00:39:51.452014,North Ridge Mine,underground,Surface Pit,50.109707,-114.019484,Night,WKR4943,Maintenance,Chemical,3,True,0,0,True,62.74,68,,35.1,-0.6
+RPT10403,2025-10-07 12:02:51.452014,Lakeview Shaft,underground,Loading Bay,49.834115,-115.124722,Day,WKR8269,Logistics,Visibility,2,False,0,0,True,5.68,79,,25.1,9.0
+RPT10404,2025-07-23 17:41:51.452014,Lakeview Shaft,underground,Crusher,49.844303,-115.124024,Evening,WKR5553,Operator,Visibility,2,True,0,0,True,5.78,72,,25.4,6.2
+RPT10405,2025-11-15 21:19:51.452014,Lakeview Shaft,underground,Shaft 2,49.840935,-115.131215,Evening,WKR3120,Operator,Visibility,4,True,0,0,True,19.59,64,,30.3,7.0
+RPT10406,2025-09-16 11:41:51.452014,Lakeview Shaft,underground,Mill Floor,49.841565,-115.1244,Day,WKR6829,Processing Technician,Chemical,4,False,0,1,True,132.99,97,,28.6,21.1
+RPT10407,2025-09-28 17:02:51.452014,Surface Operations,surface,Shaft 1,50.058142,-114.314608,Evening,WKR9145,Operator,Ergonomics,5,True,0,0,True,203.98,100,,10.9,42.7
+RPT10408,2025-06-08 22:52:51.452014,Mill Complex,processing,Shaft 2,50.20894,-114.188032,Evening,WKR8285,Operator,Equipment Interference,2,True,1,0,True,18.08,71,EQ533,11.6,28.1
+RPT10409,2025-07-07 20:27:51.452014,North Ridge Mine,underground,Surface Pit,50.121983,-114.026113,Evening,WKR7386,Engineer,Ergonomics,1,False,0,0,True,14.14,54,,30.0,1.7
+RPT10410,2025-08-19 17:47:51.452014,North Ridge Mine,underground,Surface Pit,50.099771,-114.016029,Day,WKR4760,Processing Technician,Ergonomics,2,True,0,0,False,,36,,29.5,2.4
+RPT10411,2025-09-28 20:05:51.452014,Lakeview Shaft,underground,Crusher,49.852785,-115.127134,Night,WKR8698,Operator,Equipment Interference,1,True,0,0,True,4.02,44,EQ960,25.4,15.8
+RPT10412,2025-08-23 02:07:51.452014,Mill Complex,processing,Crusher,50.203564,-114.194245,Day,WKR8510,Engineer,Slip/Trip,4,False,0,0,True,168.58,90,,15.7,46.6
+RPT10413,2025-08-06 00:39:51.452014,Lakeview Shaft,underground,Mill Floor,49.8229,-115.115839,Day,WKR8751,Safety Officer,Ground Instability,3,False,0,0,True,13.51,73,,32.6,12.3
+RPT10414,2025-06-22 14:02:51.452014,Surface Operations,surface,Conveyor,50.055555,-114.299883,Day,WKR8855,Operator,Ergonomics,3,True,0,0,False,,46,,24.0,45.9
+RPT10415,2025-08-16 02:30:51.452014,North Ridge Mine,underground,Conveyor,50.101578,-114.017256,Evening,WKR3944,Engineer,Ground Instability,1,True,0,0,True,1.45,30,,30.7,16.1
+RPT10416,2025-10-25 19:55:51.452014,North Ridge Mine,underground,Maintenance Bay,50.112557,-114.009295,Day,WKR6459,Maintenance,Other,1,True,0,0,True,3.07,25,,32.0,-12.0
+RPT10417,2025-09-11 04:09:51.452014,Lakeview Shaft,underground,Mill Floor,49.841439,-115.111422,Day,WKR8384,Logistics,Slip/Trip,3,True,0,0,True,17.99,80,,27.9,-2.6
+RPT10418,2025-10-05 06:27:51.452014,Surface Operations,surface,Conveyor,50.055981,-114.282665,Night,WKR1571,Logistics,Electrical,1,True,1,0,True,7.32,35,EQ756,20.8,68.0
+RPT10419,2025-08-18 15:03:51.452014,Mill Complex,processing,Mill Floor,50.202812,-114.193582,Day,WKR3904,Safety Officer,Other,1,True,0,0,False,,32,,21.1,69.0
+RPT10420,2025-08-12 05:30:51.452014,Lakeview Shaft,underground,Crusher,49.8644,-115.125103,Night,WKR5408,Operator,Slip/Trip,2,True,0,0,True,18.09,63,,31.8,4.7
+RPT10421,2025-10-10 18:40:51.452014,Mill Complex,processing,Loading Bay,50.19477,-114.20624,Day,WKR4423,Operator,Electrical,1,True,0,0,False,,77,EQ133,25.1,56.9
+RPT10422,2025-07-09 01:33:51.452014,Lakeview Shaft,underground,Surface Pit,49.84038,-115.128829,Day,WKR7380,Maintenance,Equipment Interference,5,True,0,0,False,,83,EQ458,32.9,-0.4
+RPT10423,2025-07-24 19:48:51.452014,Lakeview Shaft,underground,Loading Bay,49.840108,-115.116854,Day,WKR2501,Geologist,Chemical,5,True,0,1,True,490.44,62,,23.7,-11.4
+RPT10424,2025-06-03 07:50:51.452014,Mill Complex,processing,Surface Pit,50.203932,-114.179298,Day,WKR9003,Operator,Ground Instability,2,True,0,0,True,4.96,62,,26.0,42.8
+RPT10425,2025-11-02 19:39:51.452014,Mill Complex,processing,Surface Pit,50.201628,-114.191935,Evening,WKR5345,Geologist,Fire/Explosion,2,True,0,0,True,10.74,52,EQ887,19.1,61.7
+RPT10426,2025-08-25 03:39:51.452014,Surface Operations,surface,Surface Pit,50.045609,-114.299456,Day,WKR1340,Operator,Chemical,1,False,1,0,True,6.14,27,,17.3,31.7
+RPT10427,2025-06-10 20:35:51.452014,Surface Operations,surface,Mill Floor,50.063923,-114.290365,Day,WKR6660,Operator,Environmental,2,True,1,0,True,6.8,39,,17.2,62.3
+RPT10428,2025-10-21 21:05:51.452014,North Ridge Mine,underground,Mill Floor,50.115912,-114.036783,Evening,WKR5696,Logistics,Ergonomics,2,True,1,0,True,7.88,64,,33.9,56.2
+RPT10429,2025-08-27 16:31:51.452014,North Ridge Mine,underground,Maintenance Bay,50.115457,-114.017709,Night,WKR6943,Operator,Equipment Interference,1,True,0,0,True,3.41,71,EQ611,27.6,3.0
+RPT10430,2025-09-21 11:23:51.452014,Mill Complex,processing,Crusher,50.21866,-114.196335,Night,WKR7722,Logistics,Ground Instability,3,True,0,0,True,15.06,40,,20.4,56.1
+RPT10431,2025-07-07 07:50:51.452014,Surface Operations,surface,Surface Pit,50.061767,-114.291052,Night,WKR2499,Logistics,Slip/Trip,3,True,0,0,True,39.55,60,,14.6,51.4
+RPT10432,2025-07-12 00:50:51.452014,North Ridge Mine,underground,Loading Bay,50.115352,-114.01555,Night,WKR4161,Safety Officer,Electrical,1,True,0,0,True,1.91,58,EQ962,31.2,29.7
+RPT10433,2025-11-09 13:04:51.452014,Lakeview Shaft,underground,Conveyor,49.827425,-115.121623,Night,WKR8137,Processing Technician,Chemical,2,True,1,0,True,11.42,42,,28.4,15.5
+RPT10434,2025-07-25 20:25:51.452014,North Ridge Mine,underground,Conveyor,50.116806,-114.033375,Night,WKR4075,Safety Officer,Chemical,3,True,0,0,True,31.78,63,,30.8,13.8
+RPT10435,2025-10-07 20:30:51.452014,Mill Complex,processing,Maintenance Bay,50.200543,-114.18393,Evening,WKR9765,Operator,Slip/Trip,4,True,0,0,True,71.15,70,,24.1,37.8
+RPT10436,2025-10-24 10:09:51.452014,Surface Operations,surface,Crusher,50.052151,-114.289984,Day,WKR4104,Logistics,Other,1,True,1,0,True,5.2,44,,23.0,64.0
+RPT10437,2025-06-14 17:35:51.452014,Surface Operations,surface,Loading Bay,50.056864,-114.291976,Day,WKR1006,Geologist,Visibility,3,True,0,0,True,24.44,56,,19.3,56.1
+RPT10438,2025-10-15 20:48:51.452014,North Ridge Mine,underground,Crusher,50.118803,-114.015057,Day,WKR1926,Maintenance,Visibility,3,True,0,0,True,6.71,79,,27.2,16.0
+RPT10439,2025-10-03 09:50:51.452014,Mill Complex,processing,Shaft 1,50.200129,-114.20987,Night,WKR4570,Maintenance,Slip/Trip,1,True,1,0,True,1.59,26,,19.0,25.8
+RPT10440,2025-09-18 14:18:51.452014,Mill Complex,processing,Crusher,50.195698,-114.200438,Day,WKR2113,Safety Officer,Ground Instability,1,True,0,0,True,10.39,12,,24.8,34.4
+RPT10441,2025-10-15 20:39:51.452014,North Ridge Mine,underground,Shaft 1,50.104285,-114.012918,Night,WKR5377,Engineer,Slip/Trip,4,True,0,0,True,33.4,93,,33.6,22.3
+RPT10442,2025-11-17 07:43:51.452014,Surface Operations,surface,Shaft 1,50.047503,-114.273671,Day,WKR2082,Supervisor,Other,1,True,0,0,True,13.72,30,,21.3,44.3
+RPT10443,2025-07-25 00:29:51.452014,Mill Complex,processing,Maintenance Bay,50.193313,-114.195352,Day,WKR2081,Safety Officer,Ground Instability,1,True,1,0,True,3.11,45,,21.7,38.8
+RPT10444,2025-06-19 13:20:51.452014,North Ridge Mine,underground,Crusher,50.111361,-114.028081,Day,WKR3407,Engineer,Visibility,1,True,0,0,True,2.99,46,,36.3,4.7
+RPT10445,2025-08-17 17:57:51.452014,Mill Complex,processing,Shaft 2,50.200612,-114.189601,Night,WKR3002,Operator,Fire/Explosion,1,True,0,0,False,,39,EQ150,25.3,37.6
+RPT10446,2025-07-14 13:07:51.452014,North Ridge Mine,underground,Maintenance Bay,50.114286,-114.016443,Evening,WKR9556,Maintenance,Visibility,3,False,0,0,True,27.73,92,,31.1,0.1
+RPT10447,2025-11-06 05:18:51.452014,Mill Complex,processing,Crusher,50.198341,-114.195462,Day,WKR2755,Operator,Slip/Trip,2,True,0,0,False,,41,,19.3,51.2
+RPT10448,2025-08-31 06:38:51.452014,Surface Operations,surface,Shaft 2,50.049847,-114.314852,Day,WKR9546,Processing Technician,Slip/Trip,1,True,1,0,True,2.55,63,,24.7,42.6
+RPT10449,2025-08-03 13:46:51.452014,North Ridge Mine,underground,Mill Floor,50.111896,-114.013028,Day,WKR8659,Geologist,Fire/Explosion,3,True,0,0,True,18.83,55,EQ340,28.0,27.5
+RPT10450,2025-06-05 05:23:51.452014,North Ridge Mine,underground,Surface Pit,50.10559,-114.028406,Day,WKR9702,Supervisor,Environmental,5,True,0,0,False,,100,,29.8,19.1
+RPT10451,2025-06-08 20:06:51.452014,Surface Operations,surface,Conveyor,50.06599,-114.291664,Day,WKR9352,Operator,Visibility,2,True,0,0,True,2.58,64,,23.3,75.5
+RPT10452,2025-09-09 08:46:51.452014,North Ridge Mine,underground,Shaft 1,50.111232,-114.017925,Day,WKR9972,Engineer,Electrical,1,True,0,0,True,5.52,32,EQ995,37.4,25.7
+RPT10453,2025-10-07 11:02:51.452014,Surface Operations,surface,Conveyor,50.055324,-114.290628,Day,WKR6391,Operator,Electrical,1,True,0,0,True,1.95,43,EQ669,22.9,56.3
+RPT10454,2025-06-27 22:04:51.452014,North Ridge Mine,underground,Shaft 1,50.099421,-114.031498,Day,WKR9596,Operator,Slip/Trip,1,False,0,0,True,5.45,53,,31.2,10.7
+RPT10455,2025-07-01 00:27:51.452014,Mill Complex,processing,Conveyor,50.199592,-114.206892,Day,WKR6678,Operator,Visibility,3,False,0,0,True,9.3,80,,18.8,84.0
+RPT10456,2025-09-20 16:23:51.452014,Mill Complex,processing,Loading Bay,50.21327,-114.212666,Night,WKR4604,Operator,Other,2,False,0,0,True,11.63,80,,20.6,40.4
+RPT10457,2025-11-06 17:26:51.452014,Mill Complex,processing,Shaft 2,50.207329,-114.206127,Day,WKR2048,Logistics,Ergonomics,1,True,0,0,True,4.0,30,,17.8,68.7
+RPT10458,2025-09-17 15:39:51.452014,Surface Operations,surface,Shaft 1,50.029337,-114.293797,Evening,WKR3420,Engineer,Slip/Trip,2,True,1,0,False,,35,,20.1,49.6
+RPT10459,2025-10-22 11:24:51.452014,Mill Complex,processing,Surface Pit,50.204735,-114.176505,Day,WKR3634,Processing Technician,Environmental,1,False,1,0,True,13.49,55,,23.3,55.4
+RPT10460,2025-08-28 12:58:51.452014,North Ridge Mine,underground,Shaft 1,50.115607,-114.022258,Night,WKR3356,Processing Technician,Other,1,True,0,0,False,,60,,27.6,15.3
+RPT10461,2025-09-21 20:55:51.452014,Lakeview Shaft,underground,Shaft 1,49.825353,-115.140679,Evening,WKR9452,Operator,Electrical,1,True,0,0,True,3.17,52,EQ424,30.8,-11.5
+RPT10462,2025-06-10 16:47:51.452014,Lakeview Shaft,underground,Shaft 2,49.846495,-115.131478,Night,WKR8901,Safety Officer,Slip/Trip,1,False,0,0,True,2.74,93,,25.3,2.3
+RPT10463,2025-11-10 12:23:51.452014,North Ridge Mine,underground,Crusher,50.135784,-114.040258,Day,WKR9615,Maintenance,Other,1,False,1,0,True,3.31,48,,34.2,17.3
+RPT10464,2025-09-20 23:34:51.452014,Lakeview Shaft,underground,Shaft 1,49.843927,-115.125134,Day,WKR2948,Supervisor,Slip/Trip,3,True,0,0,False,,68,,23.2,3.5
+RPT10465,2025-06-27 01:02:51.452014,Mill Complex,processing,Shaft 2,50.193668,-114.198517,Night,WKR2655,Engineer,Environmental,1,True,1,0,True,7.85,68,,25.3,63.6
+RPT10466,2025-09-30 04:49:51.452014,North Ridge Mine,underground,Loading Bay,50.105504,-114.034157,Day,WKR8436,Operator,Environmental,1,True,1,0,True,3.48,28,,25.1,11.0
+RPT10467,2025-10-05 23:04:51.452014,Mill Complex,processing,Mill Floor,50.203462,-114.191928,Day,WKR4693,Processing Technician,Environmental,2,True,0,0,True,18.34,66,,18.6,60.5
+RPT10468,2025-07-17 02:04:51.452014,Mill Complex,processing,Shaft 1,50.201465,-114.189003,Night,WKR4201,Logistics,Slip/Trip,1,True,0,0,True,1.97,51,,26.8,43.5
+RPT10469,2025-09-08 12:18:51.452014,Lakeview Shaft,underground,Crusher,49.867593,-115.120382,Day,WKR8043,Maintenance,Environmental,2,True,1,0,True,11.43,52,,34.2,-4.4
+RPT10470,2025-10-06 14:52:51.452014,Surface Operations,surface,Shaft 2,50.055774,-114.294703,Night,WKR1961,Operator,Environmental,2,True,1,0,False,,70,,15.0,51.4
+RPT10471,2025-10-28 14:01:51.452014,North Ridge Mine,underground,Conveyor,50.115069,-114.02533,Day,WKR9092,Maintenance,Ground Instability,2,True,0,0,True,6.99,54,,26.9,17.2
+RPT10472,2025-07-07 02:06:51.452014,Mill Complex,processing,Shaft 1,50.208721,-114.212098,Day,WKR7338,Logistics,Other,3,False,0,0,True,78.13,69,,20.2,34.7
+RPT10473,2025-09-02 21:26:51.452014,Surface Operations,surface,Conveyor,50.035013,-114.288981,Day,WKR3997,Operator,Ergonomics,2,True,0,0,True,7.27,61,,24.4,56.5
+RPT10474,2025-09-04 04:09:51.452014,Lakeview Shaft,underground,Surface Pit,49.850838,-115.100147,Day,WKR7077,Maintenance,Environmental,3,True,0,0,True,12.39,51,,36.0,1.9
+RPT10475,2025-10-29 02:57:51.452014,Mill Complex,processing,Shaft 2,50.189999,-114.196004,Day,WKR5841,Operator,Ground Instability,3,True,0,0,False,,77,,18.5,23.4
+RPT10476,2025-10-29 02:31:51.452014,North Ridge Mine,underground,Shaft 1,50.107658,-114.021858,Day,WKR4810,Safety Officer,Slip/Trip,1,True,1,0,True,2.51,43,,30.6,-7.2
+RPT10477,2025-07-04 07:00:51.452014,Surface Operations,surface,Shaft 2,50.042725,-114.305585,Day,WKR7861,Supervisor,Environmental,4,True,0,0,True,42.93,94,,18.3,47.8
+RPT10478,2025-08-30 23:23:51.452014,Surface Operations,surface,Mill Floor,50.054872,-114.303913,Night,WKR3138,Operator,Equipment Interference,5,True,0,0,True,60.66,88,EQ488,21.7,67.6
+RPT10479,2025-09-28 02:01:51.452014,Mill Complex,processing,Maintenance Bay,50.206467,-114.203731,Night,WKR6332,Operator,Slip/Trip,1,False,1,0,False,,62,,17.6,70.7
+RPT10480,2025-10-26 03:52:51.452014,North Ridge Mine,underground,Shaft 2,50.111489,-114.029599,Day,WKR8537,Maintenance,Ergonomics,1,False,1,0,True,3.05,65,,22.9,-1.2
+RPT10481,2025-09-26 04:54:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.836985,-115.130486,Evening,WKR3515,Geologist,Chemical,2,True,0,0,True,11.65,48,,29.6,16.2
+RPT10482,2025-08-24 03:20:51.452014,Lakeview Shaft,underground,Shaft 2,49.840574,-115.12898,Day,WKR1311,Operator,Slip/Trip,3,True,0,0,True,19.59,72,,28.7,20.3
+RPT10483,2025-06-30 05:24:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.836613,-115.130218,Night,WKR4886,Operator,Environmental,1,True,1,0,True,10.06,59,,30.2,13.2
+RPT10484,2025-06-08 20:23:51.452014,Lakeview Shaft,underground,Crusher,49.866818,-115.127232,Evening,WKR9074,Logistics,Other,5,True,0,0,True,137.76,100,,25.7,8.3
+RPT10485,2025-07-17 02:21:51.452014,Mill Complex,processing,Loading Bay,50.201887,-114.217812,Night,WKR2801,Operator,Slip/Trip,2,True,0,0,True,5.67,49,,17.4,44.5
+RPT10486,2025-06-12 13:53:51.452014,Mill Complex,processing,Conveyor,50.194681,-114.198459,Evening,WKR6151,Maintenance,Environmental,1,True,0,0,True,1.77,40,,24.5,71.1
+RPT10487,2025-11-11 21:25:51.452014,Surface Operations,surface,Loading Bay,50.049697,-114.290096,Day,WKR2018,Processing Technician,Ergonomics,1,True,1,0,True,2.91,43,,13.6,62.9
+RPT10488,2025-06-30 22:55:51.452014,Surface Operations,surface,Surface Pit,50.046374,-114.297681,Day,WKR4211,Geologist,Ground Instability,2,False,1,0,True,4.79,73,,24.8,56.1
+RPT10489,2025-06-22 20:20:51.452014,North Ridge Mine,underground,Conveyor,50.118146,-114.030574,Day,WKR9465,Supervisor,Environmental,3,True,0,0,False,,72,,33.0,31.2
+RPT10490,2025-11-09 04:26:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.851109,-115.110432,Day,WKR5049,Engineer,Slip/Trip,2,True,0,0,True,5.13,47,,33.3,25.8
+RPT10491,2025-10-12 07:40:51.452014,Lakeview Shaft,underground,Shaft 1,49.830308,-115.134664,Day,WKR2454,Operator,Other,2,False,0,0,True,7.96,38,,25.5,13.4
+RPT10492,2025-09-06 14:49:51.452014,Surface Operations,surface,Maintenance Bay,50.037058,-114.290796,Day,WKR5900,Supervisor,Environmental,2,True,1,0,True,19.25,52,,17.9,27.0
+RPT10493,2025-11-04 14:08:51.452014,Lakeview Shaft,underground,Surface Pit,49.846514,-115.119146,Night,WKR5792,Operator,Equipment Interference,1,True,1,0,False,,62,EQ496,32.6,10.9
+RPT10494,2025-08-05 06:22:51.452014,Lakeview Shaft,underground,Mill Floor,49.83214,-115.100093,Evening,WKR8569,Processing Technician,Ground Instability,1,True,1,0,True,6.54,58,,30.3,13.1
+RPT10495,2025-09-11 16:13:51.452014,Surface Operations,surface,Shaft 2,50.031764,-114.288355,Day,WKR8807,Operator,Ground Instability,3,True,0,0,False,,48,,19.4,58.0
+RPT10496,2025-08-14 18:24:51.452014,Mill Complex,processing,Maintenance Bay,50.212898,-114.213506,Day,WKR5801,Operator,Chemical,2,False,1,0,True,4.69,64,,20.4,16.2
+RPT10497,2025-11-03 15:36:51.452014,Surface Operations,surface,Maintenance Bay,50.056792,-114.295216,Night,WKR5328,Maintenance,Other,2,True,1,0,True,13.79,72,,17.4,69.1
+RPT10498,2025-08-29 21:00:51.452014,Surface Operations,surface,Surface Pit,50.061464,-114.291016,Night,WKR4274,Maintenance,Chemical,1,True,1,0,True,6.78,51,,12.7,52.7
+RPT10499,2025-09-16 06:14:51.452014,North Ridge Mine,underground,Loading Bay,50.110781,-114.026019,Day,WKR9422,Logistics,Visibility,1,True,1,0,False,,36,,27.6,15.0
+RPT10500,2025-11-16 09:47:51.452014,North Ridge Mine,underground,Conveyor,50.115433,-114.011071,Evening,WKR4277,Logistics,Visibility,1,True,0,0,True,2.72,67,,30.4,8.1
+RPT10501,2025-05-31 01:33:51.452014,Mill Complex,processing,Shaft 2,50.19372,-114.203457,Night,WKR6984,Maintenance,Slip/Trip,2,True,1,0,True,6.07,86,,23.8,45.5
+RPT10502,2025-10-23 02:39:51.452014,Surface Operations,surface,Surface Pit,50.041792,-114.301721,Night,WKR6878,Supervisor,Electrical,1,True,0,0,False,,47,EQ143,16.9,73.9
+RPT10503,2025-11-01 00:18:51.452014,Surface Operations,surface,Loading Bay,50.049904,-114.282216,Night,WKR2635,Safety Officer,Equipment Interference,3,True,0,0,True,13.31,63,EQ728,23.8,55.6
+RPT10504,2025-06-05 16:16:51.452014,North Ridge Mine,underground,Shaft 2,50.120227,-114.020508,Day,WKR6222,Engineer,Environmental,1,True,1,0,False,,33,,34.6,-12.1
+RPT10505,2025-06-29 13:20:51.452014,Surface Operations,surface,Crusher,50.04836,-114.299393,Day,WKR6357,Engineer,Other,4,True,0,1,False,,86,,20.5,55.6
+RPT10506,2025-09-24 19:16:51.452014,Lakeview Shaft,underground,Shaft 2,49.849557,-115.116269,Night,WKR8658,Maintenance,Electrical,1,True,1,0,False,,64,EQ560,34.3,-0.8
+RPT10507,2025-09-08 01:07:51.452014,Surface Operations,surface,Conveyor,50.055688,-114.307068,Day,WKR4532,Operator,Slip/Trip,2,True,0,0,True,3.48,61,,16.9,58.8
+RPT10508,2025-11-21 22:37:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.842139,-115.140616,Night,WKR2665,Engineer,Ground Instability,2,True,0,0,False,,83,,26.8,11.9
+RPT10509,2025-08-28 15:53:51.452014,Mill Complex,processing,Loading Bay,50.206488,-114.192734,Day,WKR9695,Logistics,Electrical,2,True,0,0,True,11.2,58,EQ117,23.3,62.5
+RPT10510,2025-08-03 12:59:51.452014,Mill Complex,processing,Mill Floor,50.197651,-114.203487,Night,WKR5435,Operator,Other,2,True,0,0,True,3.9,79,,21.3,53.2
+RPT10511,2025-07-21 04:12:51.452014,North Ridge Mine,underground,Shaft 2,50.117245,-114.03025,Evening,WKR3112,Geologist,Slip/Trip,4,False,0,0,True,46.03,100,,29.9,21.4
+RPT10512,2025-08-18 16:59:51.452014,Mill Complex,processing,Crusher,50.20381,-114.201153,Evening,WKR1338,Safety Officer,Visibility,2,True,1,0,False,,58,,19.0,30.6
+RPT10513,2025-09-15 14:50:51.452014,North Ridge Mine,underground,Shaft 1,50.111419,-114.015026,Evening,WKR3881,Supervisor,Visibility,1,True,0,0,True,3.0,51,,33.7,-8.0
+RPT10514,2025-10-12 03:49:51.452014,Surface Operations,surface,Shaft 1,50.055039,-114.293065,Evening,WKR8710,Engineer,Slip/Trip,2,True,0,0,False,,71,,17.7,1.0
+RPT10515,2025-10-26 22:48:51.452014,Lakeview Shaft,underground,Shaft 1,49.853054,-115.129448,Night,WKR7853,Engineer,Environmental,2,True,0,0,True,17.07,43,,34.6,17.8
+RPT10516,2025-11-17 03:07:51.452014,Lakeview Shaft,underground,Loading Bay,49.842923,-115.11029,Day,WKR3985,Operator,Slip/Trip,1,True,1,0,True,3.64,28,,33.7,12.6
+RPT10517,2025-10-26 22:43:51.452014,Mill Complex,processing,Crusher,50.198098,-114.225182,Night,WKR2453,Maintenance,Slip/Trip,3,True,0,0,False,,65,,30.3,52.6
+RPT10518,2025-08-16 17:36:51.452014,Mill Complex,processing,Shaft 2,50.191276,-114.214927,Day,WKR1394,Supervisor,Environmental,3,True,0,0,False,,64,,28.8,59.7
+RPT10519,2025-06-28 19:40:51.452014,Surface Operations,surface,Mill Floor,50.055083,-114.295381,Day,WKR3961,Geologist,Equipment Interference,3,True,0,0,True,19.36,47,EQ276,20.2,62.3
+RPT10520,2025-07-11 08:44:51.452014,North Ridge Mine,underground,Crusher,50.108754,-114.03169,Day,WKR6888,Engineer,Visibility,2,True,1,0,True,7.11,49,,25.4,17.5
+RPT10521,2025-11-20 10:51:51.452014,Mill Complex,processing,Shaft 2,50.204669,-114.204487,Evening,WKR3165,Supervisor,Ergonomics,3,True,0,0,True,18.7,55,,23.0,57.9
+RPT10522,2025-06-29 17:28:51.452014,North Ridge Mine,underground,Maintenance Bay,50.11645,-114.011409,Night,WKR6430,Geologist,Ergonomics,5,False,0,1,True,199.92,100,,28.8,7.5
+RPT10523,2025-07-18 16:11:51.452014,Lakeview Shaft,underground,Conveyor,49.847755,-115.134356,Day,WKR2411,Operator,Ground Instability,2,True,0,0,False,,50,,29.2,31.2
+RPT10524,2025-09-25 13:40:51.452014,Mill Complex,processing,Crusher,50.205948,-114.174153,Day,WKR2605,Maintenance,Visibility,2,True,0,0,False,,36,,17.7,59.7
+RPT10525,2025-07-22 17:18:51.452014,North Ridge Mine,underground,Conveyor,50.110684,-114.014025,Day,WKR6318,Maintenance,Ground Instability,2,True,1,0,True,6.7,66,,36.3,-6.5
+RPT10526,2025-06-11 19:59:51.452014,North Ridge Mine,underground,Conveyor,50.11616,-114.019798,Evening,WKR4578,Operator,Environmental,1,True,0,0,True,0.58,23,,30.1,-4.3
+RPT10527,2025-07-12 15:37:51.452014,Surface Operations,surface,Maintenance Bay,50.047601,-114.290298,Day,WKR1024,Logistics,Electrical,3,True,0,0,False,,81,EQ677,29.8,47.2
+RPT10528,2025-09-22 12:58:51.452014,North Ridge Mine,underground,Conveyor,50.12723,-114.016385,Day,WKR6962,Operator,Equipment Interference,2,True,0,0,True,18.99,54,EQ532,25.2,-1.3
+RPT10529,2025-11-06 18:44:51.452014,Mill Complex,processing,Loading Bay,50.221682,-114.216176,Day,WKR4694,Operator,Ground Instability,1,True,1,0,True,4.45,30,,23.1,41.9
+RPT10530,2025-05-27 21:46:51.452014,Lakeview Shaft,underground,Loading Bay,49.859811,-115.126548,Evening,WKR1550,Maintenance,Ground Instability,1,True,0,0,False,,44,,30.5,27.4
+RPT10531,2025-07-04 07:18:51.452014,Mill Complex,processing,Loading Bay,50.193053,-114.20513,Day,WKR4645,Processing Technician,Equipment Interference,2,True,1,0,True,5.16,43,EQ253,13.8,42.9
+RPT10532,2025-06-05 20:49:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.826323,-115.110032,Night,WKR2502,Supervisor,Slip/Trip,1,True,0,0,True,4.98,44,,33.4,26.3
+RPT10533,2025-10-14 21:53:51.452014,North Ridge Mine,underground,Mill Floor,50.142968,-114.011443,Day,WKR6965,Supervisor,Slip/Trip,4,True,0,0,True,47.42,67,,24.5,-6.6
+RPT10534,2025-06-27 19:24:51.452014,Surface Operations,surface,Loading Bay,50.053057,-114.293293,Evening,WKR8536,Operator,Other,2,True,0,0,False,,55,,22.8,60.1
+RPT10535,2025-05-28 07:03:51.452014,Surface Operations,surface,Shaft 1,50.061773,-114.301127,Evening,WKR1487,Operator,Environmental,1,False,1,0,True,1.63,55,,26.2,53.0
+RPT10536,2025-07-25 19:56:51.452014,Surface Operations,surface,Maintenance Bay,50.058433,-114.301048,Day,WKR9970,Operator,Electrical,3,True,0,0,True,74.47,70,EQ531,16.2,62.7
+RPT10537,2025-06-16 14:12:51.452014,Mill Complex,processing,Conveyor,50.186464,-114.194349,Night,WKR8466,Operator,Slip/Trip,2,True,0,0,True,5.13,83,,19.5,35.5
+RPT10538,2025-07-31 03:10:51.452014,North Ridge Mine,underground,Maintenance Bay,50.111573,-114.032719,Day,WKR9495,Operator,Slip/Trip,1,True,0,0,False,,53,,21.9,18.1
+RPT10539,2025-09-10 15:46:51.452014,Surface Operations,surface,Maintenance Bay,50.037439,-114.312231,Evening,WKR8627,Supervisor,Equipment Interference,5,True,0,0,False,,87,EQ752,30.6,46.2
+RPT10540,2025-09-12 17:35:51.452014,Surface Operations,surface,Conveyor,50.029513,-114.323741,Day,WKR7773,Safety Officer,Ergonomics,2,True,0,0,True,5.82,55,,16.2,27.0
+RPT10541,2025-09-15 09:27:51.452014,Lakeview Shaft,underground,Crusher,49.821493,-115.120472,Day,WKR8646,Logistics,Visibility,1,True,1,0,True,3.98,24,,27.6,32.4
+RPT10542,2025-11-04 07:34:51.452014,Mill Complex,processing,Shaft 1,50.216717,-114.205455,Night,WKR2011,Supervisor,Chemical,3,True,0,0,True,34.08,68,,19.1,74.6
+RPT10543,2025-06-19 05:18:51.452014,North Ridge Mine,underground,Shaft 1,50.116371,-114.016299,Evening,WKR1597,Operator,Ergonomics,3,True,0,0,True,10.07,72,,29.7,7.3
+RPT10544,2025-11-11 15:42:51.452014,Surface Operations,surface,Maintenance Bay,50.050056,-114.297906,Night,WKR9416,Logistics,Chemical,1,True,0,0,False,,65,,12.1,52.3
+RPT10545,2025-08-12 12:44:51.452014,Mill Complex,processing,Crusher,50.197615,-114.201332,Day,WKR6071,Engineer,Fire/Explosion,1,True,0,0,True,7.28,43,EQ228,23.2,51.0
+RPT10546,2025-06-21 04:48:51.452014,Mill Complex,processing,Crusher,50.201937,-114.212911,Day,WKR2330,Logistics,Slip/Trip,1,True,0,0,True,2.37,61,,20.3,29.2
+RPT10547,2025-07-02 16:19:51.452014,Lakeview Shaft,underground,Surface Pit,49.841481,-115.106686,Day,WKR8131,Operator,Visibility,1,True,1,0,True,5.53,59,,29.4,-6.1
+RPT10548,2025-08-24 04:22:51.452014,North Ridge Mine,underground,Shaft 2,50.122691,-114.013307,Evening,WKR2215,Logistics,Ergonomics,2,True,0,0,True,4.01,43,,30.4,4.9
+RPT10549,2025-09-05 07:06:51.452014,North Ridge Mine,underground,Loading Bay,50.116864,-114.010462,Night,WKR1777,Safety Officer,Other,1,True,1,0,False,,53,,32.4,4.0
+RPT10550,2025-09-28 17:59:51.452014,Mill Complex,processing,Crusher,50.204551,-114.197951,Day,WKR6897,Geologist,Ground Instability,1,True,1,0,False,,31,,26.9,63.1
+RPT10551,2025-08-29 10:06:51.452014,Surface Operations,surface,Crusher,50.059893,-114.305762,Day,WKR9017,Maintenance,Environmental,1,True,0,0,False,,50,,23.1,72.9
+RPT10552,2025-10-10 05:29:51.452014,Surface Operations,surface,Surface Pit,50.053451,-114.305492,Day,WKR1848,Engineer,Ground Instability,2,True,1,0,True,6.92,79,,17.8,49.8
+RPT10553,2025-10-09 21:21:51.452014,North Ridge Mine,underground,Mill Floor,50.114246,-114.005202,Night,WKR3408,Supervisor,Slip/Trip,1,True,0,0,True,1.57,58,,28.4,4.0
+RPT10554,2025-07-31 22:37:51.452014,Surface Operations,surface,Maintenance Bay,50.048494,-114.290142,Night,WKR8530,Maintenance,Slip/Trip,2,True,0,0,False,,59,,22.5,45.5
+RPT10555,2025-09-07 11:37:51.452014,Surface Operations,surface,Shaft 1,50.056736,-114.294928,Night,WKR9621,Processing Technician,Ergonomics,3,True,0,0,True,12.07,69,,26.3,49.2
+RPT10556,2025-09-17 13:58:51.452014,North Ridge Mine,underground,Crusher,50.129096,-114.016993,Day,WKR4349,Operator,Other,3,True,0,0,True,20.3,69,,24.3,19.5
+RPT10557,2025-08-31 04:04:51.452014,North Ridge Mine,underground,Crusher,50.139076,-114.026334,Evening,WKR5973,Supervisor,Ground Instability,1,True,0,0,True,8.33,23,,25.9,-23.1
+RPT10558,2025-08-31 10:52:51.452014,Lakeview Shaft,underground,Crusher,49.849227,-115.118027,Day,WKR4252,Maintenance,Visibility,1,True,1,0,True,2.32,54,,32.8,0.5
+RPT10559,2025-06-25 07:42:51.452014,Lakeview Shaft,underground,Conveyor,49.846218,-115.115217,Night,WKR4656,Engineer,Environmental,1,False,1,0,True,3.48,73,,32.7,4.5
+RPT10560,2025-07-16 09:28:51.452014,Surface Operations,surface,Shaft 2,50.040016,-114.29649,Day,WKR7395,Processing Technician,Equipment Interference,3,False,0,0,True,21.04,63,EQ380,20.3,53.0
+RPT10561,2025-07-07 15:15:51.452014,Lakeview Shaft,underground,Crusher,49.838509,-115.108431,Day,WKR6599,Operator,Other,5,True,0,0,True,76.28,83,,28.0,12.7
+RPT10562,2025-08-27 03:46:51.452014,Lakeview Shaft,underground,Mill Floor,49.849381,-115.117072,Night,WKR4170,Geologist,Environmental,1,True,0,0,True,3.3,59,,30.1,10.6
+RPT10563,2025-10-30 07:45:51.452014,Surface Operations,surface,Crusher,50.04785,-114.290615,Evening,WKR3091,Operator,Equipment Interference,1,True,0,0,True,2.61,59,EQ856,26.6,70.8
+RPT10564,2025-06-20 16:07:51.452014,Surface Operations,surface,Mill Floor,50.03547,-114.297104,Day,WKR3037,Maintenance,Slip/Trip,1,True,1,0,True,1.43,57,,28.1,57.7
+RPT10565,2025-07-17 16:01:51.452014,Mill Complex,processing,Surface Pit,50.228065,-114.202482,Night,WKR2538,Maintenance,Equipment Interference,2,True,0,0,True,5.69,54,EQ298,17.9,65.5
+RPT10566,2025-09-20 21:21:51.452014,North Ridge Mine,underground,Loading Bay,50.120236,-114.022956,Evening,WKR4887,Maintenance,Fire/Explosion,2,True,0,0,True,9.29,61,EQ844,25.5,21.6
+RPT10567,2025-06-02 14:12:51.452014,Mill Complex,processing,Surface Pit,50.187685,-114.21494,Night,WKR8898,Logistics,Environmental,1,True,0,0,False,,55,,27.6,67.5
+RPT10568,2025-06-18 02:13:51.452014,North Ridge Mine,underground,Crusher,50.132272,-114.033697,Night,WKR1917,Supervisor,Equipment Interference,3,False,0,0,True,11.74,77,EQ391,35.5,6.4
+RPT10569,2025-05-28 11:04:51.452014,Mill Complex,processing,Shaft 2,50.207388,-114.196869,Night,WKR3570,Geologist,Visibility,5,True,0,0,True,314.68,87,,24.6,42.8
+RPT10570,2025-06-24 01:08:51.452014,Lakeview Shaft,underground,Loading Bay,49.838203,-115.127164,Day,WKR4690,Maintenance,Ground Instability,1,True,0,0,True,8.45,40,,22.3,-8.8
+RPT10571,2025-07-03 01:42:51.452014,Surface Operations,surface,Conveyor,50.042848,-114.306273,Day,WKR3397,Operator,Slip/Trip,1,True,1,0,False,,32,,34.7,46.1
+RPT10572,2025-08-09 21:00:51.452014,Mill Complex,processing,Crusher,50.202637,-114.214897,Night,WKR5122,Processing Technician,Fire/Explosion,2,False,1,0,True,6.67,64,EQ743,15.1,67.4
+RPT10573,2025-06-19 01:27:51.452014,North Ridge Mine,underground,Shaft 2,50.115616,-114.009659,Day,WKR7361,Operator,Chemical,3,True,0,0,False,,65,,34.2,27.4
+RPT10574,2025-07-23 03:48:51.452014,Surface Operations,surface,Maintenance Bay,50.050659,-114.30762,Night,WKR2102,Logistics,Chemical,1,True,0,0,True,10.1,56,,29.7,79.4
+RPT10575,2025-08-31 09:20:51.452014,Mill Complex,processing,Conveyor,50.212576,-114.186506,Evening,WKR2320,Operator,Visibility,4,True,0,0,True,39.71,58,,19.5,46.8
+RPT10576,2025-11-15 10:16:51.452014,Lakeview Shaft,underground,Shaft 1,49.838516,-115.096346,Night,WKR5773,Maintenance,Other,2,True,0,0,False,,50,,26.7,20.7
+RPT10577,2025-10-02 15:56:51.452014,Lakeview Shaft,underground,Surface Pit,49.836031,-115.124314,Day,WKR5025,Maintenance,Slip/Trip,5,True,0,0,True,262.72,100,,30.9,22.7
+RPT10578,2025-09-03 08:31:51.452014,Mill Complex,processing,Conveyor,50.193392,-114.206656,Night,WKR2393,Geologist,Ergonomics,3,True,0,0,True,6.16,70,,20.4,52.5
+RPT10579,2025-07-13 22:23:51.452014,Mill Complex,processing,Conveyor,50.218499,-114.208917,Night,WKR6990,Maintenance,Other,3,True,0,0,True,67.03,89,,27.7,50.5
+RPT10580,2025-06-09 15:48:51.452014,Mill Complex,processing,Crusher,50.20034,-114.208574,Evening,WKR4476,Operator,Ground Instability,1,True,0,0,True,7.95,56,,13.2,48.1
+RPT10581,2025-09-16 16:48:51.452014,Surface Operations,surface,Conveyor,50.039499,-114.3069,Day,WKR4441,Maintenance,Environmental,1,True,0,0,True,2.22,33,,20.3,41.4
+RPT10582,2025-10-05 23:54:51.452014,North Ridge Mine,underground,Shaft 2,50.128907,-114.031308,Night,WKR9824,Logistics,Other,2,True,1,0,True,7.48,58,,22.3,21.4
+RPT10583,2025-06-26 12:02:51.452014,Mill Complex,processing,Shaft 1,50.207783,-114.203581,Day,WKR7705,Engineer,Ground Instability,1,False,0,0,True,13.52,57,,21.9,69.2
+RPT10584,2025-09-29 17:02:51.452014,Surface Operations,surface,Crusher,50.060312,-114.299665,Day,WKR5583,Operator,Ground Instability,2,True,0,0,True,4.29,58,,25.0,48.3
+RPT10585,2025-06-03 07:06:51.452014,North Ridge Mine,underground,Mill Floor,50.097577,-114.015886,Day,WKR5529,Operator,Ground Instability,1,True,0,0,True,5.37,36,,34.7,-21.0
+RPT10586,2025-09-29 22:07:51.452014,Mill Complex,processing,Loading Bay,50.20012,-114.189707,Night,WKR2996,Maintenance,Equipment Interference,5,False,0,1,True,48.66,100,EQ974,27.1,70.5
+RPT10587,2025-10-14 12:57:51.452014,Mill Complex,processing,Shaft 2,50.19582,-114.177022,Day,WKR9235,Processing Technician,Equipment Interference,3,False,0,0,True,10.6,75,EQ876,25.4,50.7
+RPT10588,2025-10-06 21:54:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.835885,-115.127067,Evening,WKR9338,Operator,Electrical,2,False,0,0,True,3.84,52,EQ167,29.1,12.5
+RPT10589,2025-06-23 06:28:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.837606,-115.111865,Day,WKR8162,Operator,Ergonomics,3,True,0,0,True,18.26,67,,32.9,22.5
+RPT10590,2025-06-12 01:40:51.452014,Mill Complex,processing,Loading Bay,50.179854,-114.184624,Night,WKR2242,Logistics,Equipment Interference,4,True,0,0,True,22.59,87,EQ323,28.1,44.7
+RPT10591,2025-08-27 23:30:51.452014,Lakeview Shaft,underground,Conveyor,49.850786,-115.110811,Night,WKR8351,Logistics,Visibility,1,True,0,0,True,4.65,38,,27.6,27.4
+RPT10592,2025-07-25 19:06:51.452014,Mill Complex,processing,Maintenance Bay,50.213145,-114.205266,Night,WKR5279,Supervisor,Electrical,5,True,0,0,False,,89,EQ573,29.5,20.2
+RPT10593,2025-06-04 17:04:51.452014,Surface Operations,surface,Shaft 2,50.050841,-114.302509,Day,WKR7769,Engineer,Ergonomics,1,True,1,0,True,4.52,52,,24.4,30.7
+RPT10594,2025-11-14 07:53:51.452014,North Ridge Mine,underground,Mill Floor,50.109746,-114.013925,Day,WKR3362,Engineer,Electrical,3,True,0,0,True,11.5,65,EQ576,28.9,12.3
+RPT10595,2025-07-30 19:38:51.452014,Surface Operations,surface,Shaft 1,50.052328,-114.286394,Day,WKR4947,Safety Officer,Environmental,1,True,0,0,True,9.7,39,,21.1,26.8
+RPT10596,2025-10-03 19:30:51.452014,Lakeview Shaft,underground,Loading Bay,49.847257,-115.126172,Day,WKR4097,Maintenance,Ergonomics,5,True,0,0,True,85.84,77,,33.1,-10.0
+RPT10597,2025-10-14 02:47:51.452014,Mill Complex,processing,Surface Pit,50.190169,-114.206032,Evening,WKR7410,Maintenance,Ergonomics,1,True,1,0,True,2.43,42,,25.6,27.1
+RPT10598,2025-10-19 14:11:51.452014,Surface Operations,surface,Surface Pit,50.036097,-114.304144,Night,WKR6889,Maintenance,Slip/Trip,1,True,0,0,True,5.41,38,,17.4,48.0
+RPT10599,2025-09-14 19:53:51.452014,Lakeview Shaft,underground,Conveyor,49.842185,-115.112846,Day,WKR4164,Supervisor,Ground Instability,2,True,0,0,True,5.94,51,,29.4,0.4
+RPT10600,2025-09-15 14:00:51.452014,Mill Complex,processing,Loading Bay,50.202943,-114.18858,Day,WKR3158,Logistics,Equipment Interference,1,True,1,0,False,,43,EQ140,26.9,37.5
+RPT10601,2025-07-19 14:08:51.452014,Mill Complex,processing,Maintenance Bay,50.195814,-114.212031,Day,WKR2107,Geologist,Other,3,True,0,0,False,,76,,21.4,44.7
+RPT10602,2025-10-18 12:45:51.452014,Lakeview Shaft,underground,Crusher,49.870007,-115.115688,Day,WKR6360,Operator,Equipment Interference,1,True,0,0,True,1.11,53,EQ707,36.4,-15.1
+RPT10603,2025-05-29 21:15:51.452014,Lakeview Shaft,underground,Shaft 2,49.838719,-115.123519,Night,WKR1226,Safety Officer,Ergonomics,2,False,0,0,False,,67,,22.3,32.6
+RPT10604,2025-07-17 06:36:51.452014,Mill Complex,processing,Mill Floor,50.198671,-114.177812,Day,WKR9725,Operator,Electrical,1,True,1,0,True,6.64,40,EQ150,24.9,67.5
+RPT10605,2025-08-06 03:43:51.452014,North Ridge Mine,underground,Crusher,50.114989,-114.02551,Night,WKR3499,Logistics,Other,2,True,1,0,True,3.8,65,,32.1,2.0
+RPT10606,2025-11-20 16:16:51.452014,Surface Operations,surface,Crusher,50.032826,-114.310512,Day,WKR5661,Supervisor,Ground Instability,2,False,1,0,True,14.48,73,,20.8,54.3
+RPT10607,2025-08-17 09:57:51.452014,Surface Operations,surface,Surface Pit,50.050806,-114.287011,Day,WKR7656,Geologist,Environmental,2,False,0,0,True,10.59,78,,25.4,50.1
+RPT10608,2025-10-23 10:36:51.452014,Surface Operations,surface,Shaft 2,50.045527,-114.309142,Night,WKR5740,Maintenance,Chemical,2,True,0,0,False,,64,,28.4,47.8
+RPT10609,2025-10-19 07:58:51.452014,Surface Operations,surface,Loading Bay,50.037149,-114.299438,Day,WKR8332,Operator,Equipment Interference,3,True,0,0,True,30.7,59,EQ703,19.3,45.5
+RPT10610,2025-06-05 12:46:51.452014,Surface Operations,surface,Loading Bay,50.06841,-114.286901,Night,WKR2202,Processing Technician,Electrical,2,True,0,0,True,12.75,66,EQ947,26.9,41.4
+RPT10611,2025-07-18 05:19:51.452014,Lakeview Shaft,underground,Conveyor,49.837292,-115.119674,Night,WKR4856,Engineer,Electrical,3,True,0,0,False,,72,EQ136,32.5,24.6
+RPT10612,2025-06-02 17:06:51.452014,North Ridge Mine,underground,Maintenance Bay,50.108913,-114.029211,Day,WKR9636,Geologist,Equipment Interference,2,True,0,0,True,20.16,49,EQ589,25.6,3.4
+RPT10613,2025-09-24 04:01:51.452014,North Ridge Mine,underground,Maintenance Bay,50.104575,-114.027587,Day,WKR7973,Geologist,Slip/Trip,3,True,0,0,False,,75,,35.4,-10.1
+RPT10614,2025-11-14 18:05:51.452014,Lakeview Shaft,underground,Shaft 2,49.83653,-115.130722,Day,WKR1325,Processing Technician,Ergonomics,1,True,0,0,True,4.13,29,,30.9,-9.3
+RPT10615,2025-10-18 16:53:51.452014,Mill Complex,processing,Maintenance Bay,50.187721,-114.207595,Evening,WKR7961,Safety Officer,Slip/Trip,5,True,0,0,False,,100,,22.0,57.6
+RPT10616,2025-06-15 23:56:51.452014,North Ridge Mine,underground,Shaft 1,50.114153,-113.997018,Day,WKR4049,Maintenance,Ground Instability,2,True,0,0,True,5.1,75,,33.0,33.5
+RPT10617,2025-07-03 11:28:51.452014,Mill Complex,processing,Surface Pit,50.215002,-114.219688,Night,WKR2799,Operator,Environmental,3,True,0,0,False,,64,,20.9,49.0
+RPT10618,2025-10-28 04:23:51.452014,Mill Complex,processing,Crusher,50.186935,-114.221304,Night,WKR9077,Supervisor,Ground Instability,1,True,0,0,True,3.08,47,,22.2,72.0
+RPT10619,2025-07-28 14:37:51.452014,North Ridge Mine,underground,Conveyor,50.125024,-114.00134,Day,WKR9420,Supervisor,Visibility,2,True,0,0,True,13.59,45,,22.9,-1.6
+RPT10620,2025-06-14 02:14:51.452014,North Ridge Mine,underground,Loading Bay,50.107933,-114.018019,Night,WKR4094,Maintenance,Ground Instability,1,True,1,0,True,3.31,51,,26.1,-7.2
+RPT10621,2025-08-13 05:41:51.452014,North Ridge Mine,underground,Conveyor,50.107411,-114.024475,Day,WKR6010,Geologist,Other,2,True,0,0,False,,56,,32.9,-0.6
+RPT10622,2025-10-26 17:04:51.452014,Surface Operations,surface,Maintenance Bay,50.056041,-114.296798,Day,WKR2269,Safety Officer,Ergonomics,3,True,0,0,True,25.4,63,,22.8,48.4
+RPT10623,2025-08-15 09:01:51.452014,North Ridge Mine,underground,Shaft 1,50.131101,-114.026274,Day,WKR2018,Operator,Environmental,1,True,1,0,False,,46,,31.0,-1.6
+RPT10624,2025-07-16 13:31:51.452014,Lakeview Shaft,underground,Mill Floor,49.829095,-115.116507,Night,WKR8296,Operator,Slip/Trip,3,True,0,0,True,18.16,70,,28.4,17.2
+RPT10625,2025-05-31 08:42:51.452014,Lakeview Shaft,underground,Mill Floor,49.853352,-115.143057,Day,WKR6809,Logistics,Equipment Interference,5,False,0,0,True,72.98,100,EQ205,26.3,1.9
+RPT10626,2025-10-18 09:31:51.452014,Lakeview Shaft,underground,Conveyor,49.86647,-115.109088,Night,WKR6146,Operator,Equipment Interference,1,True,0,0,False,,43,EQ291,42.1,34.6
+RPT10627,2025-05-29 01:49:51.452014,Lakeview Shaft,underground,Mill Floor,49.83677,-115.137793,Evening,WKR7781,Engineer,Visibility,2,True,0,0,True,11.51,68,,25.3,11.9
+RPT10628,2025-07-24 14:35:51.452014,Surface Operations,surface,Mill Floor,50.040406,-114.283611,Night,WKR2204,Operator,Ground Instability,1,True,0,0,False,,48,,3.8,68.1
+RPT10629,2025-10-10 07:17:51.452014,North Ridge Mine,underground,Shaft 1,50.109122,-114.02144,Night,WKR7288,Operator,Ground Instability,1,True,0,0,True,3.02,21,,25.8,11.5
+RPT10630,2025-06-19 23:46:51.452014,North Ridge Mine,underground,Maintenance Bay,50.112417,-114.013135,Evening,WKR2849,Processing Technician,Chemical,2,True,0,0,True,14.82,56,,22.8,17.0
+RPT10631,2025-11-20 19:26:51.452014,Mill Complex,processing,Loading Bay,50.195901,-114.204562,Day,WKR9602,Engineer,Visibility,3,True,0,0,True,91.92,56,,17.3,49.3
+RPT10632,2025-09-24 00:44:51.452014,North Ridge Mine,underground,Shaft 1,50.124514,-114.010376,Day,WKR9589,Processing Technician,Electrical,2,True,0,0,True,16.51,62,EQ618,27.8,-20.0
+RPT10633,2025-08-01 07:20:51.452014,Mill Complex,processing,Loading Bay,50.189918,-114.21041,Night,WKR6773,Supervisor,Other,4,True,0,0,True,68.67,77,,18.5,63.5
+RPT10634,2025-10-22 04:43:51.452014,Mill Complex,processing,Shaft 2,50.198201,-114.189051,Day,WKR8937,Logistics,Environmental,2,True,0,0,True,2.08,53,,24.2,44.9
+RPT10635,2025-06-09 09:38:51.452014,North Ridge Mine,underground,Shaft 2,50.138255,-114.013047,Day,WKR9697,Safety Officer,Visibility,1,True,0,0,True,3.22,44,,28.8,24.2
+RPT10636,2025-06-16 13:26:51.452014,Lakeview Shaft,underground,Mill Floor,49.836163,-115.105983,Day,WKR5325,Engineer,Ground Instability,1,True,0,0,True,6.7,46,,32.0,16.4
+RPT10637,2025-10-07 11:11:51.452014,Lakeview Shaft,underground,Shaft 1,49.841086,-115.131977,Day,WKR9230,Processing Technician,Equipment Interference,4,True,0,0,True,41.41,79,EQ881,28.0,7.7
+RPT10638,2025-06-28 13:51:51.452014,Mill Complex,processing,Surface Pit,50.209924,-114.193444,Evening,WKR3271,Operator,Visibility,2,True,0,0,True,13.47,58,,19.9,46.7
+RPT10639,2025-07-24 22:58:51.452014,Mill Complex,processing,Surface Pit,50.203136,-114.214962,Day,WKR2453,Safety Officer,Environmental,1,True,0,0,True,13.54,48,,23.8,40.0
+RPT10640,2025-09-12 04:01:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.831442,-115.133099,Day,WKR7479,Supervisor,Environmental,2,True,0,0,False,,74,,28.1,25.9
+RPT10641,2025-08-31 11:14:51.452014,North Ridge Mine,underground,Shaft 2,50.115693,-114.020921,Day,WKR7568,Engineer,Ergonomics,1,True,1,0,False,,51,,34.8,18.3
+RPT10642,2025-07-09 17:57:51.452014,North Ridge Mine,underground,Mill Floor,50.122564,-114.021966,Night,WKR3774,Safety Officer,Environmental,2,True,0,0,True,6.06,66,,30.7,14.8
+RPT10643,2025-06-27 23:07:51.452014,Surface Operations,surface,Conveyor,50.050807,-114.306471,Night,WKR8777,Engineer,Slip/Trip,1,True,0,0,True,2.87,52,,22.6,64.3
+RPT10644,2025-06-03 18:03:51.452014,North Ridge Mine,underground,Loading Bay,50.120212,-114.0209,Day,WKR3452,Operator,Electrical,1,True,0,0,True,2.18,42,EQ681,30.8,-11.1
+RPT10645,2025-06-08 03:48:51.452014,Mill Complex,processing,Crusher,50.207122,-114.187043,Day,WKR4751,Supervisor,Chemical,4,True,0,0,True,19.61,95,,27.0,43.8
+RPT10646,2025-08-12 21:10:51.452014,Lakeview Shaft,underground,Shaft 2,49.840473,-115.112019,Day,WKR9335,Engineer,Electrical,2,True,0,0,False,,60,EQ955,32.0,28.4
+RPT10647,2025-08-18 07:33:51.452014,North Ridge Mine,underground,Conveyor,50.117503,-114.022039,Day,WKR8448,Operator,Electrical,1,True,0,0,True,8.71,41,EQ879,38.9,38.3
+RPT10648,2025-07-31 07:48:51.452014,Mill Complex,processing,Surface Pit,50.208608,-114.20045,Day,WKR2727,Safety Officer,Ground Instability,3,True,0,0,False,,68,,17.8,32.2
+RPT10649,2025-08-11 22:23:51.452014,North Ridge Mine,underground,Surface Pit,50.105513,-114.014666,Night,WKR3686,Processing Technician,Visibility,1,True,1,0,True,2.23,37,,29.4,9.1
+RPT10650,2025-11-21 12:58:51.452014,Lakeview Shaft,underground,Surface Pit,49.846512,-115.130294,Day,WKR4853,Supervisor,Fire/Explosion,3,True,0,0,False,,64,EQ664,33.4,21.7
+RPT10651,2025-06-14 13:53:51.452014,Lakeview Shaft,underground,Loading Bay,49.847303,-115.115162,Evening,WKR3413,Operator,Slip/Trip,2,True,0,0,True,11.32,82,,24.4,22.6
+RPT10652,2025-08-27 19:08:51.452014,Surface Operations,surface,Conveyor,50.064032,-114.304537,Day,WKR2074,Logistics,Visibility,5,True,0,0,False,,82,,25.3,74.3
+RPT10653,2025-08-05 17:37:51.452014,Surface Operations,surface,Crusher,50.049425,-114.285783,Evening,WKR9259,Logistics,Ergonomics,2,True,0,0,True,8.27,81,,19.1,36.8
+RPT10654,2025-06-11 17:05:51.452014,Surface Operations,surface,Shaft 2,50.042419,-114.28332,Day,WKR7259,Safety Officer,Slip/Trip,3,True,0,0,True,16.41,52,,26.6,62.2
+RPT10655,2025-07-05 11:47:51.452014,Lakeview Shaft,underground,Crusher,49.843339,-115.135888,Day,WKR8709,Operator,Other,2,True,1,0,True,4.27,71,,36.9,7.9
+RPT10656,2025-10-25 18:22:51.452014,North Ridge Mine,underground,Crusher,50.118311,-114.024605,Evening,WKR1192,Operator,Ground Instability,2,False,0,0,True,6.48,63,,24.5,34.5
+RPT10657,2025-11-03 00:28:51.452014,Lakeview Shaft,underground,Shaft 1,49.833752,-115.125724,Day,WKR5344,Processing Technician,Ground Instability,3,True,0,0,True,20.52,78,,27.5,6.5
+RPT10658,2025-10-23 07:15:51.452014,Mill Complex,processing,Shaft 1,50.196455,-114.200124,Day,WKR2376,Safety Officer,Visibility,1,True,1,0,True,5.74,60,,24.5,36.3
+RPT10659,2025-05-28 19:20:51.452014,Lakeview Shaft,underground,Conveyor,49.84213,-115.107215,Day,WKR7059,Logistics,Electrical,3,True,0,0,False,,69,EQ858,24.9,7.1
+RPT10660,2025-08-03 05:48:51.452014,Surface Operations,surface,Shaft 1,50.037775,-114.295861,Night,WKR1250,Supervisor,Slip/Trip,3,False,0,0,False,,100,,19.9,40.5
+RPT10661,2025-07-18 01:16:51.452014,Mill Complex,processing,Crusher,50.208066,-114.19895,Evening,WKR4796,Operator,Fire/Explosion,3,True,0,0,False,,69,EQ287,27.7,57.4
+RPT10662,2025-10-05 03:30:51.452014,Mill Complex,processing,Mill Floor,50.212776,-114.19486,Day,WKR8984,Processing Technician,Visibility,4,True,0,0,True,50.86,79,,17.8,11.2
+RPT10663,2025-10-05 16:21:51.452014,North Ridge Mine,underground,Mill Floor,50.106742,-114.021809,Evening,WKR4143,Operator,Visibility,1,True,0,0,False,,42,,34.2,-25.4
+RPT10664,2025-10-10 03:35:51.452014,Surface Operations,surface,Maintenance Bay,50.054385,-114.291817,Day,WKR4980,Processing Technician,Other,1,True,0,0,True,2.58,45,,19.3,61.1
+RPT10665,2025-11-02 18:54:51.452014,North Ridge Mine,underground,Surface Pit,50.112411,-114.007859,Day,WKR4803,Geologist,Other,3,True,0,0,True,44.05,65,,31.9,6.6
+RPT10666,2025-11-01 20:53:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.853226,-115.11744,Night,WKR9258,Supervisor,Slip/Trip,3,True,0,0,False,,77,,32.4,8.4
+RPT10667,2025-09-11 10:27:51.452014,Lakeview Shaft,underground,Shaft 2,49.84446,-115.119616,Night,WKR2896,Geologist,Ergonomics,4,False,0,0,True,91.89,93,,28.8,37.6
+RPT10668,2025-08-17 11:07:51.452014,Lakeview Shaft,underground,Shaft 1,49.848164,-115.124246,Day,WKR8652,Processing Technician,Ground Instability,3,False,0,0,True,12.73,81,,29.8,28.7
+RPT10669,2025-07-07 22:54:51.452014,Mill Complex,processing,Conveyor,50.198311,-114.209891,Day,WKR5749,Maintenance,Ergonomics,2,True,0,0,True,12.28,51,,22.5,43.6
+RPT10670,2025-10-31 04:11:51.452014,Surface Operations,surface,Maintenance Bay,50.045178,-114.295361,Day,WKR2227,Processing Technician,Slip/Trip,2,True,0,0,True,5.9,53,,20.2,63.0
+RPT10671,2025-09-01 17:20:51.452014,North Ridge Mine,underground,Loading Bay,50.128192,-114.009483,Night,WKR6116,Logistics,Environmental,1,True,1,0,True,1.46,74,,33.4,-9.4
+RPT10672,2025-09-18 23:41:51.452014,Surface Operations,surface,Loading Bay,50.071284,-114.306419,Evening,WKR1777,Supervisor,Slip/Trip,1,False,0,0,True,3.34,96,,27.9,73.3
+RPT10673,2025-11-01 02:15:51.452014,North Ridge Mine,underground,Maintenance Bay,50.114612,-114.017879,Night,WKR5100,Geologist,Ground Instability,1,True,0,0,True,4.69,39,,36.1,25.8
+RPT10674,2025-11-16 06:11:51.452014,North Ridge Mine,underground,Mill Floor,50.114519,-114.021499,Day,WKR9403,Maintenance,Ground Instability,2,True,0,0,True,14.78,50,,24.1,9.8
+RPT10675,2025-08-22 15:39:51.452014,Surface Operations,surface,Maintenance Bay,50.046185,-114.31201,Night,WKR8023,Operator,Electrical,2,True,0,0,True,3.88,57,EQ875,27.7,45.0
+RPT10676,2025-08-02 06:37:51.452014,Lakeview Shaft,underground,Surface Pit,49.823513,-115.108426,Evening,WKR3652,Operator,Ergonomics,2,True,0,0,True,7.44,63,,30.7,-16.0
+RPT10677,2025-08-03 03:15:51.452014,Mill Complex,processing,Crusher,50.202679,-114.174959,Night,WKR8190,Engineer,Slip/Trip,2,True,0,0,True,6.72,64,,19.5,46.6
+RPT10678,2025-07-16 14:08:51.452014,North Ridge Mine,underground,Conveyor,50.107464,-114.016087,Evening,WKR9619,Operator,Visibility,2,True,0,0,False,,73,,27.9,-14.4
+RPT10679,2025-08-05 02:19:51.452014,Surface Operations,surface,Shaft 1,50.067352,-114.313753,Day,WKR3580,Engineer,Ground Instability,2,True,0,0,False,,57,,17.7,56.2
+RPT10680,2025-08-22 16:41:51.452014,North Ridge Mine,underground,Surface Pit,50.124311,-114.032092,Day,WKR3653,Safety Officer,Slip/Trip,3,True,0,0,True,63.23,64,,20.1,25.7
+RPT10681,2025-08-01 18:01:51.452014,North Ridge Mine,underground,Conveyor,50.126621,-114.034722,Day,WKR3217,Operator,Ergonomics,2,True,0,0,True,4.55,56,,33.8,-2.7
+RPT10682,2025-10-31 22:23:51.452014,Mill Complex,processing,Maintenance Bay,50.188748,-114.195986,Evening,WKR2836,Operator,Ground Instability,3,True,0,0,True,30.33,73,,24.4,59.2
+RPT10683,2025-06-26 10:03:51.452014,North Ridge Mine,underground,Shaft 1,50.122511,-114.009159,Day,WKR6782,Safety Officer,Other,1,False,1,0,False,,57,,27.5,-7.3
+RPT10684,2025-11-21 01:03:51.452014,Mill Complex,processing,Shaft 1,50.189705,-114.204265,Day,WKR9900,Safety Officer,Equipment Interference,3,True,0,0,False,,70,EQ783,19.0,50.0
+RPT10685,2025-09-23 23:02:51.452014,Lakeview Shaft,underground,Surface Pit,49.826367,-115.126671,Night,WKR9810,Supervisor,Environmental,2,True,0,0,True,5.84,48,,35.9,4.3
+RPT10686,2025-08-09 02:16:51.452014,Mill Complex,processing,Crusher,50.193898,-114.199346,Night,WKR5695,Engineer,Environmental,3,True,0,0,True,4.03,71,,30.0,46.5
+RPT10687,2025-09-25 21:47:51.452014,Lakeview Shaft,underground,Shaft 2,49.838949,-115.119248,Night,WKR2956,Operator,Chemical,2,False,1,0,True,6.81,79,,36.9,6.6
+RPT10688,2025-09-19 08:20:51.452014,Lakeview Shaft,underground,Loading Bay,49.852488,-115.118621,Night,WKR3235,Maintenance,Ergonomics,2,False,0,0,True,4.68,67,,25.8,12.9
+RPT10689,2025-08-03 21:35:51.452014,North Ridge Mine,underground,Shaft 1,50.104502,-114.019634,Day,WKR2747,Logistics,Electrical,3,True,0,0,True,11.69,68,EQ706,31.5,-3.8
+RPT10690,2025-08-08 20:47:51.452014,Lakeview Shaft,underground,Mill Floor,49.841673,-115.113377,Night,WKR6024,Logistics,Ground Instability,1,True,1,0,False,,49,,24.8,12.6
+RPT10691,2025-10-08 01:06:51.452014,Surface Operations,surface,Shaft 2,50.04879,-114.284363,Day,WKR4865,Supervisor,Electrical,2,True,0,0,True,3.19,34,EQ816,19.9,70.9
+RPT10692,2025-07-15 23:29:51.452014,Lakeview Shaft,underground,Shaft 1,49.839727,-115.134283,Day,WKR2305,Maintenance,Ergonomics,1,True,0,0,True,5.94,42,,28.1,6.4
+RPT10693,2025-09-01 05:00:51.452014,Mill Complex,processing,Shaft 1,50.204671,-114.18728,Day,WKR4371,Logistics,Visibility,1,True,0,0,False,,31,,21.5,50.0
+RPT10694,2025-09-06 04:11:51.452014,North Ridge Mine,underground,Shaft 2,50.113864,-114.03143,Day,WKR8808,Operator,Other,1,True,0,0,True,3.46,69,,35.1,8.7
+RPT10695,2025-10-05 18:07:51.452014,Mill Complex,processing,Crusher,50.211432,-114.209951,Day,WKR4067,Operator,Ground Instability,3,True,0,0,True,22.28,64,,26.9,33.2
+RPT10696,2025-07-16 01:56:51.452014,Lakeview Shaft,underground,Conveyor,49.828226,-115.114286,Day,WKR2747,Operator,Environmental,1,True,1,0,True,6.62,52,,28.4,7.0
+RPT10697,2025-06-02 16:31:51.452014,North Ridge Mine,underground,Crusher,50.131624,-114.015467,Day,WKR5059,Safety Officer,Fire/Explosion,2,True,0,0,True,2.08,50,EQ938,32.1,9.1
+RPT10698,2025-10-19 00:37:51.452014,North Ridge Mine,underground,Shaft 2,50.095675,-114.01222,Night,WKR2408,Safety Officer,Slip/Trip,2,True,0,0,True,7.87,64,,30.9,17.8
+RPT10699,2025-11-14 19:11:51.452014,Mill Complex,processing,Shaft 2,50.191535,-114.193449,Night,WKR3975,Operator,Ground Instability,1,False,1,0,False,,48,,16.8,54.4
+RPT10700,2025-09-05 08:33:51.452014,Lakeview Shaft,underground,Crusher,49.845304,-115.119259,Evening,WKR2383,Supervisor,Slip/Trip,1,True,1,0,True,12.18,37,,29.1,-1.1
+RPT10701,2025-06-22 01:05:51.452014,Surface Operations,surface,Loading Bay,50.041652,-114.313895,Day,WKR4335,Processing Technician,Environmental,5,True,0,0,True,216.1,93,,21.6,59.8
+RPT10702,2025-08-01 06:33:51.452014,North Ridge Mine,underground,Shaft 2,50.122234,-114.018777,Night,WKR4716,Maintenance,Ergonomics,1,True,1,0,True,6.16,28,,25.5,26.9
+RPT10703,2025-08-04 10:47:51.452014,North Ridge Mine,underground,Crusher,50.133472,-114.026715,Day,WKR3766,Maintenance,Other,3,False,0,0,True,21.24,83,,28.1,41.2
+RPT10704,2025-06-25 04:59:51.452014,North Ridge Mine,underground,Shaft 2,50.109379,-114.013826,Evening,WKR7768,Operator,Visibility,1,True,1,0,False,,30,,34.5,23.6
+RPT10705,2025-06-15 04:51:51.452014,Surface Operations,surface,Maintenance Bay,50.053462,-114.293911,Night,WKR8622,Operator,Slip/Trip,3,True,0,0,True,24.2,76,,20.6,42.4
+RPT10706,2025-08-17 16:59:51.452014,Mill Complex,processing,Conveyor,50.207254,-114.20221,Evening,WKR2118,Maintenance,Electrical,1,False,0,0,True,6.3,65,EQ325,17.5,83.9
+RPT10707,2025-10-04 10:24:51.452014,Surface Operations,surface,Shaft 1,50.054005,-114.321021,Evening,WKR5465,Engineer,Ground Instability,1,True,0,0,True,3.04,39,,26.9,75.9
+RPT10708,2025-11-17 10:14:51.452014,Mill Complex,processing,Shaft 2,50.207845,-114.205445,Day,WKR8200,Processing Technician,Slip/Trip,1,True,0,0,True,1.66,43,,24.3,45.2
+RPT10709,2025-10-23 08:29:51.452014,Lakeview Shaft,underground,Shaft 1,49.851973,-115.113944,Day,WKR6700,Operator,Ergonomics,1,False,0,0,True,4.74,46,,30.7,23.9
+RPT10710,2025-06-23 01:21:51.452014,Surface Operations,surface,Maintenance Bay,50.054384,-114.304261,Night,WKR8880,Safety Officer,Fire/Explosion,1,True,0,0,False,,46,EQ581,20.9,32.5
+RPT10711,2025-08-17 02:18:51.452014,North Ridge Mine,underground,Loading Bay,50.114072,-114.013613,Night,WKR4376,Processing Technician,Environmental,3,False,0,0,True,39.02,78,,28.2,0.8
+RPT10712,2025-08-22 10:24:51.452014,Mill Complex,processing,Conveyor,50.210999,-114.205147,Night,WKR6076,Operator,Ground Instability,4,True,0,0,True,181.91,88,,22.5,40.0
+RPT10713,2025-10-24 20:29:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.851013,-115.135393,Evening,WKR5709,Geologist,Equipment Interference,1,True,1,0,True,3.33,25,EQ602,32.0,-9.7
+RPT10714,2025-10-21 02:42:51.452014,North Ridge Mine,underground,Maintenance Bay,50.110809,-113.996314,Day,WKR4410,Processing Technician,Slip/Trip,3,True,0,0,True,10.88,63,,27.7,-0.0
+RPT10715,2025-10-17 20:22:51.452014,Mill Complex,processing,Maintenance Bay,50.189906,-114.198675,Day,WKR1099,Operator,Electrical,2,True,0,0,True,8.51,76,EQ621,17.4,35.1
+RPT10716,2025-11-07 21:22:51.452014,Mill Complex,processing,Shaft 2,50.185322,-114.209263,Evening,WKR2013,Geologist,Environmental,1,True,0,0,True,3.93,52,,18.1,42.3
+RPT10717,2025-06-24 16:18:51.452014,Mill Complex,processing,Shaft 2,50.187079,-114.196562,Day,WKR2244,Supervisor,Equipment Interference,3,False,0,0,True,18.69,61,EQ133,24.6,81.5
+RPT10718,2025-08-14 02:44:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.850623,-115.112362,Day,WKR7984,Safety Officer,Chemical,2,True,1,0,True,22.56,65,,28.4,16.7
+RPT10719,2025-08-22 02:20:51.452014,Surface Operations,surface,Surface Pit,50.052907,-114.298228,Night,WKR3713,Operator,Ground Instability,1,True,0,0,True,3.66,71,,19.3,40.8
+RPT10720,2025-10-12 11:32:51.452014,Mill Complex,processing,Shaft 1,50.193561,-114.190606,Night,WKR5177,Engineer,Fire/Explosion,2,True,0,0,False,,63,EQ383,19.0,62.2
+RPT10721,2025-11-22 02:12:51.452014,Lakeview Shaft,underground,Mill Floor,49.836034,-115.132093,Day,WKR2542,Geologist,Slip/Trip,3,True,0,0,True,9.34,68,,31.4,-0.3
+RPT10722,2025-06-08 20:14:51.452014,Lakeview Shaft,underground,Conveyor,49.854953,-115.120067,Day,WKR1234,Supervisor,Visibility,5,True,0,0,True,183.2,91,,36.3,14.9
+RPT10723,2025-10-24 01:31:51.452014,Mill Complex,processing,Conveyor,50.188007,-114.203495,Evening,WKR4506,Geologist,Slip/Trip,2,True,1,0,False,,47,,26.0,32.4
+RPT10724,2025-08-03 03:22:51.452014,Mill Complex,processing,Mill Floor,50.198832,-114.193538,Evening,WKR4340,Logistics,Ergonomics,3,True,0,0,False,,68,,24.7,41.5
+RPT10725,2025-10-07 07:46:51.452014,Mill Complex,processing,Shaft 2,50.2133,-114.196584,Night,WKR7152,Logistics,Environmental,2,True,0,0,True,8.11,44,,27.5,54.3
+RPT10726,2025-11-03 21:18:51.452014,Lakeview Shaft,underground,Loading Bay,49.846203,-115.11901,Day,WKR8934,Operator,Ground Instability,1,True,1,0,True,8.48,62,,30.3,8.9
+RPT10727,2025-07-22 01:16:51.452014,Mill Complex,processing,Shaft 1,50.205612,-114.195499,Day,WKR6825,Maintenance,Ergonomics,2,False,0,0,True,8.47,73,,25.3,55.7
+RPT10728,2025-08-03 12:19:51.452014,North Ridge Mine,underground,Shaft 1,50.098637,-114.027089,Day,WKR4812,Operator,Other,3,True,0,0,True,55.47,62,,26.8,7.0
+RPT10729,2025-09-14 22:00:51.452014,Lakeview Shaft,underground,Loading Bay,49.851004,-115.133578,Evening,WKR7570,Safety Officer,Ergonomics,1,True,1,0,True,3.28,50,,30.4,-3.4
+RPT10730,2025-06-30 07:05:51.452014,Surface Operations,surface,Conveyor,50.042317,-114.316008,Night,WKR6182,Engineer,Equipment Interference,5,True,0,0,True,99.19,69,EQ922,23.1,68.8
+RPT10731,2025-06-20 10:42:51.452014,Surface Operations,surface,Conveyor,50.051075,-114.305853,Evening,WKR8252,Supervisor,Slip/Trip,1,True,0,0,True,10.16,43,,26.5,68.5
+RPT10732,2025-07-11 02:09:51.452014,North Ridge Mine,underground,Shaft 2,50.12211,-114.031388,Day,WKR9382,Processing Technician,Slip/Trip,3,True,0,0,True,79.38,56,,32.1,-7.1
+RPT10733,2025-08-17 18:38:51.452014,North Ridge Mine,underground,Shaft 2,50.125454,-114.015669,Evening,WKR2538,Processing Technician,Other,3,True,0,0,True,6.1,83,,36.6,19.5
+RPT10734,2025-10-14 08:04:51.452014,Surface Operations,surface,Shaft 2,50.056028,-114.306357,Night,WKR2775,Geologist,Ground Instability,3,True,0,0,True,40.58,91,,34.6,64.3
+RPT10735,2025-10-23 08:25:51.452014,North Ridge Mine,underground,Conveyor,50.127111,-114.009769,Day,WKR2897,Geologist,Other,3,True,0,0,False,,66,,30.5,-19.9
+RPT10736,2025-08-04 17:41:51.452014,Mill Complex,processing,Shaft 2,50.192181,-114.226813,Night,WKR1003,Operator,Ground Instability,1,False,0,0,True,3.0,60,,25.8,28.1
+RPT10737,2025-10-27 18:49:51.452014,Mill Complex,processing,Maintenance Bay,50.185432,-114.198704,Night,WKR1634,Logistics,Slip/Trip,1,True,1,0,True,5.57,38,,22.7,42.3
+RPT10738,2025-09-14 07:52:51.452014,Lakeview Shaft,underground,Crusher,49.851814,-115.119204,Day,WKR2854,Safety Officer,Environmental,1,True,0,0,True,2.85,37,,31.0,10.0
+RPT10739,2025-07-11 23:58:51.452014,North Ridge Mine,underground,Shaft 2,50.122795,-114.023245,Day,WKR3328,Maintenance,Chemical,2,True,0,0,True,4.43,57,,31.3,23.3
+RPT10740,2025-06-10 14:37:51.452014,Lakeview Shaft,underground,Loading Bay,49.853611,-115.118308,Day,WKR6527,Maintenance,Other,5,True,0,0,True,409.79,100,,35.5,-15.4
+RPT10741,2025-11-06 06:43:51.452014,North Ridge Mine,underground,Maintenance Bay,50.114478,-114.010204,Day,WKR4698,Maintenance,Visibility,4,True,0,0,True,76.44,92,,34.8,12.5
+RPT10742,2025-10-17 16:36:51.452014,Surface Operations,surface,Conveyor,50.045824,-114.297189,Day,WKR2504,Processing Technician,Electrical,2,True,0,0,True,16.23,57,EQ931,12.4,61.5
+RPT10743,2025-08-05 04:18:51.452014,Mill Complex,processing,Conveyor,50.185328,-114.186808,Day,WKR7496,Processing Technician,Other,5,True,0,0,True,711.05,93,,18.6,54.9
+RPT10744,2025-07-26 22:16:51.452014,Lakeview Shaft,underground,Surface Pit,49.837151,-115.120603,Day,WKR8161,Operator,Fire/Explosion,1,True,0,0,True,4.61,21,EQ588,34.5,-8.4
+RPT10745,2025-06-23 16:24:51.452014,North Ridge Mine,underground,Crusher,50.114378,-114.030033,Day,WKR3856,Maintenance,Slip/Trip,2,True,0,0,True,2.59,51,,28.4,-8.5
+RPT10746,2025-06-11 10:38:51.452014,Mill Complex,processing,Conveyor,50.213616,-114.208928,Evening,WKR8329,Engineer,Equipment Interference,4,True,0,0,True,65.02,58,EQ477,14.8,71.5
+RPT10747,2025-07-02 10:16:51.452014,Lakeview Shaft,underground,Crusher,49.855307,-115.144044,Evening,WKR4534,Processing Technician,Ergonomics,1,False,1,0,True,7.11,47,,26.1,29.9
+RPT10748,2025-05-28 03:01:51.452014,Mill Complex,processing,Surface Pit,50.198501,-114.207942,Night,WKR1096,Logistics,Ground Instability,2,True,0,0,True,19.4,50,,19.9,54.0
+RPT10749,2025-08-05 21:06:51.452014,Surface Operations,surface,Shaft 1,50.05406,-114.297078,Day,WKR4111,Maintenance,Fire/Explosion,4,True,0,0,False,,93,EQ937,24.9,51.9
+RPT10750,2025-06-04 11:04:51.452014,North Ridge Mine,underground,Shaft 2,50.104106,-114.022459,Night,WKR2860,Operator,Visibility,4,True,0,1,True,112.3,69,,29.2,3.2
+RPT10751,2025-08-28 04:16:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.850462,-115.128478,Day,WKR6457,Engineer,Ground Instability,3,True,0,0,True,32.61,54,,32.3,4.0
+RPT10752,2025-09-24 08:59:51.452014,North Ridge Mine,underground,Surface Pit,50.106825,-114.040675,Day,WKR8173,Logistics,Slip/Trip,5,True,0,0,True,377.1,84,,29.6,16.2
+RPT10753,2025-09-14 06:49:51.452014,Lakeview Shaft,underground,Loading Bay,49.836341,-115.124145,Evening,WKR1266,Geologist,Ergonomics,3,True,0,0,True,16.83,61,,29.8,9.9
+RPT10754,2025-11-10 23:27:51.452014,Lakeview Shaft,underground,Crusher,49.844379,-115.106514,Day,WKR7440,Operator,Slip/Trip,2,True,0,0,True,7.82,49,,31.5,11.1
+RPT10755,2025-07-10 08:58:51.452014,Mill Complex,processing,Maintenance Bay,50.215393,-114.197143,Evening,WKR4018,Logistics,Slip/Trip,5,True,0,0,True,491.46,83,,15.4,39.3
+RPT10756,2025-06-12 13:30:51.452014,Lakeview Shaft,underground,Shaft 2,49.841517,-115.132952,Day,WKR8780,Safety Officer,Ergonomics,3,True,0,0,True,8.42,76,,32.0,9.0
+RPT10757,2025-08-01 11:13:51.452014,Surface Operations,surface,Maintenance Bay,50.059148,-114.295449,Day,WKR9543,Processing Technician,Electrical,3,True,0,0,True,15.31,69,EQ559,16.6,13.9
+RPT10758,2025-07-09 17:23:51.452014,Mill Complex,processing,Conveyor,50.211665,-114.197965,Day,WKR1975,Operator,Equipment Interference,1,False,1,0,False,,70,EQ800,25.0,60.7
+RPT10759,2025-11-20 19:26:51.452014,Lakeview Shaft,underground,Shaft 1,49.833444,-115.127031,Day,WKR7486,Safety Officer,Other,3,True,0,0,True,56.29,55,,37.9,7.0
+RPT10760,2025-11-04 11:37:51.452014,North Ridge Mine,underground,Shaft 1,50.112362,-114.0211,Night,WKR7922,Geologist,Slip/Trip,1,False,0,0,True,3.22,57,,25.3,24.7
+RPT10761,2025-06-25 08:31:51.452014,Mill Complex,processing,Conveyor,50.199464,-114.200867,Night,WKR7611,Processing Technician,Other,2,False,0,0,True,5.88,66,,20.9,36.2
+RPT10762,2025-07-20 03:20:51.452014,Mill Complex,processing,Shaft 2,50.229085,-114.196795,Night,WKR4977,Safety Officer,Visibility,1,True,0,0,True,4.93,36,,21.8,56.4
+RPT10763,2025-09-10 03:48:51.452014,North Ridge Mine,underground,Loading Bay,50.114904,-114.014981,Night,WKR8797,Processing Technician,Slip/Trip,1,True,0,0,True,2.31,44,,29.1,4.1
+RPT10764,2025-07-04 06:35:51.452014,Surface Operations,surface,Loading Bay,50.047374,-114.293356,Night,WKR9468,Safety Officer,Ergonomics,3,True,0,0,True,18.69,85,,19.6,46.1
+RPT10765,2025-10-23 23:08:51.452014,Lakeview Shaft,underground,Shaft 2,49.84677,-115.126186,Night,WKR1808,Logistics,Visibility,5,True,0,0,True,341.46,91,,31.3,20.4
+RPT10766,2025-10-08 03:36:51.452014,Lakeview Shaft,underground,Shaft 2,49.826169,-115.120846,Night,WKR8866,Operator,Equipment Interference,2,True,0,0,True,3.32,42,EQ111,32.2,-23.2
+RPT10767,2025-06-18 20:44:51.452014,North Ridge Mine,underground,Loading Bay,50.102671,-114.011583,Day,WKR7740,Operator,Environmental,3,True,0,0,True,21.42,30,,33.2,2.1
+RPT10768,2025-07-15 04:47:51.452014,Mill Complex,processing,Loading Bay,50.186148,-114.20423,Night,WKR9413,Operator,Ergonomics,2,False,0,0,True,6.09,83,,20.6,26.2
+RPT10769,2025-07-26 01:50:51.452014,Lakeview Shaft,underground,Surface Pit,49.83637,-115.099469,Night,WKR5631,Safety Officer,Ground Instability,3,True,0,0,True,46.31,78,,31.7,-15.8
+RPT10770,2025-07-03 10:40:51.452014,Surface Operations,surface,Conveyor,50.067424,-114.301436,Night,WKR4333,Maintenance,Slip/Trip,1,True,1,0,True,3.28,64,,24.9,38.1
+RPT10771,2025-07-08 16:09:51.452014,Mill Complex,processing,Crusher,50.199284,-114.208871,Day,WKR5699,Maintenance,Slip/Trip,2,True,1,0,False,,58,,26.3,37.1
+RPT10772,2025-06-30 11:49:51.452014,Lakeview Shaft,underground,Shaft 1,49.848144,-115.107834,Night,WKR4118,Maintenance,Slip/Trip,1,True,1,0,True,2.27,44,,36.2,-19.3
+RPT10773,2025-10-18 22:38:51.452014,Surface Operations,surface,Crusher,50.046195,-114.304533,Night,WKR6636,Safety Officer,Other,1,True,0,0,True,4.34,50,,19.1,58.5
+RPT10774,2025-10-09 04:05:51.452014,Mill Complex,processing,Maintenance Bay,50.197879,-114.221231,Night,WKR8538,Operator,Environmental,2,False,0,0,True,13.17,84,,20.6,7.5
+RPT10775,2025-07-04 22:56:51.452014,North Ridge Mine,underground,Maintenance Bay,50.109743,-114.002941,Day,WKR1704,Supervisor,Environmental,2,True,1,0,False,,65,,29.6,3.2
+RPT10776,2025-10-29 05:40:51.452014,Mill Complex,processing,Loading Bay,50.210137,-114.207722,Day,WKR5986,Operator,Visibility,2,True,0,0,True,4.56,51,,18.3,48.1
+RPT10777,2025-07-19 00:54:51.452014,Lakeview Shaft,underground,Shaft 2,49.846155,-115.12609,Day,WKR9176,Operator,Slip/Trip,4,True,0,0,True,128.7,60,,30.1,6.2
+RPT10778,2025-10-30 15:34:51.452014,Mill Complex,processing,Shaft 2,50.199304,-114.200523,Day,WKR6184,Logistics,Equipment Interference,1,True,0,0,True,11.57,37,EQ591,25.0,30.6
+RPT10779,2025-10-31 06:29:51.452014,Mill Complex,processing,Shaft 1,50.207402,-114.189515,Evening,WKR7921,Operator,Ground Instability,3,True,0,0,False,,64,,19.4,45.6
+RPT10780,2025-10-24 14:24:51.452014,Lakeview Shaft,underground,Surface Pit,49.845212,-115.137884,Day,WKR3143,Maintenance,Visibility,1,False,1,0,True,3.44,44,,24.8,22.8
+RPT10781,2025-07-27 21:07:51.452014,Surface Operations,surface,Loading Bay,50.022988,-114.308642,Day,WKR9969,Operator,Equipment Interference,3,False,0,0,True,24.19,94,EQ904,14.1,45.4
+RPT10782,2025-07-30 19:13:51.452014,Surface Operations,surface,Surface Pit,50.052474,-114.303375,Day,WKR6702,Logistics,Other,3,True,0,0,False,,49,,20.8,90.5
+RPT10783,2025-06-16 06:11:51.452014,Lakeview Shaft,underground,Surface Pit,49.85801,-115.109403,Evening,WKR2890,Processing Technician,Other,4,True,0,0,True,38.75,80,,30.1,32.7
+RPT10784,2025-08-20 20:18:51.452014,Surface Operations,surface,Maintenance Bay,50.055089,-114.298769,Day,WKR8728,Operator,Other,2,True,0,0,True,3.47,74,,24.1,38.5
+RPT10785,2025-07-04 23:26:51.452014,Mill Complex,processing,Conveyor,50.198128,-114.200616,Day,WKR2569,Operator,Environmental,3,True,0,0,True,23.02,67,,24.7,57.9
+RPT10786,2025-11-02 05:01:51.452014,North Ridge Mine,underground,Maintenance Bay,50.112532,-114.014881,Night,WKR6300,Geologist,Equipment Interference,2,True,1,0,True,11.17,67,EQ542,24.1,19.2
+RPT10787,2025-08-06 21:33:51.452014,Surface Operations,surface,Mill Floor,50.072309,-114.303877,Day,WKR2772,Operator,Ergonomics,2,True,0,0,True,6.44,47,,26.3,40.3
+RPT10788,2025-06-13 13:58:51.452014,North Ridge Mine,underground,Conveyor,50.124564,-114.018526,Night,WKR5342,Operator,Ground Instability,5,True,0,0,True,158.97,86,,26.8,20.1
+RPT10789,2025-10-16 05:44:51.452014,Lakeview Shaft,underground,Loading Bay,49.862264,-115.130895,Night,WKR7673,Engineer,Other,2,True,1,0,True,9.22,39,,28.3,45.7
+RPT10790,2025-10-03 00:42:51.452014,North Ridge Mine,underground,Surface Pit,50.113621,-114.008775,Day,WKR7409,Operator,Slip/Trip,2,True,0,0,False,,22,,28.0,22.8
+RPT10791,2025-06-01 12:48:51.452014,Surface Operations,surface,Conveyor,50.03918,-114.309674,Day,WKR1380,Operator,Environmental,2,True,0,0,True,6.25,68,,25.2,58.3
+RPT10792,2025-07-21 23:18:51.452014,Mill Complex,processing,Conveyor,50.19368,-114.213214,Evening,WKR4343,Supervisor,Slip/Trip,1,False,0,0,True,2.64,71,,17.5,73.2
+RPT10793,2025-06-08 17:59:51.452014,North Ridge Mine,underground,Conveyor,50.121716,-114.013377,Night,WKR3061,Logistics,Environmental,1,True,0,0,True,3.8,32,,28.7,14.9
+RPT10794,2025-09-01 07:01:51.452014,North Ridge Mine,underground,Shaft 1,50.113691,-114.031668,Day,WKR3290,Operator,Visibility,1,False,0,0,True,2.27,50,,28.7,21.0
+RPT10795,2025-06-14 04:29:51.452014,Lakeview Shaft,underground,Crusher,49.850172,-115.126119,Evening,WKR6663,Safety Officer,Slip/Trip,2,True,0,0,False,,59,,25.5,13.0
+RPT10796,2025-08-19 03:40:51.452014,Mill Complex,processing,Loading Bay,50.180918,-114.189289,Evening,WKR5173,Safety Officer,Slip/Trip,1,True,0,0,True,3.34,63,,20.3,31.7
+RPT10797,2025-07-23 04:58:51.452014,Mill Complex,processing,Shaft 2,50.193092,-114.18437,Night,WKR2676,Engineer,Other,3,False,0,0,True,11.25,71,,29.3,21.2
+RPT10798,2025-08-22 19:40:51.452014,Mill Complex,processing,Shaft 1,50.175763,-114.210846,Night,WKR6661,Operator,Ground Instability,1,True,0,0,True,3.85,52,,28.0,46.5
+RPT10799,2025-07-28 09:51:51.452014,North Ridge Mine,underground,Maintenance Bay,50.139825,-114.030671,Day,WKR7759,Processing Technician,Slip/Trip,1,True,1,0,True,1.26,28,,34.5,-3.2
+RPT10800,2025-08-27 19:29:51.452014,Lakeview Shaft,underground,Surface Pit,49.838564,-115.129762,Day,WKR9975,Engineer,Slip/Trip,4,True,0,0,True,66.1,69,,28.6,0.8
+RPT10801,2025-11-07 12:35:51.452014,Mill Complex,processing,Shaft 2,50.216843,-114.184159,Evening,WKR4093,Maintenance,Other,1,True,0,0,True,5.25,60,,24.4,74.4
+RPT10802,2025-10-24 15:57:51.452014,Lakeview Shaft,underground,Conveyor,49.834873,-115.10667,Day,WKR5234,Operator,Other,5,True,0,0,True,175.46,92,,28.4,-13.5
+RPT10803,2025-11-15 07:37:51.452014,Mill Complex,processing,Crusher,50.212958,-114.208395,Day,WKR2837,Processing Technician,Environmental,5,True,0,0,False,,100,,20.2,61.6
+RPT10804,2025-06-14 11:37:51.452014,Surface Operations,surface,Shaft 1,50.047845,-114.297498,Day,WKR3220,Operator,Slip/Trip,1,True,1,0,True,3.82,24,,27.5,37.2
+RPT10805,2025-09-06 10:30:51.452014,North Ridge Mine,underground,Maintenance Bay,50.131652,-114.006337,Day,WKR6328,Processing Technician,Equipment Interference,3,True,0,0,False,,59,EQ678,28.5,6.6
+RPT10806,2025-10-24 08:12:51.452014,Mill Complex,processing,Mill Floor,50.20815,-114.182216,Day,WKR4027,Operator,Slip/Trip,2,True,0,0,False,,46,,17.5,75.5
+RPT10807,2025-08-22 20:50:51.452014,Lakeview Shaft,underground,Shaft 1,49.830168,-115.135413,Day,WKR3071,Operator,Environmental,1,True,0,0,False,,47,,33.0,-11.8
+RPT10808,2025-10-09 12:39:51.452014,Surface Operations,surface,Maintenance Bay,50.060684,-114.292593,Day,WKR2503,Safety Officer,Other,5,False,0,1,False,,100,,26.4,34.7
+RPT10809,2025-10-14 08:06:51.452014,Lakeview Shaft,underground,Crusher,49.839066,-115.135229,Day,WKR7428,Operator,Slip/Trip,1,True,0,0,False,,39,,27.7,4.6
+RPT10810,2025-09-05 13:23:51.452014,Lakeview Shaft,underground,Loading Bay,49.832905,-115.125163,Night,WKR1577,Engineer,Electrical,2,True,0,0,True,5.81,75,EQ839,38.7,6.7
+RPT10811,2025-08-01 19:21:51.452014,Lakeview Shaft,underground,Loading Bay,49.845074,-115.1246,Evening,WKR7578,Processing Technician,Visibility,3,True,0,0,True,29.64,72,,32.2,3.7
+RPT10812,2025-07-28 10:16:51.452014,Surface Operations,surface,Loading Bay,50.063802,-114.302331,Day,WKR1023,Logistics,Visibility,3,True,0,0,False,,67,,18.9,39.2
+RPT10813,2025-11-06 08:40:51.452014,North Ridge Mine,underground,Surface Pit,50.120608,-114.010107,Day,WKR7779,Operator,Equipment Interference,1,False,1,0,True,8.65,64,EQ730,33.6,-2.9
+RPT10814,2025-09-12 20:26:51.452014,North Ridge Mine,underground,Maintenance Bay,50.108013,-114.031998,Day,WKR9628,Operator,Environmental,2,True,0,0,True,5.56,53,,26.5,11.7
+RPT10815,2025-09-29 06:33:51.452014,North Ridge Mine,underground,Loading Bay,50.113827,-114.030464,Day,WKR8310,Supervisor,Ground Instability,2,True,0,0,False,,62,,32.6,4.9
+RPT10816,2025-11-02 20:07:51.452014,Mill Complex,processing,Crusher,50.173285,-114.198531,Day,WKR1576,Engineer,Equipment Interference,2,True,1,0,True,11.59,60,EQ704,19.7,53.8
+RPT10817,2025-09-24 06:58:51.452014,North Ridge Mine,underground,Shaft 2,50.131781,-114.024813,Evening,WKR4024,Logistics,Slip/Trip,2,True,0,0,False,,68,,31.2,27.0
+RPT10818,2025-10-01 19:04:51.452014,Mill Complex,processing,Surface Pit,50.216,-114.192932,Day,WKR2353,Maintenance,Fire/Explosion,5,False,0,0,True,167.12,98,EQ513,19.5,55.6
+RPT10819,2025-06-13 20:18:51.452014,North Ridge Mine,underground,Conveyor,50.123598,-114.024271,Day,WKR4347,Safety Officer,Electrical,2,True,0,0,True,10.93,40,EQ394,32.5,13.3
+RPT10820,2025-06-10 08:32:51.452014,Lakeview Shaft,underground,Surface Pit,49.842029,-115.13181,Night,WKR8246,Supervisor,Ground Instability,3,True,0,0,True,34.11,69,,32.1,3.0
+RPT10821,2025-09-14 12:57:51.452014,Lakeview Shaft,underground,Mill Floor,49.852427,-115.109868,Day,WKR5229,Logistics,Environmental,2,True,0,0,True,13.07,65,,29.8,-4.1
+RPT10822,2025-09-08 13:38:51.452014,North Ridge Mine,underground,Surface Pit,50.115409,-114.01793,Day,WKR3521,Operator,Equipment Interference,2,False,0,0,True,9.69,75,EQ531,27.7,-8.4
+RPT10823,2025-07-21 05:32:51.452014,North Ridge Mine,underground,Maintenance Bay,50.101155,-114.022546,Evening,WKR8574,Operator,Electrical,3,True,0,0,True,63.17,73,EQ673,32.2,-9.3
+RPT10824,2025-07-22 10:03:51.452014,North Ridge Mine,underground,Mill Floor,50.10743,-114.009612,Night,WKR9227,Supervisor,Equipment Interference,2,True,0,0,True,6.05,52,EQ230,33.7,-6.9
+RPT10825,2025-09-28 14:34:51.452014,North Ridge Mine,underground,Shaft 1,50.142577,-114.021843,Evening,WKR1860,Operator,Ergonomics,5,True,0,0,False,,68,,35.2,-21.9
+RPT10826,2025-10-27 07:56:51.452014,North Ridge Mine,underground,Conveyor,50.116972,-114.024562,Day,WKR4126,Operator,Chemical,1,True,1,0,True,4.98,38,,29.0,-7.6
+RPT10827,2025-11-08 02:47:51.452014,Mill Complex,processing,Loading Bay,50.201751,-114.209833,Evening,WKR1049,Safety Officer,Environmental,2,True,0,0,True,9.21,61,,25.8,37.2
+RPT10828,2025-08-04 04:50:51.452014,Surface Operations,surface,Shaft 2,50.048233,-114.305098,Night,WKR1686,Operator,Environmental,3,True,0,0,True,22.19,55,,25.7,72.6
+RPT10829,2025-07-09 11:52:51.452014,Lakeview Shaft,underground,Shaft 1,49.861724,-115.123375,Day,WKR1940,Maintenance,Visibility,1,True,0,0,True,5.34,36,,32.5,40.3
+RPT10830,2025-11-11 09:17:51.452014,Surface Operations,surface,Shaft 2,50.030388,-114.324119,Evening,WKR4368,Engineer,Ground Instability,1,True,1,0,False,,39,,23.8,35.6
+RPT10831,2025-11-11 19:03:51.452014,Mill Complex,processing,Maintenance Bay,50.193375,-114.201878,Evening,WKR6082,Supervisor,Slip/Trip,3,True,0,0,True,14.76,62,,23.1,32.1
+RPT10832,2025-07-25 12:29:51.452014,Lakeview Shaft,underground,Crusher,49.864607,-115.126728,Evening,WKR8274,Supervisor,Slip/Trip,1,False,0,0,True,2.99,60,,19.7,-2.0
+RPT10833,2025-06-30 05:47:51.452014,Mill Complex,processing,Mill Floor,50.189777,-114.190468,Evening,WKR1827,Supervisor,Ground Instability,1,True,0,0,False,,49,,19.6,43.1
+RPT10834,2025-09-03 03:12:51.452014,Mill Complex,processing,Surface Pit,50.190573,-114.192892,Night,WKR3040,Engineer,Equipment Interference,3,False,0,0,True,10.73,86,EQ177,20.1,39.8
+RPT10835,2025-08-12 12:22:51.452014,Lakeview Shaft,underground,Conveyor,49.8568,-115.114845,Evening,WKR8637,Safety Officer,Slip/Trip,2,True,0,0,True,25.87,64,,32.5,37.3
+RPT10836,2025-06-01 03:53:51.452014,North Ridge Mine,underground,Loading Bay,50.102231,-114.0129,Day,WKR3102,Logistics,Slip/Trip,3,True,0,0,True,41.93,47,,33.9,-5.9
+RPT10837,2025-06-21 11:29:51.452014,Mill Complex,processing,Mill Floor,50.200551,-114.194159,Day,WKR9716,Operator,Equipment Interference,2,True,0,0,False,,72,EQ924,24.6,17.9
+RPT10838,2025-05-28 14:30:51.452014,Lakeview Shaft,underground,Shaft 2,49.852665,-115.111499,Day,WKR8799,Logistics,Other,1,True,0,0,False,,46,,31.2,-5.1
+RPT10839,2025-11-22 16:44:51.452014,Lakeview Shaft,underground,Shaft 1,49.836222,-115.125433,Night,WKR8704,Safety Officer,Other,4,False,0,0,True,32.93,98,,24.2,6.0
+RPT10840,2025-06-27 07:40:51.452014,Mill Complex,processing,Surface Pit,50.196209,-114.210655,Day,WKR6654,Maintenance,Other,1,True,0,0,True,8.35,55,,22.0,32.3
+RPT10841,2025-07-27 23:30:51.452014,North Ridge Mine,underground,Crusher,50.139179,-114.034897,Day,WKR6433,Maintenance,Electrical,1,True,0,0,True,4.62,52,EQ205,34.2,22.9
+RPT10842,2025-06-10 11:25:51.452014,Lakeview Shaft,underground,Shaft 2,49.857103,-115.117224,Day,WKR1767,Geologist,Other,1,True,1,0,False,,36,,28.3,29.8
+RPT10843,2025-07-25 23:39:51.452014,North Ridge Mine,underground,Surface Pit,50.119551,-114.030025,Evening,WKR3849,Safety Officer,Equipment Interference,2,True,0,0,True,5.63,49,EQ509,24.9,4.9
+RPT10844,2025-09-17 07:21:51.452014,Mill Complex,processing,Crusher,50.21933,-114.184245,Night,WKR1833,Operator,Slip/Trip,5,False,0,0,True,264.12,100,,23.2,54.0
+RPT10845,2025-07-07 06:11:51.452014,Surface Operations,surface,Mill Floor,50.039977,-114.299557,Night,WKR3806,Operator,Environmental,4,True,0,0,True,290.2,85,,17.1,44.0
+RPT10846,2025-11-12 04:08:51.452014,Surface Operations,surface,Shaft 2,50.052518,-114.301781,Day,WKR4683,Engineer,Visibility,1,True,0,0,True,1.92,42,,24.6,63.3
+RPT10847,2025-11-02 18:16:51.452014,Surface Operations,surface,Crusher,50.035457,-114.306867,Night,WKR2604,Processing Technician,Fire/Explosion,5,False,0,0,True,366.46,96,EQ363,21.4,61.9
+RPT10848,2025-10-11 03:27:51.452014,Surface Operations,surface,Conveyor,50.06045,-114.321435,Day,WKR8562,Operator,Ergonomics,3,True,0,0,True,96.85,82,,22.2,35.1
+RPT10849,2025-11-15 17:39:51.452014,Mill Complex,processing,Crusher,50.191633,-114.199525,Day,WKR8643,Operator,Visibility,1,True,0,0,True,5.75,47,,24.7,30.5
+RPT10850,2025-09-17 21:23:51.452014,Surface Operations,surface,Crusher,50.032046,-114.301172,Night,WKR2331,Operator,Ground Instability,4,True,0,0,True,44.66,80,,11.7,52.2
+RPT10851,2025-06-14 00:03:51.452014,Mill Complex,processing,Loading Bay,50.199379,-114.193011,Day,WKR1879,Supervisor,Electrical,3,False,0,0,True,12.18,76,EQ852,23.0,71.2
+RPT10852,2025-10-28 17:02:51.452014,North Ridge Mine,underground,Shaft 1,50.112255,-114.031173,Day,WKR8290,Maintenance,Ground Instability,2,False,1,0,True,4.55,66,,31.1,-4.4
+RPT10853,2025-06-21 02:55:51.452014,Surface Operations,surface,Loading Bay,50.036084,-114.329561,Night,WKR1154,Engineer,Ergonomics,2,True,0,0,False,,79,,24.6,70.9
+RPT10854,2025-07-10 08:06:51.452014,Lakeview Shaft,underground,Crusher,49.861652,-115.10859,Day,WKR7419,Processing Technician,Slip/Trip,1,True,0,0,True,3.87,37,,28.2,4.9
+RPT10855,2025-08-11 11:07:51.452014,Mill Complex,processing,Maintenance Bay,50.219128,-114.204082,Night,WKR2800,Maintenance,Slip/Trip,3,True,0,0,True,14.43,74,,22.8,78.1
+RPT10856,2025-09-11 08:02:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.836052,-115.115991,Day,WKR6859,Safety Officer,Slip/Trip,3,True,0,0,True,11.84,83,,30.1,19.7
+RPT10857,2025-10-25 17:13:51.452014,Surface Operations,surface,Loading Bay,50.032509,-114.307672,Day,WKR5325,Processing Technician,Other,2,True,0,0,True,4.13,63,,18.7,45.2
+RPT10858,2025-06-17 06:54:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.864129,-115.113945,Day,WKR9762,Processing Technician,Ground Instability,1,True,0,0,True,2.23,42,,27.3,17.9
+RPT10859,2025-08-24 04:00:51.452014,Mill Complex,processing,Loading Bay,50.212136,-114.202477,Day,WKR2046,Safety Officer,Equipment Interference,2,True,1,0,True,7.69,54,EQ429,26.2,49.8
+RPT10860,2025-11-18 03:05:51.452014,Surface Operations,surface,Surface Pit,50.065577,-114.321849,Day,WKR4607,Supervisor,Slip/Trip,4,True,0,0,True,35.53,64,,23.8,74.2
+RPT10861,2025-07-10 06:22:51.452014,Surface Operations,surface,Shaft 2,50.055615,-114.315237,Day,WKR6375,Processing Technician,Equipment Interference,1,True,0,0,True,1.87,52,EQ932,29.0,47.1
+RPT10862,2025-07-07 00:15:51.452014,Lakeview Shaft,underground,Mill Floor,49.83679,-115.130484,Night,WKR5570,Safety Officer,Equipment Interference,3,True,0,0,True,32.18,66,EQ149,33.5,7.2
+RPT10863,2025-07-04 21:55:51.452014,North Ridge Mine,underground,Shaft 2,50.11426,-114.014207,Day,WKR9492,Supervisor,Equipment Interference,1,True,1,0,True,3.12,31,EQ576,26.8,33.1
+RPT10864,2025-06-07 09:12:51.452014,Mill Complex,processing,Mill Floor,50.208674,-114.188859,Day,WKR2046,Operator,Other,4,True,0,0,True,140.42,58,,18.6,41.5
+RPT10865,2025-06-07 04:46:51.452014,North Ridge Mine,underground,Crusher,50.117024,-114.011352,Day,WKR6744,Processing Technician,Ground Instability,2,True,0,0,True,17.72,76,,29.9,34.7
+RPT10866,2025-06-20 08:39:51.452014,Lakeview Shaft,underground,Mill Floor,49.839076,-115.125342,Evening,WKR6507,Operator,Other,2,True,1,0,True,19.83,57,,36.9,-14.5
+RPT10867,2025-10-14 22:21:51.452014,North Ridge Mine,underground,Conveyor,50.097104,-114.004425,Day,WKR3501,Operator,Fire/Explosion,1,True,0,0,True,4.09,74,EQ236,36.5,15.4
+RPT10868,2025-06-14 03:47:51.452014,Lakeview Shaft,underground,Surface Pit,49.835681,-115.123473,Night,WKR5107,Geologist,Visibility,1,False,0,0,True,2.66,66,,32.3,7.5
+RPT10869,2025-11-17 21:08:51.452014,Mill Complex,processing,Mill Floor,50.199904,-114.203268,Evening,WKR5489,Safety Officer,Fire/Explosion,4,True,0,0,True,28.34,100,EQ364,24.0,78.0
+RPT10870,2025-10-17 15:03:51.452014,Surface Operations,surface,Maintenance Bay,50.05574,-114.295065,Evening,WKR2672,Logistics,Equipment Interference,1,False,1,0,True,1.75,42,EQ596,23.8,58.7
+RPT10871,2025-10-29 23:06:51.452014,Surface Operations,surface,Mill Floor,50.047443,-114.296528,Night,WKR2078,Engineer,Other,3,True,0,0,True,22.56,68,,29.0,48.1
+RPT10872,2025-08-25 19:50:51.452014,North Ridge Mine,underground,Loading Bay,50.119983,-114.016704,Evening,WKR7946,Processing Technician,Equipment Interference,5,True,0,0,True,118.3,90,EQ904,30.2,-22.0
+RPT10873,2025-08-22 18:07:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.853921,-115.119804,Day,WKR7138,Operator,Chemical,5,True,0,0,True,47.07,88,,28.3,11.8
+RPT10874,2025-07-12 04:14:51.452014,Mill Complex,processing,Mill Floor,50.195936,-114.200656,Night,WKR3996,Safety Officer,Environmental,3,True,0,0,True,56.73,88,,22.3,26.4
+RPT10875,2025-06-26 05:10:51.452014,Mill Complex,processing,Loading Bay,50.207743,-114.183259,Day,WKR9276,Engineer,Electrical,1,True,0,0,True,4.41,33,EQ132,25.2,35.0
+RPT10876,2025-09-30 09:08:51.452014,North Ridge Mine,underground,Maintenance Bay,50.098192,-114.013735,Day,WKR1006,Geologist,Other,2,True,1,0,True,1.61,61,,37.5,9.0
+RPT10877,2025-07-27 10:17:51.452014,Mill Complex,processing,Shaft 2,50.216994,-114.19783,Evening,WKR5320,Processing Technician,Slip/Trip,3,True,0,0,True,13.58,82,,24.1,47.3
+RPT10878,2025-11-15 04:36:51.452014,Surface Operations,surface,Surface Pit,50.037989,-114.300684,Day,WKR7516,Operator,Slip/Trip,3,True,0,0,True,29.37,77,,25.2,51.2
+RPT10879,2025-10-01 08:40:51.452014,Lakeview Shaft,underground,Shaft 2,49.847884,-115.131032,Night,WKR2140,Safety Officer,Fire/Explosion,4,True,0,0,True,39.82,74,EQ433,31.0,11.3
+RPT10880,2025-10-26 09:50:51.452014,Surface Operations,surface,Surface Pit,50.030314,-114.282549,Day,WKR7203,Operator,Fire/Explosion,1,True,0,0,False,,51,EQ603,18.7,42.2
+RPT10881,2025-11-05 11:08:51.452014,Surface Operations,surface,Shaft 1,50.033782,-114.298168,Day,WKR2525,Maintenance,Ground Instability,2,True,1,0,True,6.61,55,,15.3,40.3
+RPT10882,2025-09-29 11:22:51.452014,Surface Operations,surface,Surface Pit,50.069239,-114.304907,Night,WKR6195,Operator,Visibility,2,True,1,0,True,12.73,60,,19.1,25.8
+RPT10883,2025-07-16 06:27:51.452014,North Ridge Mine,underground,Maintenance Bay,50.095779,-114.003889,Evening,WKR2819,Operator,Other,1,True,0,0,True,4.56,43,,36.4,10.8
+RPT10884,2025-08-09 19:46:51.452014,Surface Operations,surface,Mill Floor,50.035479,-114.305286,Night,WKR6968,Operator,Equipment Interference,3,True,0,0,True,27.15,55,EQ373,29.6,84.0
+RPT10885,2025-06-08 06:49:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.854996,-115.11407,Evening,WKR1747,Operator,Chemical,1,False,1,0,True,14.39,39,,27.1,22.6
+RPT10886,2025-08-22 21:14:51.452014,Lakeview Shaft,underground,Loading Bay,49.845888,-115.133174,Night,WKR8003,Engineer,Environmental,2,True,0,0,True,18.66,38,,31.5,-4.0
+RPT10887,2025-06-10 04:42:51.452014,Lakeview Shaft,underground,Crusher,49.847157,-115.113171,Night,WKR7486,Operator,Chemical,2,True,0,0,True,3.7,59,,34.3,31.3
+RPT10888,2025-07-09 14:30:51.452014,North Ridge Mine,underground,Conveyor,50.12993,-114.014552,Night,WKR8278,Operator,Visibility,4,True,0,1,True,118.76,80,,32.5,2.2
+RPT10889,2025-06-01 02:44:51.452014,Mill Complex,processing,Mill Floor,50.196228,-114.204923,Day,WKR5356,Engineer,Electrical,4,True,0,0,False,,70,EQ363,23.8,39.8
+RPT10890,2025-11-16 08:34:51.452014,Mill Complex,processing,Surface Pit,50.193851,-114.203335,Night,WKR2213,Operator,Slip/Trip,3,True,0,0,True,15.46,53,,29.4,63.5
+RPT10891,2025-07-17 04:12:51.452014,North Ridge Mine,underground,Crusher,50.126805,-114.012981,Evening,WKR2252,Processing Technician,Environmental,3,True,0,0,True,39.91,70,,27.4,12.7
+RPT10892,2025-07-28 01:54:51.452014,North Ridge Mine,underground,Conveyor,50.111696,-114.032527,Day,WKR7056,Engineer,Other,1,True,0,0,True,3.86,55,,31.3,-5.5
+RPT10893,2025-09-26 13:52:51.452014,Lakeview Shaft,underground,Crusher,49.845073,-115.125469,Day,WKR1809,Operator,Slip/Trip,2,True,1,0,True,15.91,82,,34.4,5.5
+RPT10894,2025-06-04 08:07:51.452014,North Ridge Mine,underground,Mill Floor,50.103679,-114.030949,Day,WKR5686,Supervisor,Other,3,True,0,0,False,,67,,26.6,10.2
+RPT10895,2025-09-27 06:32:51.452014,North Ridge Mine,underground,Conveyor,50.126788,-114.010271,Evening,WKR7591,Operator,Ergonomics,3,True,0,0,True,11.25,71,,36.7,-11.2
+RPT10896,2025-08-26 21:24:51.452014,Lakeview Shaft,underground,Surface Pit,49.843412,-115.130651,Evening,WKR4888,Engineer,Slip/Trip,3,False,0,0,False,,96,,29.0,-2.9
+RPT10897,2025-09-25 09:26:51.452014,Mill Complex,processing,Maintenance Bay,50.207945,-114.182206,Night,WKR6635,Processing Technician,Other,2,True,0,0,False,,71,,12.2,19.0
+RPT10898,2025-10-06 19:56:51.452014,North Ridge Mine,underground,Surface Pit,50.107331,-114.015572,Night,WKR6694,Safety Officer,Electrical,1,True,1,0,True,2.59,55,EQ384,27.7,-2.3
+RPT10899,2025-09-20 10:04:51.452014,North Ridge Mine,underground,Crusher,50.115438,-114.004023,Evening,WKR1189,Operator,Electrical,2,True,1,0,True,6.75,42,EQ805,30.0,16.0
+RPT10900,2025-06-20 13:44:51.452014,Surface Operations,surface,Mill Floor,50.046929,-114.299238,Day,WKR6854,Engineer,Electrical,4,True,0,0,True,95.22,67,EQ545,20.9,45.4
+RPT10901,2025-11-11 03:54:51.452014,North Ridge Mine,underground,Loading Bay,50.131159,-113.999529,Day,WKR3800,Geologist,Environmental,2,True,0,0,False,,70,,31.1,26.4
+RPT10902,2025-05-30 15:41:51.452014,Mill Complex,processing,Shaft 2,50.213676,-114.210083,Day,WKR6135,Maintenance,Environmental,2,True,0,0,True,23.82,39,,13.7,16.5
+RPT10903,2025-09-21 09:45:51.452014,North Ridge Mine,underground,Shaft 2,50.119419,-114.026873,Night,WKR7009,Safety Officer,Other,4,True,0,0,True,59.94,53,,29.2,-2.4
+RPT10904,2025-09-16 14:10:51.452014,North Ridge Mine,underground,Loading Bay,50.111447,-114.019965,Day,WKR7507,Safety Officer,Equipment Interference,1,True,0,0,False,,41,EQ531,34.3,-18.2
+RPT10905,2025-11-07 20:13:51.452014,North Ridge Mine,underground,Shaft 1,50.117997,-114.004265,Evening,WKR1154,Supervisor,Slip/Trip,2,True,1,0,False,,54,,27.8,39.3
+RPT10906,2025-07-20 11:57:51.452014,North Ridge Mine,underground,Crusher,50.098763,-114.014779,Day,WKR3750,Safety Officer,Other,1,True,1,0,True,4.7,27,,28.5,-2.5
+RPT10907,2025-09-19 08:46:51.452014,Mill Complex,processing,Maintenance Bay,50.185786,-114.196206,Day,WKR7017,Operator,Environmental,3,False,0,0,True,22.64,92,,25.1,30.8
+RPT10908,2025-08-01 10:01:51.452014,Lakeview Shaft,underground,Shaft 2,49.851148,-115.129574,Day,WKR7838,Supervisor,Other,3,True,0,0,True,14.49,66,,33.9,13.3
+RPT10909,2025-08-04 08:37:51.452014,North Ridge Mine,underground,Mill Floor,50.112226,-114.019881,Night,WKR6638,Logistics,Other,4,True,0,1,True,137.71,100,,32.6,4.6
+RPT10910,2025-07-23 19:50:51.452014,Mill Complex,processing,Conveyor,50.195286,-114.216764,Day,WKR3732,Logistics,Equipment Interference,2,True,0,0,True,3.95,55,EQ157,22.3,19.5
+RPT10911,2025-07-27 20:31:51.452014,North Ridge Mine,underground,Loading Bay,50.132228,-114.007718,Night,WKR7333,Processing Technician,Equipment Interference,2,True,0,0,True,7.47,60,EQ931,36.3,7.6
+RPT10912,2025-11-22 20:42:51.452014,Mill Complex,processing,Conveyor,50.189471,-114.214789,Day,WKR7796,Operator,Chemical,1,False,1,0,False,,49,,31.6,50.9
+RPT10913,2025-11-13 07:27:51.452014,North Ridge Mine,underground,Maintenance Bay,50.119588,-113.997176,Evening,WKR2522,Maintenance,Other,1,True,0,0,False,,63,,23.1,4.4
+RPT10914,2025-07-23 00:13:51.452014,North Ridge Mine,underground,Crusher,50.128554,-114.014543,Night,WKR6639,Processing Technician,Environmental,1,True,0,0,True,4.84,70,,31.6,15.0
+RPT10915,2025-10-19 16:26:51.452014,North Ridge Mine,underground,Crusher,50.117477,-114.019169,Night,WKR7438,Maintenance,Equipment Interference,2,True,1,0,True,32.97,64,EQ720,34.0,3.3
+RPT10916,2025-10-15 15:19:51.452014,Mill Complex,processing,Maintenance Bay,50.189196,-114.192094,Day,WKR2363,Safety Officer,Ground Instability,2,True,0,0,True,10.49,59,,21.9,34.7
+RPT10917,2025-07-08 13:00:51.452014,Surface Operations,surface,Shaft 1,50.054758,-114.299343,Day,WKR1716,Operator,Other,1,True,0,0,True,6.71,22,,17.4,34.4
+RPT10918,2025-05-29 14:12:51.452014,Lakeview Shaft,underground,Crusher,49.852916,-115.11525,Day,WKR2562,Operator,Visibility,1,True,1,0,True,4.68,56,,30.2,9.3
+RPT10919,2025-06-07 09:12:51.452014,Surface Operations,surface,Shaft 2,50.039619,-114.323046,Day,WKR1370,Operator,Visibility,2,True,0,0,True,4.98,57,,18.7,51.4
+RPT10920,2025-11-06 09:18:51.452014,Surface Operations,surface,Shaft 2,50.049444,-114.303844,Evening,WKR6533,Supervisor,Equipment Interference,2,True,1,0,False,,57,EQ129,19.2,65.5
+RPT10921,2025-08-31 08:22:51.452014,Surface Operations,surface,Shaft 2,50.046543,-114.309127,Day,WKR2534,Maintenance,Equipment Interference,3,True,0,0,True,15.21,74,EQ338,26.0,50.5
+RPT10922,2025-11-08 16:03:51.452014,Surface Operations,surface,Shaft 1,50.062551,-114.289675,Day,WKR6743,Operator,Ground Instability,1,True,0,0,True,2.52,28,,19.8,53.4
+RPT10923,2025-09-02 22:17:51.452014,Surface Operations,surface,Loading Bay,50.042974,-114.301823,Night,WKR4093,Logistics,Electrical,4,True,0,0,True,133.03,72,EQ245,21.9,59.3
+RPT10924,2025-06-01 18:20:51.452014,Mill Complex,processing,Mill Floor,50.207437,-114.193842,Night,WKR1703,Operator,Equipment Interference,1,True,0,0,True,2.85,56,EQ262,20.2,60.4
+RPT10925,2025-10-02 14:36:51.452014,North Ridge Mine,underground,Mill Floor,50.117009,-114.024177,Evening,WKR5165,Supervisor,Ergonomics,1,True,0,0,True,6.74,44,,25.9,6.3
+RPT10926,2025-10-21 02:38:51.452014,Surface Operations,surface,Shaft 1,50.068702,-114.298905,Night,WKR9353,Supervisor,Ground Instability,4,False,0,0,False,,100,,14.2,46.6
+RPT10927,2025-08-11 17:34:51.452014,Lakeview Shaft,underground,Conveyor,49.846971,-115.137441,Day,WKR4902,Engineer,Chemical,2,True,0,0,True,3.44,72,,38.2,-1.5
+RPT10928,2025-11-18 18:42:51.452014,Lakeview Shaft,underground,Loading Bay,49.834956,-115.144461,Evening,WKR6336,Safety Officer,Slip/Trip,2,True,1,0,True,6.4,52,,30.4,23.6
+RPT10929,2025-06-12 09:01:51.452014,Lakeview Shaft,underground,Shaft 2,49.829715,-115.116446,Evening,WKR7333,Supervisor,Ergonomics,4,True,0,0,True,43.95,78,,31.4,9.7
+RPT10930,2025-08-20 11:33:51.452014,Lakeview Shaft,underground,Conveyor,49.856912,-115.112194,Night,WKR3970,Processing Technician,Ergonomics,2,True,0,0,True,4.37,42,,23.0,-7.3
+RPT10931,2025-06-02 10:37:51.452014,Mill Complex,processing,Shaft 1,50.205298,-114.192304,Day,WKR6024,Engineer,Environmental,2,True,1,0,True,9.73,62,,24.4,42.2
+RPT10932,2025-07-06 01:14:51.452014,North Ridge Mine,underground,Crusher,50.101357,-114.014155,Day,WKR7164,Supervisor,Visibility,2,True,0,0,False,,51,,22.8,22.8
+RPT10933,2025-07-23 18:58:51.452014,Mill Complex,processing,Loading Bay,50.208642,-114.21939,Night,WKR8988,Engineer,Visibility,4,True,0,0,True,113.04,100,,21.9,36.5
+RPT10934,2025-06-24 04:04:51.452014,North Ridge Mine,underground,Loading Bay,50.117126,-114.014344,Evening,WKR9933,Maintenance,Environmental,3,True,0,0,True,9.2,55,,25.0,4.2
+RPT10935,2025-07-11 20:14:51.452014,Lakeview Shaft,underground,Surface Pit,49.835599,-115.113893,Day,WKR2641,Geologist,Visibility,4,True,0,0,False,,61,,24.9,12.9
+RPT10936,2025-07-31 07:57:51.452014,Mill Complex,processing,Maintenance Bay,50.180487,-114.19313,Day,WKR5020,Logistics,Other,1,True,1,0,True,3.76,49,,21.0,17.9
+RPT10937,2025-11-20 14:18:51.452014,Surface Operations,surface,Loading Bay,50.046714,-114.286607,Day,WKR8627,Maintenance,Ergonomics,2,False,1,0,True,3.69,61,,23.5,56.9
+RPT10938,2025-10-13 03:48:51.452014,Surface Operations,surface,Maintenance Bay,50.042293,-114.293436,Night,WKR3445,Geologist,Ground Instability,3,True,0,0,True,30.76,66,,30.3,38.6
+RPT10939,2025-10-01 18:31:51.452014,Surface Operations,surface,Conveyor,50.04597,-114.303912,Night,WKR3682,Processing Technician,Slip/Trip,1,False,0,0,False,,66,,28.7,50.6
+RPT10940,2025-07-13 08:08:51.452014,Lakeview Shaft,underground,Loading Bay,49.855765,-115.118904,Evening,WKR6041,Maintenance,Chemical,5,True,0,0,False,,100,,35.6,27.8
+RPT10941,2025-06-02 01:00:51.452014,North Ridge Mine,underground,Maintenance Bay,50.11256,-114.008221,Day,WKR3804,Operator,Electrical,2,True,0,0,True,2.87,71,EQ803,31.4,14.5
+RPT10942,2025-10-11 19:27:51.452014,Lakeview Shaft,underground,Surface Pit,49.855306,-115.123975,Day,WKR3454,Maintenance,Visibility,2,True,0,0,True,11.18,7,,28.9,-9.6
+RPT10943,2025-09-08 09:22:51.452014,Mill Complex,processing,Loading Bay,50.17622,-114.190708,Evening,WKR5189,Engineer,Equipment Interference,2,True,1,0,True,12.07,68,EQ474,20.4,53.6
+RPT10944,2025-08-23 09:37:51.452014,Surface Operations,surface,Conveyor,50.056305,-114.307834,Day,WKR9393,Maintenance,Ground Instability,3,True,0,0,True,14.1,77,,24.9,60.7
+RPT10945,2025-07-17 16:01:51.452014,Surface Operations,surface,Shaft 1,50.063963,-114.287376,Day,WKR5498,Operator,Electrical,2,True,1,0,True,17.01,38,EQ877,22.0,71.8
+RPT10946,2025-10-18 23:09:51.452014,North Ridge Mine,underground,Mill Floor,50.105351,-114.022407,Night,WKR2049,Safety Officer,Electrical,1,True,0,0,True,4.62,32,EQ636,29.7,9.6
+RPT10947,2025-09-10 22:44:51.452014,Surface Operations,surface,Shaft 2,50.054247,-114.324882,Night,WKR2085,Supervisor,Slip/Trip,1,True,0,0,False,,47,,21.6,63.4
+RPT10948,2025-10-26 15:55:51.452014,North Ridge Mine,underground,Maintenance Bay,50.112851,-114.009484,Day,WKR3088,Operator,Environmental,3,True,0,0,True,34.32,71,,34.9,23.4
+RPT10949,2025-09-20 03:59:51.452014,Surface Operations,surface,Surface Pit,50.047306,-114.310091,Evening,WKR4850,Maintenance,Visibility,2,True,0,0,True,5.84,49,,24.3,72.4
+RPT10950,2025-07-02 21:48:51.452014,Lakeview Shaft,underground,Mill Floor,49.83712,-115.147853,Evening,WKR4535,Logistics,Slip/Trip,1,True,0,0,True,2.02,22,,30.8,-3.1
+RPT10951,2025-10-07 10:39:51.452014,Mill Complex,processing,Maintenance Bay,50.197178,-114.193647,Day,WKR4594,Operator,Ergonomics,2,True,0,0,True,8.59,39,,19.9,35.9
+RPT10952,2025-08-26 17:40:51.452014,Surface Operations,surface,Conveyor,50.051784,-114.286295,Evening,WKR7554,Operator,Ground Instability,2,False,0,0,True,12.32,62,,24.2,42.2
+RPT10953,2025-06-18 21:04:51.452014,Surface Operations,surface,Crusher,50.056412,-114.308186,Night,WKR1159,Supervisor,Environmental,1,True,1,0,True,1.97,37,,20.2,44.5
+RPT10954,2025-08-24 20:54:51.452014,Lakeview Shaft,underground,Conveyor,49.856617,-115.123958,Day,WKR5519,Operator,Ground Instability,5,True,0,1,True,123.93,82,,29.3,14.6
+RPT10955,2025-09-19 19:25:51.452014,North Ridge Mine,underground,Crusher,50.132255,-114.027316,Day,WKR7699,Operator,Visibility,1,True,0,0,True,3.72,57,,38.6,2.2
+RPT10956,2025-08-23 09:18:51.452014,North Ridge Mine,underground,Surface Pit,50.114701,-114.008582,Night,WKR8623,Safety Officer,Slip/Trip,2,False,0,0,False,,71,,33.9,18.2
+RPT10957,2025-09-19 18:37:51.452014,Mill Complex,processing,Conveyor,50.192509,-114.195457,Evening,WKR1705,Logistics,Visibility,3,True,0,0,False,,63,,19.0,11.7
+RPT10958,2025-08-09 12:30:51.452014,North Ridge Mine,underground,Shaft 1,50.12177,-114.013502,Day,WKR7012,Operator,Slip/Trip,2,True,0,0,True,4.67,55,,24.4,12.4
+RPT10959,2025-07-11 04:54:51.452014,Surface Operations,surface,Conveyor,50.053747,-114.303445,Night,WKR4351,Logistics,Electrical,1,True,1,0,False,,61,EQ260,20.2,48.0
+RPT10960,2025-08-12 17:58:51.452014,Surface Operations,surface,Shaft 2,50.061384,-114.300238,Night,WKR5640,Logistics,Slip/Trip,1,True,0,0,True,3.79,48,,23.0,50.4
+RPT10961,2025-10-13 14:02:51.452014,North Ridge Mine,underground,Maintenance Bay,50.111198,-114.031262,Evening,WKR1343,Maintenance,Equipment Interference,2,True,0,0,False,,45,EQ555,30.0,-3.1
+RPT10962,2025-08-10 13:25:51.452014,Surface Operations,surface,Surface Pit,50.072677,-114.296988,Night,WKR3361,Supervisor,Slip/Trip,2,True,0,0,True,6.94,53,,27.7,60.1
+RPT10963,2025-10-18 21:43:51.452014,Lakeview Shaft,underground,Crusher,49.855564,-115.10988,Day,WKR2065,Maintenance,Equipment Interference,3,True,0,0,False,,74,EQ287,34.9,24.7
+RPT10964,2025-08-08 19:08:51.452014,Lakeview Shaft,underground,Shaft 2,49.844914,-115.114304,Night,WKR7929,Safety Officer,Environmental,5,True,0,0,True,148.92,82,,34.7,15.9
+RPT10965,2025-08-10 20:41:51.452014,Mill Complex,processing,Maintenance Bay,50.18984,-114.224331,Day,WKR3745,Maintenance,Visibility,4,False,0,0,True,118.39,100,,15.9,52.8
+RPT10966,2025-10-22 18:49:51.452014,North Ridge Mine,underground,Crusher,50.109332,-114.026063,Night,WKR9501,Logistics,Visibility,1,True,0,0,True,4.79,46,,32.5,16.0
+RPT10967,2025-06-10 05:21:51.452014,Lakeview Shaft,underground,Crusher,49.839681,-115.125438,Day,WKR7585,Processing Technician,Ergonomics,2,True,0,0,True,22.07,60,,29.0,14.7
+RPT10968,2025-06-29 18:41:51.452014,North Ridge Mine,underground,Crusher,50.107592,-114.028494,Night,WKR9787,Engineer,Equipment Interference,4,True,0,0,True,42.74,74,EQ698,29.4,15.2
+RPT10969,2025-10-16 07:46:51.452014,Surface Operations,surface,Shaft 1,50.042894,-114.293185,Night,WKR9979,Geologist,Ground Instability,2,True,0,0,False,,56,,19.6,64.9
+RPT10970,2025-07-23 19:41:51.452014,Surface Operations,surface,Loading Bay,50.050154,-114.287191,Day,WKR4808,Geologist,Ergonomics,3,True,0,0,True,13.4,74,,16.5,52.5
+RPT10971,2025-08-20 16:30:51.452014,Surface Operations,surface,Shaft 2,50.062487,-114.299949,Day,WKR2687,Maintenance,Environmental,1,True,0,0,True,5.26,42,,18.0,69.3
+RPT10972,2025-07-03 08:48:51.452014,North Ridge Mine,underground,Shaft 1,50.123057,-114.031392,Day,WKR8937,Processing Technician,Visibility,2,True,1,0,True,2.77,45,,29.7,3.1
+RPT10973,2025-07-02 13:54:51.452014,North Ridge Mine,underground,Crusher,50.094402,-114.014809,Night,WKR3836,Maintenance,Visibility,1,False,0,0,True,3.33,40,,30.0,22.6
+RPT10974,2025-11-13 20:03:51.452014,North Ridge Mine,underground,Loading Bay,50.116821,-114.026664,Day,WKR3712,Processing Technician,Ground Instability,3,True,0,0,True,12.38,64,,33.5,9.2
+RPT10975,2025-09-05 12:00:51.452014,Mill Complex,processing,Mill Floor,50.20388,-114.213023,Night,WKR2960,Operator,Visibility,4,True,0,0,True,71.33,86,,24.8,39.7
+RPT10976,2025-10-11 22:18:51.452014,North Ridge Mine,underground,Shaft 1,50.109108,-114.007222,Day,WKR1086,Operator,Other,2,False,0,0,True,10.83,77,,27.0,18.0
+RPT10977,2025-07-25 09:17:51.452014,Mill Complex,processing,Shaft 1,50.203427,-114.204223,Day,WKR2287,Logistics,Ground Instability,1,True,0,0,False,,6,,23.6,43.8
+RPT10978,2025-10-09 05:40:51.452014,Lakeview Shaft,underground,Shaft 1,49.841939,-115.121617,Night,WKR8439,Logistics,Ergonomics,4,False,0,0,False,,100,,29.0,-4.6
+RPT10979,2025-07-28 17:25:51.452014,North Ridge Mine,underground,Surface Pit,50.11224,-114.004756,Evening,WKR9261,Geologist,Ergonomics,1,True,0,0,True,9.03,36,,31.6,8.7
+RPT10980,2025-10-07 08:56:51.452014,Lakeview Shaft,underground,Mill Floor,49.840528,-115.137001,Evening,WKR2756,Geologist,Visibility,2,True,0,0,False,,58,,34.5,16.0
+RPT10981,2025-11-13 00:48:51.452014,Surface Operations,surface,Shaft 1,50.04818,-114.307393,Evening,WKR5301,Maintenance,Slip/Trip,5,True,0,0,True,83.89,74,,29.9,37.5
+RPT10982,2025-09-03 07:19:51.452014,Mill Complex,processing,Conveyor,50.209202,-114.212134,Night,WKR7238,Operator,Slip/Trip,1,True,0,0,True,1.72,29,,21.1,41.8
+RPT10983,2025-09-02 21:18:51.452014,North Ridge Mine,underground,Shaft 1,50.13124,-114.000329,Evening,WKR8215,Engineer,Slip/Trip,2,True,0,0,True,10.2,20,,31.0,20.3
+RPT10984,2025-09-29 12:56:51.452014,North Ridge Mine,underground,Loading Bay,50.112338,-114.016149,Evening,WKR4667,Operator,Environmental,2,True,0,0,True,6.2,56,,29.6,-17.4
+RPT10985,2025-08-13 02:05:51.452014,Mill Complex,processing,Maintenance Bay,50.185223,-114.191921,Night,WKR3220,Engineer,Other,2,True,1,0,True,9.58,50,,20.7,64.0
+RPT10986,2025-10-17 18:46:51.452014,North Ridge Mine,underground,Mill Floor,50.118986,-114.011755,Evening,WKR8528,Operator,Fire/Explosion,2,True,0,0,True,9.33,69,EQ801,34.5,3.1
+RPT10987,2025-06-17 15:33:51.452014,Lakeview Shaft,underground,Mill Floor,49.831775,-115.126588,Night,WKR2140,Operator,Chemical,2,True,0,0,True,11.33,53,,32.1,4.1
+RPT10988,2025-08-06 03:57:51.452014,Surface Operations,surface,Conveyor,50.049559,-114.309909,Day,WKR4300,Processing Technician,Visibility,2,True,0,0,False,,64,,21.9,41.6
+RPT10989,2025-06-03 08:43:51.452014,Lakeview Shaft,underground,Shaft 1,49.849526,-115.140636,Evening,WKR7629,Engineer,Electrical,2,True,0,0,True,20.25,25,EQ989,21.9,20.8
+RPT10990,2025-06-15 09:29:51.452014,Surface Operations,surface,Shaft 2,50.055971,-114.295512,Night,WKR9242,Logistics,Electrical,1,True,0,0,True,4.11,70,EQ686,15.4,69.7
+RPT10991,2025-08-25 08:01:51.452014,Mill Complex,processing,Conveyor,50.202886,-114.189395,Night,WKR4559,Engineer,Slip/Trip,5,True,0,0,True,278.73,84,,25.3,66.5
+RPT10992,2025-10-13 01:13:51.452014,Lakeview Shaft,underground,Loading Bay,49.835619,-115.124617,Day,WKR1189,Operator,Equipment Interference,1,True,0,0,False,,55,EQ991,31.1,9.3
+RPT10993,2025-11-12 22:04:51.452014,Lakeview Shaft,underground,Shaft 1,49.831928,-115.131582,Evening,WKR4907,Safety Officer,Equipment Interference,1,True,1,0,True,1.25,60,EQ660,34.2,-17.5
+RPT10994,2025-11-19 02:45:51.452014,Lakeview Shaft,underground,Maintenance Bay,49.86084,-115.111228,Night,WKR4029,Operator,Slip/Trip,4,True,0,0,False,,67,,21.8,3.9
+RPT10995,2025-11-05 10:20:51.452014,North Ridge Mine,underground,Mill Floor,50.125523,-114.029822,Evening,WKR6952,Logistics,Environmental,1,True,1,0,True,3.22,42,,27.3,21.9
+RPT10996,2025-11-10 20:44:51.452014,Mill Complex,processing,Mill Floor,50.190147,-114.191984,Day,WKR5381,Logistics,Slip/Trip,4,True,0,0,True,66.16,81,,27.5,21.2
+RPT10997,2025-11-04 03:10:51.452014,Surface Operations,surface,Loading Bay,50.043852,-114.278507,Day,WKR6985,Processing Technician,Equipment Interference,5,False,0,0,True,428.08,100,EQ880,23.3,37.1
+RPT10998,2025-08-20 14:17:51.452014,North Ridge Mine,underground,Shaft 2,50.113549,-114.020248,Night,WKR2813,Processing Technician,Environmental,1,True,1,0,True,4.96,46,,29.2,-0.1
+RPT10999,2025-11-18 10:18:51.452014,Mill Complex,processing,Surface Pit,50.198015,-114.199921,Day,WKR8488,Logistics,Ergonomics,1,True,0,0,True,6.76,62,,21.7,24.2
