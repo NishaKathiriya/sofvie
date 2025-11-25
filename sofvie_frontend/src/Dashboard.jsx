@@ -5,6 +5,9 @@ import Filters from "./Filters";
 import ReportForm from "./ReportForm";
 import ReportsTable from "./ReportsTable";
 
+// <-- Add this API constant (keeps local dev via Vite proxy, enables production via env)
+const API = import.meta.env.VITE_API_URL || "";
+
 const KPI = ({label, value}) => (
   <div style={{flex:1, padding:12, borderRadius:8, background:'#fff', boxShadow:'0 1px 6px rgba(0,0,0,0.06)', marginRight:12}}>
     <div style={{fontSize:12, color:'#666'}}>{label}</div>
@@ -27,11 +30,12 @@ export default function Dashboard(){
       if(filters.start) q.set("start_date", filters.start);
       if(filters.end) q.set("end_date", filters.end);
 
-      const kres = await fetch(`/metrics/kpis?${q.toString()}`);
+      // <-- Use API variable here
+      const kres = await fetch(`${API}/metrics/kpis?${q.toString()}`);
       const k = await kres.json();
       setKpis(k);
 
-      const rres = await fetch(`/reports?${q.toString()}`);
+      const rres = await fetch(`${API}/reports?${q.toString()}`);
       const r = await rres.json();
       setReports(r || []);
     } catch(err){
